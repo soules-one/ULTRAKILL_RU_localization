@@ -1,0 +1,1714 @@
+[
+  {
+    "Original": "+",
+    "Replacement": "+"
+  },
+  {
+    "Original": "100",
+    "Replacement": "100"
+  },
+  {
+    "Original": "0-3: DOUBLE DOWN",
+    "Replacement": "0-3: DOUBLE DOWN"
+  },
+  {
+    "Original": "-- TEST --",
+    "Replacement": "-- ТЕСТ --"
+  },
+  {
+    "Original": "TIME:",
+    "Replacement": "ВРЕМЯ:"
+  },
+  {
+    "Original": "0:00.000",
+    "Replacement": "0:00.000"
+  },
+  {
+    "Original": "D",
+    "Replacement": "D"
+  },
+  {
+    "Original": "KILLS:",
+    "Replacement": "УБИЙСТВА:"
+  },
+  {
+    "Original": "0",
+    "Replacement": "0"
+  },
+  {
+    "Original": "STYLE:",
+    "Replacement": "СТИЛЬ:"
+  },
+  {
+    "Original": "+ NO RESTARTS\n+ NO DAMAGE\n",
+    "Replacement": "+ БЕЗ РЕСТАРТОВ\n+ БЕЗ УРОНА\n"
+  },
+  {
+    "Original": "S",
+    "Replacement": "S"
+  },
+  {
+    "Original": "SECRETS:",
+    "Replacement": "СЕКРЕТЫ:"
+  },
+  {
+    "Original": "0 / 5",
+    "Replacement": "0 / 5"
+  },
+  {
+    "Original": "CHALLENGE:",
+    "Replacement": "ИСПЫТАНИЕ:"
+  },
+  {
+    "Original": "KILL ONLY 1 ENEMY",
+    "Replacement": "УБЕЙ ТОЛЬКО ОДНОГО ПРОТИВНИКА"
+  },
+  {
+    "Original": "TOTAL:",
+    "Replacement": "ВСЕГО:"
+  },
+  {
+    "Original": "+0<color=orange>P</color>",
+    "Replacement": "+0<color=orange>P</color>"
+  },
+  {
+    "Original": "",
+    "Replacement": ""
+  },
+  {
+    "Original": "x 1.00",
+    "Replacement": "x 1.00"
+  },
+  {
+    "Original": "MULTIPLIER",
+    "Replacement": "МНОЖИТЕЛЬ"
+  },
+  {
+    "Original": "FRESH WEAPON BONUS",
+    "Replacement": "БОНУС ЗА СМЕНУ ОРУЖИЯ"
+  },
+  {
+    "Original": "MAIN MENU",
+    "Replacement": "ГЛАВНОЕ МЕНЮ"
+  },
+  {
+    "Original": "-- VIOLENT --",
+    "Replacement": "-- ЖЕСТОКО --"
+  },
+  {
+    "Original": "MAP NAME",
+    "Replacement": "НАЗВАНИЕ КАРТЫ"
+  },
+  {
+    "Original": "Upvote",
+    "Replacement": "Upvote"
+  },
+  {
+    "Original": "Downvote",
+    "Replacement": "Downvote"
+  },
+  {
+    "Original": "<color=red><size=72>x3,00</size></color>",
+    "Replacement": "<color=red><size=72>x3,00</size></color>"
+  },
+  {
+    "Original": "A <color=orange>GAME</color> BY ARSI \"<color=orange>HAKITA</color>\" PATALA",
+    "Replacement": "<color=orange>ИГРА</color> АРСИ \"<color=orange>HAKITA</color>\" ПАТАЛЫ"
+  },
+  {
+    "Original": "CREATED WITH THE <color=orange>HELP</color> OF:\n\nSAM <color=orange>BRYAN</color>\nRYAN <color=orange>EVANS</color>\nBIGROCK<color=orange>BMP</color>\nANDREI <color=orange>MISCHENKO</color>\nPI<color=orange>TR</color>\nTONI <color=orange>STIGELL</color>\nF.<color=orange>D.</color>\nJACOB <color=orange>ROY</color>\nMAXIMILIAN <color=orange>OVESSON</color>\n",
+    "Replacement": "СОЗДАНА С <color=orange>ПОМОЩЬЮ</color>:\n\nSAM <color=orange>BRYAN</color>\nRYAN <color=orange>EVANS</color>\nBIGROCK<color=orange>BMP</color>\nANDREI <color=orange>MISCHENKO</color>\nPI<color=orange>TR</color>\nTONI <color=orange>STIGELL</color>\nF.<color=orange>D.</color>\nJACOB <color=orange>ROY</color>\nMAXIMILIAN <color=orange>OVESSON</color>\n"
+  },
+  {
+    "Original": "ULTRA\nKILL",
+    "Replacement": "УЛЬТРА\nKILL"
+  },
+  {
+    "Original": "HEALTH",
+    "Replacement": "ЗДОРОВЬЕ"
+  },
+  {
+    "Original": "/100",
+    "Replacement": "/100"
+  },
+  {
+    "Original": "STAMINA",
+    "Replacement": "ВЫНОСЛИВОСТЬ"
+  },
+  {
+    "Original": "3.00",
+    "Replacement": "3.00"
+  },
+  {
+    "Original": "WEAPON",
+    "Replacement": "ОРУЖИЕ"
+  },
+  {
+    "Original": "ARM",
+    "Replacement": "РУКА"
+  },
+  {
+    "Original": "CHARGE",
+    "Replacement": "ЗАРЯД"
+  },
+  {
+    "Original": "[YOU ARE DEAD]\n\n\n\n\n\nPress [R] TO RESTART",
+    "Replacement": "[ТЫ МЁРТВ]\n\n\n\n\n\nНАЖМИ [R] ДЛЯ РЕСТАРТА"
+  },
+  {
+    "Original": "BOSS NAME",
+    "Replacement": "ИМЯ БОССА"
+  },
+  {
+    "Original": "Title",
+    "Replacement": "Заголовок"
+  },
+  {
+    "Original": "Activating in ..",
+    "Replacement": "Activating in .."
+  },
+  {
+    "Original": "{platform} is voting",
+    "Replacement": "{platform} is voting"
+  },
+  {
+    "Original": "0 seconds remaining",
+    "Replacement": "0 seconds remaining"
+  },
+  {
+    "Original": "option",
+    "Replacement": "option"
+  },
+  {
+    "Original": "VOTE CHAR",
+    "Replacement": "VOTE CHAR"
+  },
+  {
+    "Original": "0 votes so far",
+    "Replacement": "0 votes so far"
+  },
+  {
+    "Original": "subtitle",
+    "Replacement": "subtitle"
+  },
+  {
+    "Original": "NavMesh out of Date. Please rebuild.",
+    "Replacement": "NavMesh out of Date. Please rebuild."
+  },
+  {
+    "Original": "Press <color=orange>ESC</color> to skip",
+    "Replacement": "Нажмите <color=orange>ESC</color> для пропуска"
+  },
+  {
+    "Original": "???",
+    "Replacement": "???"
+  },
+  {
+    "Original": "00:00.000",
+    "Replacement": "00:00.000"
+  },
+  {
+    "Original": "000",
+    "Replacement": "000"
+  },
+  {
+    "Original": "00000",
+    "Replacement": "00000"
+  },
+  {
+    "Original": "5/5",
+    "Replacement": "5/5"
+  },
+  {
+    "Original": "DONE",
+    "Replacement": "Выполнено"
+  },
+  {
+    "Original": "MAJOR ASSISTS:",
+    "Replacement": "ЗНАЧИТЕЛЬНАЯ ПОМОЩЬ:"
+  },
+  {
+    "Original": "YES",
+    "Replacement": "ДА"
+  },
+  {
+    "Original": "1-1",
+    "Replacement": "1-1"
+  },
+  {
+    "Original": "1-2",
+    "Replacement": "1-2"
+  },
+  {
+    "Original": "1-3",
+    "Replacement": "1-3"
+  },
+  {
+    "Original": "1-4",
+    "Replacement": "1-4"
+  },
+  {
+    "Original": "2-1",
+    "Replacement": "2-1"
+  },
+  {
+    "Original": "2-2",
+    "Replacement": "2-2"
+  },
+  {
+    "Original": "2-3",
+    "Replacement": "2-3"
+  },
+  {
+    "Original": "2-4",
+    "Replacement": "2-4"
+  },
+  {
+    "Original": "3-1",
+    "Replacement": "3-1"
+  },
+  {
+    "Original": "3-2",
+    "Replacement": "3-2"
+  },
+  {
+    "Original": "LIMBO",
+    "Replacement": "ЛИМБ"
+  },
+  {
+    "Original": "LUST",
+    "Replacement": "ПОХОТЬ"
+  },
+  {
+    "Original": "GLUTTONY",
+    "Replacement": "ЧРЕВОУГОДИЕ"
+  },
+  {
+    "Original": "SCANNING..",
+    "Replacement": "СКАНИРУЮ.."
+  },
+  {
+    "Original": "<b>TEXT SCANNED - UNIQUE PASSAGE:\r</b>\n\n<i>“...My mind is adrift with the eternal torments. Lurid vistas painted in insidious tones, hollow walls that scream to the touch. A mocking song plays at all hours, even the sounds of birds are fake. All reminders of my enduring damnation.\r\n\nGabriel my dearest friend, in endless penance I have awaited your embrace into Heaven. I have been so faithful, accepting of my fate, but to what end?  What punishment is this, that I am to bare the keys to my own doom with no hope of salvation...These skulls sneer their devilish grins, voices chattering, tempting me to take the plunge deeper into Hell...I won’t do it.\r\n\nI’ve hidden them away amongst the furnishings, books, and the very foundations of this accursed place. Forgive me Gabriel, I will await your…”\r</i>\n\n<b>REMAINING TEXT: IRRELEVANT.</b>",
+    "Replacement": "<b>TEXT SCANNED - UNIQUE PASSAGE:\r</b>\n\n<i>“...My mind is adrift with the eternal torments. Lurid vistas painted in insidious tones, hollow walls that scream to the touch. A mocking song plays at all hours, even the sounds of birds are fake. All reminders of my enduring damnation.\r\n\nGabriel my dearest friend, in endless penance I have awaited your embrace into Heaven. I have been so faithful, accepting of my fate, but to what end?  What punishment is this, that I am to bare the keys to my own doom with no hope of salvation...These skulls sneer their devilish grins, voices chattering, tempting me to take the plunge deeper into Hell...I won’t do it.\r\n\nI’ve hidden them away amongst the furnishings, books, and the very foundations of this accursed place. Forgive me Gabriel, I will await your…”\r</i>\n\n<b>REMAINING TEXT: IRRELEVANT.</b>"
+  },
+  {
+    "Original": "SECTION\n",
+    "Replacement": "СЕКЦИЯ\n"
+  },
+  {
+    "Original": "NAME",
+    "Replacement": "ИМЯ"
+  },
+  {
+    "Original": "-- PAUSED --",
+    "Replacement": "-- ПАУЗА --"
+  },
+  {
+    "Original": "CHECKPOINT",
+    "Replacement": "ЧЕКПОИНТ"
+  },
+  {
+    "Original": "RESUME",
+    "Replacement": "ВОЗОБНОВИТЬ"
+  },
+  {
+    "Original": "RESTART MISSION",
+    "Replacement": "НАЧАТЬ С НАЧАЛА"
+  },
+  {
+    "Original": "OPTIONS",
+    "Replacement": "НАСТРОЙКИ"
+  },
+  {
+    "Original": "QUIT MISSION",
+    "Replacement": "ПОКИНУТЬ МИССИЮ"
+  },
+  {
+    "Original": "--OPTIONS--",
+    "Replacement": "--НАСТРОЙКИ--"
+  },
+  {
+    "Original": "BACK",
+    "Replacement": "НАЗАД"
+  },
+  {
+    "Original": "GENERAL",
+    "Replacement": "ГЛАВНОЕ"
+  },
+  {
+    "Original": "CONTROLS",
+    "Replacement": "УПРАВЛЕНИЕ"
+  },
+  {
+    "Original": "GRAPHICS",
+    "Replacement": "ГРАФИКА"
+  },
+  {
+    "Original": "AUDIO",
+    "Replacement": "ЗВУК"
+  },
+  {
+    "Original": "HUD",
+    "Replacement": "HUD"
+  },
+  {
+    "Original": "ASSIST",
+    "Replacement": "ПОМОЩЬ"
+  },
+  {
+    "Original": "COLORS",
+    "Replacement": "ЦВЕТА"
+  },
+  {
+    "Original": "SAVES",
+    "Replacement": "СОХРАНЕНИЯ"
+  },
+  {
+    "Original": "--GENERAL--",
+    "Replacement": "--GENERAL--"
+  },
+  {
+    "Original": "MOUSE SENSITIVITY",
+    "Replacement": "MOUSE SENSITIVITY"
+  },
+  {
+    "Original": "INVERT X AXIS",
+    "Replacement": "INVERT X AXIS"
+  },
+  {
+    "Original": "Toggle",
+    "Replacement": "Toggle"
+  },
+  {
+    "Original": "INVERT Y AXIS",
+    "Replacement": "INVERT Y AXIS"
+  },
+  {
+    "Original": "FIELD OF VIEW",
+    "Replacement": "FIELD OF VIEW"
+  },
+  {
+    "Original": "WEAPON POSITION",
+    "Replacement": "WEAPON POSITION"
+  },
+  {
+    "Original": "RIGHT",
+    "Replacement": "RIGHT"
+  },
+  {
+    "Original": "Option A",
+    "Replacement": "Option A"
+  },
+  {
+    "Original": "REMEMBER LAST USED WEAPON VARIATION",
+    "Replacement": "REMEMBER LAST USED WEAPON VARIATION"
+  },
+  {
+    "Original": "SCREENSHAKE",
+    "Replacement": "SCREENSHAKE"
+  },
+  {
+    "Original": "CAMERA TILT",
+    "Replacement": "CAMERA TILT"
+  },
+  {
+    "Original": "DISCORD INTEGRATION",
+    "Replacement": "DISCORD INTEGRATION"
+  },
+  {
+    "Original": "STEAM INTEGRATION",
+    "Replacement": "STEAM INTEGRATION"
+  },
+  {
+    "Original": "SAVE SLOT",
+    "Replacement": "SAVE SLOT"
+  },
+  {
+    "Original": "--CONTROLS--",
+    "Replacement": "--CONTROLS--"
+  },
+  {
+    "Original": "RESET TO DEFAULT",
+    "Replacement": "RESET TO DEFAULT"
+  },
+  {
+    "Original": "-- MOVEMENT --",
+    "Replacement": "-- MOVEMENT --"
+  },
+  {
+    "Original": "FORWARD",
+    "Replacement": "FORWARD"
+  },
+  {
+    "Original": "W",
+    "Replacement": "W"
+  },
+  {
+    "Original": "LEFT",
+    "Replacement": "LEFT"
+  },
+  {
+    "Original": "JUMP",
+    "Replacement": "JUMP"
+  },
+  {
+    "Original": "DASH",
+    "Replacement": "DASH"
+  },
+  {
+    "Original": "SLIDE",
+    "Replacement": "SLIDE"
+  },
+  {
+    "Original": "-- ACTIONS --",
+    "Replacement": "-- ACTIONS --"
+  },
+  {
+    "Original": "PRIMARY FIRE",
+    "Replacement": "PRIMARY FIRE"
+  },
+  {
+    "Original": "ALT FIRE",
+    "Replacement": "ALT FIRE"
+  },
+  {
+    "Original": "PUNCH",
+    "Replacement": "PUNCH"
+  },
+  {
+    "Original": "LAST USED \nWEAPON",
+    "Replacement": "LAST USED \nWEAPON"
+  },
+  {
+    "Original": "Q",
+    "Replacement": "Q"
+  },
+  {
+    "Original": "CHANGE\nVARIATION",
+    "Replacement": "CHANGE\nVARIATION"
+  },
+  {
+    "Original": "CHANGE ARM",
+    "Replacement": "CHANGE ARM"
+  },
+  {
+    "Original": "WHIPLASH",
+    "Replacement": "WHIPLASH"
+  },
+  {
+    "Original": "R",
+    "Replacement": "R"
+  },
+  {
+    "Original": "-- WEAPONS --",
+    "Replacement": "-- WEAPONS --"
+  },
+  {
+    "Original": "SLOT 1",
+    "Replacement": "SLOT 1"
+  },
+  {
+    "Original": "SLOT 2",
+    "Replacement": "SLOT 2"
+  },
+  {
+    "Original": "SLOT 3",
+    "Replacement": "SLOT 3"
+  },
+  {
+    "Original": "SLOT 4",
+    "Replacement": "SLOT 4"
+  },
+  {
+    "Original": "CHANGE WEAPON WITH MOUSE WHEEL",
+    "Replacement": "CHANGE WEAPON WITH MOUSE WHEEL"
+  },
+  {
+    "Original": "SCROLL THROUGH TYPE",
+    "Replacement": "SCROLL THROUGH TYPE"
+  },
+  {
+    "Original": "WEAPONS",
+    "Replacement": "WEAPONS"
+  },
+  {
+    "Original": "REVERSE SCROLL DIRECTION",
+    "Replacement": "REVERSE SCROLL DIRECTION"
+  },
+  {
+    "Original": "--GRAPHICS--",
+    "Replacement": "--GRAPHICS--"
+  },
+  {
+    "Original": "RESOLUTION",
+    "Replacement": "RESOLUTION"
+  },
+  {
+    "Original": "640x480",
+    "Replacement": "640x480"
+  },
+  {
+    "Original": "FULLSCREEN",
+    "Replacement": "FULLSCREEN"
+  },
+  {
+    "Original": "TARGET FRAMERATE",
+    "Replacement": "TARGET FRAMERATE"
+  },
+  {
+    "Original": "2X SCREEN'S REFRESH RATE",
+    "Replacement": "2X SCREEN'S REFRESH RATE"
+  },
+  {
+    "Original": "VSYNC",
+    "Replacement": "VSYNC"
+  },
+  {
+    "Original": "--PSX SETTINGS--\n",
+    "Replacement": "--PSX SETTINGS--\n"
+  },
+  {
+    "Original": "(Tone down for more visual clarity)",
+    "Replacement": "(Tone down for more visual clarity)"
+  },
+  {
+    "Original": "DOWNSCALING",
+    "Replacement": "DOWNSCALING"
+  },
+  {
+    "Original": "OFF",
+    "Replacement": "OFF"
+  },
+  {
+    "Original": "DITHERING",
+    "Replacement": "DITHERING"
+  },
+  {
+    "Original": "TEXTURE WARPING",
+    "Replacement": "TEXTURE WARPING"
+  },
+  {
+    "Original": "VERTEX WARPING",
+    "Replacement": "VERTEX WARPING"
+  },
+  {
+    "Original": "NONE",
+    "Replacement": "NONE"
+  },
+  {
+    "Original": "CUSTOM COLOR PALETTE",
+    "Replacement": "CUSTOM COLOR PALETTE"
+  },
+  {
+    "Original": "SELECT",
+    "Replacement": "SELECT"
+  },
+  {
+    "Original": "COLOR COMPRESSION",
+    "Replacement": "COLOR COMPRESSION"
+  },
+  {
+    "Original": "--PERFORMANCE SETTINGS--\n",
+    "Replacement": "--PERFORMANCE SETTINGS--\n"
+  },
+  {
+    "Original": "SIMPLER EXPLOSIONS",
+    "Replacement": "SIMPLER EXPLOSIONS"
+  },
+  {
+    "Original": "SIMPLER FIRE",
+    "Replacement": "SIMPLER FIRE"
+  },
+  {
+    "Original": "SIMPLER SPAWN EFFECTS",
+    "Replacement": "SIMPLER SPAWN EFFECTS"
+  },
+  {
+    "Original": "DISABLE ENVIRONMENTAL PARTICLE EFFECTS",
+    "Replacement": "DISABLE ENVIRONMENTAL PARTICLE EFFECTS"
+  },
+  {
+    "Original": "SIMPLE NAIL PHYSICS",
+    "Replacement": "SIMPLE NAIL PHYSICS"
+  },
+  {
+    "Original": "--GORE SETTINGS--\n",
+    "Replacement": "--GORE SETTINGS--\n"
+  },
+  {
+    "Original": "(Does not affect gameplay)",
+    "Replacement": "(Does not affect gameplay)"
+  },
+  {
+    "Original": "ENABLE BLOOD & GORE",
+    "Replacement": "ENABLE BLOOD & GORE"
+  },
+  {
+    "Original": "FREEZE GORE PHYSICS",
+    "Replacement": "FREEZE GORE PHYSICS"
+  },
+  {
+    "Original": "BLOODSTAIN CHANCE",
+    "Replacement": "BLOODSTAIN CHANCE"
+  },
+  {
+    "Original": "MAX GORE PER ROOM",
+    "Replacement": "MAX GORE PER ROOM"
+  },
+  {
+    "Original": "--AUDIO--",
+    "Replacement": "--AUDIO--"
+  },
+  {
+    "Original": "SUBTITLES",
+    "Replacement": "SUBTITLES"
+  },
+  {
+    "Original": "MASTER VOLUME",
+    "Replacement": "MASTER VOLUME"
+  },
+  {
+    "Original": "MUSIC VOLUME",
+    "Replacement": "MUSIC VOLUME"
+  },
+  {
+    "Original": "--HUD--",
+    "Replacement": "--HUD--"
+  },
+  {
+    "Original": "HUD TYPE",
+    "Replacement": "HUD TYPE"
+  },
+  {
+    "Original": "STANDARD",
+    "Replacement": "STANDARD"
+  },
+  {
+    "Original": "BACKGROUND OPACITY",
+    "Replacement": "BACKGROUND OPACITY"
+  },
+  {
+    "Original": "ALWAYS ON TOP",
+    "Replacement": "ALWAYS ON TOP"
+  },
+  {
+    "Original": "CHEAT & SANDBOX ICONS",
+    "Replacement": "CHEAT & SANDBOX ICONS"
+  },
+  {
+    "Original": "--HUD ELEMENTS--",
+    "Replacement": "--HUD ELEMENTS--"
+  },
+  {
+    "Original": "WEAPON ICON",
+    "Replacement": "WEAPON ICON"
+  },
+  {
+    "Original": "ARM ICON",
+    "Replacement": "ARM ICON"
+  },
+  {
+    "Original": "RAILCANNON METER",
+    "Replacement": "RAILCANNON METER"
+  },
+  {
+    "Original": "STYLE METER",
+    "Replacement": "STYLE METER"
+  },
+  {
+    "Original": "STYLE INFO",
+    "Replacement": "STYLE INFO"
+  },
+  {
+    "Original": "--CROSSHAIR SETTINGS--",
+    "Replacement": "--CROSSHAIR SETTINGS--"
+  },
+  {
+    "Original": "CROSSHAIR TYPE",
+    "Replacement": "CROSSHAIR TYPE"
+  },
+  {
+    "Original": "SMALL",
+    "Replacement": "SMALL"
+  },
+  {
+    "Original": "CROSSHAIR COLOR",
+    "Replacement": "CROSSHAIR COLOR"
+  },
+  {
+    "Original": "WHITE",
+    "Replacement": "WHITE"
+  },
+  {
+    "Original": "CROSSHAIR HUD SIZE",
+    "Replacement": "CROSSHAIR HUD SIZE"
+  },
+  {
+    "Original": "MEDIUM",
+    "Replacement": "MEDIUM"
+  },
+  {
+    "Original": "CROSSHAIR HUD FADE",
+    "Replacement": "CROSSHAIR HUD FADE"
+  },
+  {
+    "Original": "POWERUP METER",
+    "Replacement": "POWERUP METER"
+  },
+  {
+    "Original": "--ASSIST--",
+    "Replacement": "--ASSIST--"
+  },
+  {
+    "Original": "--MINOR ASSISTS--\n",
+    "Replacement": "--MINOR ASSISTS--\n"
+  },
+  {
+    "Original": "AUTO AIM",
+    "Replacement": "AUTO AIM"
+  },
+  {
+    "Original": "AUTO AIM AMOUNT",
+    "Replacement": "AUTO AIM AMOUNT"
+  },
+  {
+    "Original": "ENEMY SILHOUETTES",
+    "Replacement": "ENEMY SILHOUETTES"
+  },
+  {
+    "Original": "ACTIVATION DISTANCE",
+    "Replacement": "ACTIVATION DISTANCE"
+  },
+  {
+    "Original": "ALWAYS ON",
+    "Replacement": "ALWAYS ON"
+  },
+  {
+    "Original": "OUTLINE ONLY",
+    "Replacement": "OUTLINE ONLY"
+  },
+  {
+    "Original": "--MAJOR ASSISTS--\n",
+    "Replacement": "--MAJOR ASSISTS--\n"
+  },
+  {
+    "Original": "ENABLE",
+    "Replacement": "ENABLE"
+  },
+  {
+    "Original": "GAME SPEED",
+    "Replacement": "GAME SPEED"
+  },
+  {
+    "Original": "100%",
+    "Replacement": "100%"
+  },
+  {
+    "Original": "DAMAGE TAKEN",
+    "Replacement": "DAMAGE TAKEN"
+  },
+  {
+    "Original": "BOSS FIGHT DIFFICULTY OVERRIDE",
+    "Replacement": "BOSS FIGHT DIFFICULTY OVERRIDE"
+  },
+  {
+    "Original": "REQUIRES BOSS RESTART",
+    "Replacement": "REQUIRES BOSS RESTART"
+  },
+  {
+    "Original": "INFINITE STAMINA",
+    "Replacement": "INFINITE STAMINA"
+  },
+  {
+    "Original": "DISABLE HARD DAMAGE",
+    "Replacement": "DISABLE HARD DAMAGE"
+  },
+  {
+    "Original": "DISABLE ASSIST POPUP",
+    "Replacement": "DISABLE ASSIST POPUP"
+  },
+  {
+    "Original": "\"<color=orange>Major Assists</color>\" consists of modifiers that change the game and its balance <color=orange>considerably</color>.\n\nIf \"Major Assists\" is enabled <color=orange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color=orange>can be removed</color> by achieving <color=orange>the same rank or higher</color> with \"Major Assists\" disabled for the duration of the <color=orange>entire</color> mission.\n\n\"<color=yellow>Perfect</color>\" ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabled.",
+    "Replacement": "\"<color=orange>Major Assists</color>\" consists of modifiers that change the game and its balance <color=orange>considerably</color>.\n\nIf \"Major Assists\" is enabled <color=orange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color=orange>can be removed</color> by achieving <color=orange>the same rank or higher</color> with \"Major Assists\" disabled for the duration of the <color=orange>entire</color> mission.\n\n\"<color=yellow>Perfect</color>\" ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabled."
+  },
+  {
+    "Original": "ENABLE MAJOR ASSISTS?",
+    "Replacement": "ENABLE MAJOR ASSISTS?"
+  },
+  {
+    "Original": "NO",
+    "Replacement": "NO"
+  },
+  {
+    "Original": "--COLORS--",
+    "Replacement": "--COLORS--"
+  },
+  {
+    "Original": "-- HUD --",
+    "Replacement": "-- HUD --"
+  },
+  {
+    "Original": "1.00",
+    "Replacement": "1.00"
+  },
+  {
+    "Original": "G",
+    "Replacement": "G"
+  },
+  {
+    "Original": "B",
+    "Replacement": "B"
+  },
+  {
+    "Original": "HEALTH NUMBER",
+    "Replacement": "HEALTH NUMBER"
+  },
+  {
+    "Original": "SOFT DAMAGE",
+    "Replacement": "SOFT DAMAGE"
+  },
+  {
+    "Original": "HARD DAMAGE",
+    "Replacement": "HARD DAMAGE"
+  },
+  {
+    "Original": "OVERHEAL",
+    "Replacement": "OVERHEAL"
+  },
+  {
+    "Original": "STAMINA (FULL)",
+    "Replacement": "STAMINA (FULL)"
+  },
+  {
+    "Original": "STAMINA (CHARGING)",
+    "Replacement": "STAMINA (CHARGING)"
+  },
+  {
+    "Original": "STAMINA (EMPTY)",
+    "Replacement": "STAMINA (EMPTY)"
+  },
+  {
+    "Original": "RAILCANNON (FULL)",
+    "Replacement": "RAILCANNON (FULL)"
+  },
+  {
+    "Original": "RAILCANNON (CHARGING)",
+    "Replacement": "RAILCANNON (CHARGING)"
+  },
+  {
+    "Original": "BLUE VARIATION",
+    "Replacement": "BLUE VARIATION"
+  },
+  {
+    "Original": "GREEN VARIATION",
+    "Replacement": "GREEN VARIATION"
+  },
+  {
+    "Original": "RED VARIATION",
+    "Replacement": "RED VARIATION"
+  },
+  {
+    "Original": "GOLD VARIATION",
+    "Replacement": "GOLD VARIATION"
+  },
+  {
+    "Original": "-- ENEMY SILHOUETTES --",
+    "Replacement": "-- ENEMY SILHOUETTES --"
+  },
+  {
+    "Original": "FILTH",
+    "Replacement": "FILTH"
+  },
+  {
+    "Original": "STRAY",
+    "Replacement": "STRAY"
+  },
+  {
+    "Original": "MALICIOUS FACE",
+    "Replacement": "MALICIOUS FACE"
+  },
+  {
+    "Original": "SCHISM",
+    "Replacement": "SCHISM"
+  },
+  {
+    "Original": "SWORDSMACHINE",
+    "Replacement": "SWORDSMACHINE"
+  },
+  {
+    "Original": "CERBERUS",
+    "Replacement": "ЦЕРБЕР"
+  },
+  {
+    "Original": "DRONE",
+    "Replacement": "ДРОН"
+  },
+  {
+    "Original": "STREETCLEANER",
+    "Replacement": "STREETCLEANER"
+  },
+  {
+    "Original": "V2",
+    "Replacement": "V2"
+  },
+  {
+    "Original": "SOLDIER",
+    "Replacement": "СОЛДАТ"
+  },
+  {
+    "Original": "MINDFLAYER",
+    "Replacement": "MINDFLAYER"
+  },
+  {
+    "Original": "VIRTUE",
+    "Replacement": "VIRTUE"
+  },
+  {
+    "Original": "STALKER",
+    "Replacement": "СТАЛКЕР"
+  },
+  {
+    "Original": "INSURRECTIONIST",
+    "Replacement": "INSURRECTIONIST"
+  },
+  {
+    "Original": "SLOT 0",
+    "Replacement": "SLOT 0"
+  },
+  {
+    "Original": "STATE",
+    "Replacement": "STATE"
+  },
+  {
+    "Original": "DELETE",
+    "Replacement": "DELETE"
+  },
+  {
+    "Original": "CLOSE",
+    "Replacement": "ЗАКРЫТЬ"
+  },
+  {
+    "Original": "<color=red>The game will reload.</color>\n\nIf you're in a mission, your current progress will be lost.",
+    "Replacement": "<color=red>The game will reload.</color>\n\nIf you're in a mission, your current progress will be lost."
+  },
+  {
+    "Original": "CANCEL",
+    "Replacement": "ОТМЕНА"
+  },
+  {
+    "Original": "I UNDERSTAND",
+    "Replacement": "Я ПОНИМАЮ"
+  },
+  {
+    "Original": "Are you sure you want to <color=red>DELETE SLOT 0</color>?",
+    "Replacement": "Are you sure you want to <color=red>DELETE SLOT 0</color>?"
+  },
+  {
+    "Original": "YES, <color=red>DELETE</color>",
+    "Replacement": "YES, <color=red>DELETE</color>"
+  },
+  {
+    "Original": "New Text",
+    "Replacement": "New Text"
+  },
+  {
+    "Original": "--ARSENAL--",
+    "Replacement": "--АРСЕНАЛ--"
+  },
+  {
+    "Original": "$0",
+    "Replacement": "$0"
+  },
+  {
+    "Original": "--TIP OF THE DAY--",
+    "Replacement": "--СОВЕТ ДНЯ--"
+  },
+  {
+    "Original": "A <color=orange>Revolver headshot</color> deals <color=orange>2x</color> damage and a <color=orange>limbshot</color> deals <color=orange>1.5x</color> damage.",
+    "Replacement": "A <color=orange>Revolver headshot</color> deals <color=orange>2x</color> damage and a <color=orange>limbshot</color> deals <color=orange>1.5x</color> damage."
+  },
+  {
+    "Original": "--MENU--",
+    "Replacement": "--МЕНЮ--"
+  },
+  {
+    "Original": "REVOLVER",
+    "Replacement": "РЕВОЛЬВЕР"
+  },
+  {
+    "Original": "SHOTGUN",
+    "Replacement": "ДРОБОВИК"
+  },
+  {
+    "Original": "NAILGUN",
+    "Replacement": "ГВОЗДЕМЁТ"
+  },
+  {
+    "Original": "PIERCER",
+    "Replacement": "PIERCER"
+  },
+  {
+    "Original": "READY",
+    "Replacement": "ГОТОВО"
+  },
+  {
+    "Original": "MARKSMAN",
+    "Replacement": "MARKSMAN"
+  },
+  {
+    "Original": "NOT IN DEMO",
+    "Replacement": "NOT IN DEMO"
+  },
+  {
+    "Original": "<color=orange>Hold</color> Alt Fire to charge a <color=orange>3-hit beam</color>.\n\nRequires <color=orange>cooldown</color>.",
+    "Replacement": "<color=orange>Hold</color> Alt Fire to charge a <color=orange>3-hit beam</color>.\n\nRequires <color=orange>cooldown</color>."
+  },
+  {
+    "Original": "ALREADY OWNED",
+    "Replacement": "УЖЕ ИМЕЕТСЯ"
+  },
+  {
+    "Original": "Press Alt Fire to throw a <color=orange>coin</color>.\n\nHit an <color=orange>airborne</color> coin to <color=orange>deflect</color> your shot into the nearest enemy's <color=orange>weakpoint</color>.\n\nEach coin <color=orange>increases</color> the shot's power.",
+    "Replacement": "Press Alt Fire to throw a <color=orange>coin</color>.\n\nHit an <color=orange>airborne</color> coin to <color=orange>deflect</color> your shot into the nearest enemy's <color=orange>weakpoint</color>.\n\nEach coin <color=orange>increases</color> the shot's power."
+  },
+  {
+    "Original": "$5000",
+    "Replacement": "$5000"
+  },
+  {
+    "Original": "CORE EJECT",
+    "Replacement": "CORE EJECT"
+  },
+  {
+    "Original": "PUMP CHARGE",
+    "Replacement": "PUMP CHARGE"
+  },
+  {
+    "Original": "Press Alt Fire to overheat and <color=orange>launch</color> the shotgun's <color=orange>cores</color>.\n\n<color=orange>Hold</color> to charge <color=orange>distance</color>.\n\n<color=orange>Explodes</color> on impact.",
+    "Replacement": "Press Alt Fire to overheat and <color=orange>launch</color> the shotgun's <color=orange>cores</color>.\n\n<color=orange>Hold</color> to charge <color=orange>distance</color>.\n\n<color=orange>Explodes</color> on impact."
+  },
+  {
+    "Original": "Press Alt Fire to <color=orange>pump</color> your shotgun, increasing the <color=orange>power</color> and decreasing the <color=orange>accuracy</color> of your <color=orange>next shot</color>.\n\nPumping too much will overheat the shotgun, causing an <color=orange>explosion</color>.",
+    "Replacement": "Press Alt Fire to <color=orange>pump</color> your shotgun, increasing the <color=orange>power</color> and decreasing the <color=orange>accuracy</color> of your <color=orange>next shot</color>.\n\nPumping too much will overheat the shotgun, causing an <color=orange>explosion</color>."
+  },
+  {
+    "Original": "125000P",
+    "Replacement": "125000P"
+  },
+  {
+    "Original": "OVERHEAT",
+    "Replacement": "ПЕРЕГРЕВ"
+  },
+  {
+    "Original": "Alt fire while heated up to <color=orange>shatter a heatsink</color> for a quick burst of high damage.\n\n<color=red>Useless without heatsinks</color>, which recharge while not firing.",
+    "Replacement": "Alt fire while heated up to <color=orange>shatter a heatsink</color> for a quick burst of high damage.\n\n<color=red>Useless without heatsinks</color>, which recharge while not firing."
+  },
+  {
+    "Original": "<color=#44FF45>CHEATS</color> ENABLED :^)",
+    "Replacement": "<color=#44FF45>CHEATS</color> ENABLED :^)"
+  },
+  {
+    "Original": "home or ~",
+    "Replacement": "home or ~"
+  },
+  {
+    "Original": "MANAGE CHEATS",
+    "Replacement": "MANAGE CHEATS"
+  },
+  {
+    "Original": "CHEAT NAME",
+    "Replacement": "CHEAT NAME"
+  },
+  {
+    "Original": "DISABLED",
+    "Replacement": "DISABLED"
+  },
+  {
+    "Original": "PRESS TO BIND",
+    "Replacement": "PRESS TO BIND"
+  },
+  {
+    "Original": "RESET\nBIND",
+    "Replacement": "RESET\nBIND"
+  },
+  {
+    "Original": "CATEGORY",
+    "Replacement": "CATEGORY"
+  },
+  {
+    "Original": "SANDBOX SAVES",
+    "Replacement": "SANDBOX SAVES"
+  },
+  {
+    "Original": "OPEN DIRECTORY",
+    "Replacement": "OPEN DIRECTORY"
+  },
+  {
+    "Original": "SAVE NAME",
+    "Replacement": "SAVE NAME"
+  },
+  {
+    "Original": "Save",
+    "Replacement": "Save"
+  },
+  {
+    "Original": "Load",
+    "Replacement": "Load"
+  },
+  {
+    "Original": "Delete",
+    "Replacement": "Delete"
+  },
+  {
+    "Original": "New Save",
+    "Replacement": "New Save"
+  },
+  {
+    "Original": "Give it a name",
+    "Replacement": "Give it a name"
+  },
+  {
+    "Original": "Enabling cheats means you will not gain a rank upon completion of a level and a Cyber Grind high score will not be saved.\n\n<color=green>Press <color=white>~</color> or <color=white>home</color> after enabling cheats to toggle the menu</color>",
+    "Replacement": "Enabling cheats means you will not gain a rank upon completion of a level and a Cyber Grind high score will not be saved.\n\n<color=green>Press <color=white>~</color> or <color=white>home</color> after enabling cheats to toggle the menu</color>"
+  },
+  {
+    "Original": "ACTIVATE CHEATS",
+    "Replacement": "ACTIVATE CHEATS"
+  },
+  {
+    "Original": "Teleport",
+    "Replacement": "Teleport"
+  },
+  {
+    "Original": "Name",
+    "Replacement": "Name"
+  },
+  {
+    "Original": "<b>DUPLICATE SAVE</b>\n\nWe found save files <b>both</b> directly in the Saves directory and the <b>first slot.</b>\n\n\nPick which one you want to <b>keep.</b>",
+    "Replacement": "<b>DUPLICATE SAVE</b>\n\nWe found save files <b>both</b> directly in the Saves directory and the <b>first slot.</b>\n\n\nPick which one you want to <b>keep.</b>"
+  },
+  {
+    "Original": "<b>Saves/Slot1/</b>\n\nPROGRESS",
+    "Replacement": "<b>Saves/Slot1/</b>\n\nPROGRESS"
+  },
+  {
+    "Original": "<b>Saves/</b>\n\nPROGRESS",
+    "Replacement": "<b>Saves/</b>\n\nPROGRESS"
+  },
+  {
+    "Original": "QUIT GAME",
+    "Replacement": "QUIT GAME"
+  },
+  {
+    "Original": "<b>! SAVE FAILED !</b>\n\nThe game is unable to finalize saving your progress.\n\n<b>COMMON REASONS FOR FAILURE:</b>\n1. Third party software (such as an antivirus) stopping the game from saving a new file\r\n\nIf this problem occurs again, make sure your antivirus or any similar software is not preventing the game from writing files\r\n\r\nIf you wish to try again,\r\npress <b>\"Y\"\r</b>\nIf you wish to continue without saving,\r\npress <b>\"N\"</b>\n\nSorry and thank you for your understanding. :)",
+    "Replacement": "<b>! SAVE FAILED !</b>\n\nThe game is unable to finalize saving your progress.\n\n<b>COMMON REASONS FOR FAILURE:</b>\n1. Third party software (such as an antivirus) stopping the game from saving a new file\r\n\nIf this problem occurs again, make sure your antivirus or any similar software is not preventing the game from writing files\r\n\r\nIf you wish to try again,\r\npress <b>\"Y\"\r</b>\nIf you wish to continue without saving,\r\npress <b>\"N\"</b>\n\nSorry and thank you for your understanding. :)"
+  },
+  {
+    "Original": "ERROR CODE",
+    "Replacement": "ERROR CODE"
+  },
+  {
+    "Original": ":(",
+    "Replacement": ":("
+  },
+  {
+    "Original": ":)",
+    "Replacement": ":)"
+  },
+  {
+    "Original": "Leave a Comment",
+    "Replacement": "Leave a Comment"
+  },
+  {
+    "Original": "Continue",
+    "Replacement": "Continue"
+  },
+  {
+    "Original": "Rate",
+    "Replacement": "Rate"
+  },
+  {
+    "Original": "CREATED WITH THE <color=orange>HELP</color> OF:\n\nSAM <color=orange>BRYAN</color>\nRYAN <color=orange>EVANS</color>\nURBAIN <color=orange>SEILMANN</color>\nANDREI <color=orange>MISCHENKO</color>\nPI<color=orange>TR</color>\nTONI <color=orange>STIGELL</color>\nF.<color=orange>D.</color>\nJACOB <color=orange>ROY</color>\nMAXIMILIAN <color=orange>OVESSON</color>\n",
+    "Replacement": "СОЗДАНО С <color=orange>ПОМОЩЬЮ</color>:\n\nSAM <color=orange>BRYAN</color>\nRYAN <color=orange>EVANS</color>\nURBAIN <color=orange>SEILMANN</color>\nANDREI <color=orange>MISCHENKO</color>\nPI<color=orange>TR</color>\nTONI <color=orange>STIGELL</color>\nF.<color=orange>D.</color>\nJACOB <color=orange>ROY</color>\nMAXIMILIAN <color=orange>OVESSON</color>\n"
+  },
+  {
+    "Original": "-- EARLY ACCESS --",
+    "Replacement": "-- EARLY ACCESS --"
+  },
+  {
+    "Original": "-- MERRY CHRISTMAS --",
+    "Replacement": "-- MERRY CHRISTMAS --"
+  },
+  {
+    "Original": "-- HAPPY HALLOWEEN --",
+    "Replacement": "-- HAPPY HALLOWEEN --"
+  },
+  {
+    "Original": "-- HAPPY EASTER --",
+    "Replacement": "-- HAPPY EASTER --"
+  },
+  {
+    "Original": "PLAY",
+    "Replacement": "ИГРАТЬ"
+  },
+  {
+    "Original": "QUIT",
+    "Replacement": "ВЫЙТИ"
+  },
+  {
+    "Original": "COME CHAT WITH US ON:",
+    "Replacement": "МОЖЕТЕ СВЯЗАТЬСЯ С НАМИ:"
+  },
+  {
+    "Original": "DISCORD",
+    "Replacement": "DISCORD"
+  },
+  {
+    "Original": "OR STAY UP TO DATE AT:",
+    "Replacement": "OR STAY UP TO DATE AT:"
+  },
+  {
+    "Original": "TWITTER",
+    "Replacement": "TWITTER"
+  },
+  {
+    "Original": "YOUTUBE",
+    "Replacement": "YOUTUBE"
+  },
+  {
+    "Original": "--DIFFICULTY--",
+    "Replacement": "--СЛОЖНОСТЬ--"
+  },
+  {
+    "Original": "EASY",
+    "Replacement": "ЛЕГКО"
+  },
+  {
+    "Original": "HARMLESS",
+    "Replacement": "БЕЗВРЕДНО"
+  },
+  {
+    "Original": "LENIENT",
+    "Replacement": "СНИСХОДИТЕЛЬНО"
+  },
+  {
+    "Original": "NORMAL",
+    "Replacement": "НОРМАЛЬНО"
+  },
+  {
+    "Original": "STANDARD <color=orange>*</color>",
+    "Replacement": "СТАНДАРТ <color=orange>*</color>"
+  },
+  {
+    "Original": "VIOLENT",
+    "Replacement": "ЖЕСТОКО"
+  },
+  {
+    "Original": "HARD",
+    "Replacement": "ТЯЖЕЛО"
+  },
+  {
+    "Original": "BRUTAL",
+    "Replacement": "БРУТАЛЬНО"
+  },
+  {
+    "Original": "ULTRAKILL MUST DIE",
+    "Replacement": "ULTRAKILL MUST DIE"
+  },
+  {
+    "Original": "--HARMLESS--",
+    "Replacement": "--HARMLESS--"
+  },
+  {
+    "Original": "Absurdly slow enemies and attacks.\n\nDamage is still high, but even a mountain could dodge them.\n\n<color=lime>Recommended for players who want a stress-free experience.</color>",
+    "Replacement": "Absurdly slow enemies and attacks.\n\nDamage is still high, but even a mountain could dodge them.\n\n<color=lime>Recommended for players who want a stress-free experience.</color>"
+  },
+  {
+    "Original": "--LENIENT--",
+    "Replacement": "--LENIENT--"
+  },
+  {
+    "Original": "High damage but slower attacks and passive enemies.\n\nTension is still high, but damage is easier to avoid.\n\n<color=yellow>Recommended for players who have trouble keeping up with Standard difficulty.</color>",
+    "Replacement": "High damage but slower attacks and passive enemies.\n\nTension is still high, but damage is easier to avoid.\n\n<color=yellow>Recommended for players who have trouble keeping up with Standard difficulty.</color>"
+  },
+  {
+    "Original": "--STANDARD--",
+    "Replacement": "--STANDARD--"
+  },
+  {
+    "Original": "Normal enemies and high damage. \n\nAttacks are easy to avoid, but carelessness will result in a swift death.\n\n<color=orange>Recommended for first time players.</color>",
+    "Replacement": "Normal enemies and high damage. \n\nAttacks are easy to avoid, but carelessness will result in a swift death.\n\n<color=orange>Recommended for first time players.</color>"
+  },
+  {
+    "Original": "--VIOLENT--",
+    "Replacement": "--VIOLENT--"
+  },
+  {
+    "Original": "Fast and aggressive enemies and high damage. \n\nQuick thinking, mobility options and situational awareness are essential.\n\n<color=red>Recommended for players who have already gotten used to the game's pace and mechanics.</color>",
+    "Replacement": "Fast and aggressive enemies and high damage. \n\nQuick thinking, mobility options and situational awareness are essential.\n\n<color=red>Recommended for players who have already gotten used to the game's pace and mechanics.</color>"
+  },
+  {
+    "Original": "--CHAPTER--",
+    "Replacement": "--ГЛАВА--"
+  },
+  {
+    "Original": "PRELUDE",
+    "Replacement": "PRELUDE"
+  },
+  {
+    "Original": "ACT I: INFINITE HYPERDEATH",
+    "Replacement": "ACT I: INFINITE HYPERDEATH"
+  },
+  {
+    "Original": "ACT II: IMPERFECT HATRED",
+    "Replacement": "ACT II: IMPERFECT HATRED"
+  },
+  {
+    "Original": "ACT III: ???",
+    "Replacement": "ACT III: ???"
+  },
+  {
+    "Original": "FINALE",
+    "Replacement": "FINALE"
+  },
+  {
+    "Original": "PRIME SANCTUMS",
+    "Replacement": "PRIME SANCTUMS"
+  },
+  {
+    "Original": "THE CYBER GRIND",
+    "Replacement": "КИБЕР ГРИНД"
+  },
+  {
+    "Original": "SANDBOX",
+    "Replacement": "ПЕСОЧНИЦА"
+  },
+  {
+    "Original": "LAYER 1: LIMBO",
+    "Replacement": "LAYER 1: LIMBO"
+  },
+  {
+    "Original": "SECRET MISSION",
+    "Replacement": "СЕКРЕТНАЯ МИССИЯ"
+  },
+  {
+    "Original": "1-1: HEART OF THE SUNRISE",
+    "Replacement": "1-1: HEART OF THE SUNRISE"
+  },
+  {
+    "Original": "C H A L L E N G E",
+    "Replacement": "C H A L L E N G E"
+  },
+  {
+    "Original": "-",
+    "Replacement": "-"
+  },
+  {
+    "Original": "1-2: THE BURNING WORLD",
+    "Replacement": "1-2: THE BURNING WORLD"
+  },
+  {
+    "Original": "1-3: HALLS OF SACRED REMAINS",
+    "Replacement": "1-3: HALLS OF SACRED REMAINS"
+  },
+  {
+    "Original": "BEAT THE SECRET ENCOUNTER",
+    "Replacement": "BEAT THE SECRET ENCOUNTER"
+  },
+  {
+    "Original": "1-4: CLAIR DE LUNE",
+    "Replacement": "1-4: CLAIR DE LUNE"
+  },
+  {
+    "Original": "SLIDE UNINTERRUPTED FOR 12 SECONDS",
+    "Replacement": "SLIDE UNINTERRUPTED FOR 12 SECONDS"
+  },
+  {
+    "Original": "0-5: CERBERUS",
+    "Replacement": "0-5: CERBERUS"
+  },
+  {
+    "Original": "DON'T KILL A SINGLE ENEMY",
+    "Replacement": "DON'T KILL A SINGLE ENEMY"
+  },
+  {
+    "Original": "OVERTURE: THE MOUTH OF HELL",
+    "Replacement": "OVERTURE: THE MOUTH OF HELL"
+  },
+  {
+    "Original": "GET 5 KILLS WITH A SINGLE GLASS PANEL",
+    "Replacement": "GET 5 KILLS WITH A SINGLE GLASS PANEL"
+  },
+  {
+    "Original": "0-2: THE MEATGRINDER",
+    "Replacement": "0-2: THE MEATGRINDER"
+  },
+  {
+    "Original": "0-4: A ONE-MACHINE ARMY",
+    "Replacement": "0-4: A ONE-MACHINE ARMY"
+  },
+  {
+    "Original": "SLIDE UNINTERRUPTED FOR 17 SECONDS",
+    "Replacement": "SLIDE UNINTERRUPTED FOR 17 SECONDS"
+  },
+  {
+    "Original": "DON'T INFLICT FATAL DAMAGE TO ANY ENEMY",
+    "Replacement": "DON'T INFLICT FATAL DAMAGE TO ANY ENEMY"
+  },
+  {
+    "Original": "FULL INTRO?",
+    "Replacement": "FULL INTRO?"
+  },
+  {
+    "Original": "-- STANDARD --",
+    "Replacement": "-- STANDARD --"
+  },
+  {
+    "Original": "P-1: SOUL SURVIVOR",
+    "Replacement": "P-1: SOUL SURVIVOR"
+  },
+  {
+    "Original": "P-2",
+    "Replacement": "P-2"
+  },
+  {
+    "Original": "P-3",
+    "Replacement": "P-3"
+  },
+  {
+    "Original": "LAYER 4: GREED",
+    "Replacement": "LAYER 4: GREED"
+  },
+  {
+    "Original": "4-1: SLAVES TO POWER",
+    "Replacement": "4-1: SLAVES TO POWER"
+  },
+  {
+    "Original": "DON'T ACTIVATE ANY ENEMIES",
+    "Replacement": "DON'T ACTIVATE ANY ENEMIES"
+  },
+  {
+    "Original": "4-2: GOD DAMN THE SUN",
+    "Replacement": "4-2: GOD DAMN THE SUN"
+  },
+  {
+    "Original": "KILL THE INSURRECTIONIST IN UNDER 10 SECONDS",
+    "Replacement": "KILL THE INSURRECTIONIST IN UNDER 10 SECONDS"
+  },
+  {
+    "Original": "4-3: A SHOT IN THE DARK",
+    "Replacement": "4-3: A SHOT IN THE DARK"
+  },
+  {
+    "Original": "DON'T PICK UP THE TORCH",
+    "Replacement": "DON'T PICK UP THE TORCH"
+  },
+  {
+    "Original": "4-4: CLAIR DE SOLEIL",
+    "Replacement": "4-4: CLAIR DE SOLEIL"
+  },
+  {
+    "Original": "REACH THE BOSS GATE IN UNDER 18 SECONDS",
+    "Replacement": "REACH THE BOSS GATE IN UNDER 18 SECONDS"
+  },
+  {
+    "Original": "LAYER 5: WRATH",
+    "Replacement": "LAYER 5: WRATH"
+  },
+  {
+    "Original": "2-1: BRIDGEBURNER",
+    "Replacement": "2-1: BRIDGEBURNER"
+  },
+  {
+    "Original": "DON'T OPEN ANY NORMAL DOORS",
+    "Replacement": "DON'T OPEN ANY NORMAL DOORS"
+  },
+  {
+    "Original": "2-2: DEATH AT 20,000 VOLTS",
+    "Replacement": "2-2: DEATH AT 20,000 VOLTS"
+  },
+  {
+    "Original": "BEAT THE LEVEL IN UNDER 60 SECONDS",
+    "Replacement": "BEAT THE LEVEL IN UNDER 60 SECONDS"
+  },
+  {
+    "Original": "2-3: SHEER HEART ATTACK",
+    "Replacement": "2-3: SHEER HEART ATTACK"
+  },
+  {
+    "Original": "DON'T TOUCH ANY WATER",
+    "Replacement": "НЕ КАСАЙСЯ ВОДЫ"
+  },
+  {
+    "Original": "2-4: COURT OF THE CORPSE KING",
+    "Replacement": "2-4: COURT OF THE CORPSE KING"
+  },
+  {
+    "Original": "PARRY A PUNCH",
+    "Replacement": "PARRY A PUNCH"
+  },
+  {
+    "Original": "LAYER 6: HERESY",
+    "Replacement": "КРУГ 6: ЕРЕСЬ"
+  },
+  {
+    "Original": "3-1: BELLY OF THE BEAST",
+    "Replacement": "3-1: BELLY OF THE BEAST"
+  },
+  {
+    "Original": "KILL A MINDFLAYER WITH ACID",
+    "Replacement": "KILL A MINDFLAYER WITH ACID"
+  },
+  {
+    "Original": "3-2: DIVINE INTERVENTION",
+    "Replacement": "3-2: БОЖЕСТВЕННОЕ ВМЕШАТЕЛЬСТВО"
+  },
+  {
+    "Original": "DROP GABRIEL IN A PIT",
+    "Replacement": "DROP GABRIEL IN A PIT"
+  },
+  {
+    "Original": "1920 x 1080",
+    "Replacement": "1920 x 1080"
+  },
+  {
+    "Original": "120",
+    "Replacement": "120"
+  },
+  {
+    "Original": "DEFAULT",
+    "Replacement": "DEFAULT"
+  },
+  {
+    "Original": "COMPLETE THE LEVEL IN UNDER 10 SECONDS",
+    "Replacement": "ЗАКОНЧИ УРОВЕНЬ ЗА 10 СЕКУНД"
+  },
+  {
+    "Original": "DO NOT PICK UP ANY SKULLS",
+    "Replacement": "НЕ ПОБИРАЙ НИ ЕДИНОГО ЧЕРЕПА"
+  },
+  {
+    "Original": "LAYER 2: LUST",
+    "Replacement": "КРУГ 2: ПОХОТЬ"
+  },
+  {
+    "Original": "LAYER 3: GLUTTONY",
+    "Replacement": "КРУГ 3: ЧРЕВОУГОДИЕ"
+  },
+  {
+    "Original": "CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO",
+    "Replacement": "CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO CHEATS INFO"
+  },
+  {
+    "Original": "META",
+    "Replacement": "META"
+  },
+  {
+    "Original": "Keep Cheats Enabled",
+    "Replacement": "Keep Cheats Enabled"
+  },
+  {
+    "Original": "DISABLE ON RELOAD",
+    "Replacement": "DISABLE ON RELOAD"
+  },
+  {
+    "Original": "O",
+    "Replacement": "O"
+  },
+  {
+    "Original": "Spawner Arm",
+    "Replacement": "Spawner Arm"
+  },
+  {
+    "Original": "EQUIP",
+    "Replacement": "EQUIP"
+  },
+  {
+    "Original": "P",
+    "Replacement": "P"
+  },
+  {
+    "Original": "Teleport Menu",
+    "Replacement": "Teleport Menu"
+  },
+  {
+    "Original": "OPEN",
+    "Replacement": "OPEN"
+  },
+  {
+    "Original": "L",
+    "Replacement": "L"
+  },
+  {
+    "Original": "Fullbright",
+    "Replacement": "Fullbright"
+  },
+  {
+    "Original": "Press to Bind",
+    "Replacement": "Press to Bind"
+  },
+  {
+    "Original": "MOVEMENT",
+    "Replacement": "MOVEMENT"
+  },
+  {
+    "Original": "Noclip",
+    "Replacement": "Noclip"
+  },
+  {
+    "Original": "V",
+    "Replacement": "V"
+  },
+  {
+    "Original": "Flight",
+    "Replacement": "Flight"
+  },
+  {
+    "Original": "Infinite Wall Jumps",
+    "Replacement": "Infinite Wall Jumps"
+  },
+  {
+    "Original": "N",
+    "Replacement": "N"
+  },
+  {
+    "Original": "No Weapon Cooldown",
+    "Replacement": "No Weapon Cooldown"
+  },
+  {
+    "Original": "C",
+    "Replacement": "C"
+  },
+  {
+    "Original": "Infinite Power-Ups",
+    "Replacement": "Infinite Power-Ups"
+  },
+  {
+    "Original": "ENEMIES",
+    "Replacement": "ENEMIES"
+  },
+  {
+    "Original": "Blind Enemies",
+    "Replacement": "Blind Enemies"
+  },
+  {
+    "Original": "M",
+    "Replacement": "M"
+  },
+  {
+    "Original": "Disable Enemy Spawns",
+    "Replacement": "Disable Enemy Spawns"
+  },
+  {
+    "Original": "I",
+    "Replacement": "I"
+  },
+  {
+    "Original": "Invincible Enemies",
+    "Replacement": "Invincible Enemies"
+  },
+  {
+    "Original": "LOADING...",
+    "Replacement": "LOADING..."
+  }
+]
