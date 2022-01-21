@@ -101,11 +101,11 @@
   },
   {
     "Original": "Upvote",
-    "Replacement": "Голос за"
+    "Replacement": "За"
   },
   {
     "Original": "Downvote",
-    "Replacement": "Downvote"
+    "Replacement": "Против"
   },
   {
     "Original": "<color=red><size=72>x3,00</size></color>",
