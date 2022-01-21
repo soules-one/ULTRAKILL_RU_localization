@@ -425,7 +425,7 @@
   },
   {
     "Original": "--CONTROLS--",
-    "Replacement": "--CONTROLS--"
+    "Replacement": "--УПРАВЛЕНИЕ--"
   },
   {
     "Original": "RESET TO DEFAULT",
@@ -1685,11 +1685,11 @@
   },
   {
     "Original": "ENEMIES",
-    "Replacement": "ENEMIES"
+    "Replacement": "ВРАГИ"
   },
   {
     "Original": "Blind Enemies",
-    "Replacement": "Blind Enemies"
+    "Replacement": "Слепые враги"
   },
   {
     "Original": "M",
@@ -1705,7 +1705,7 @@
   },
   {
     "Original": "Invincible Enemies",
-    "Replacement": "Invincible Enemies"
+    "Replacement": "Неуязвимые враги"
   },
   {
     "Original": "LOADING...",
