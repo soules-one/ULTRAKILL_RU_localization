@@ -385,23 +385,23 @@
   },
   {
     "Original": "FIELD OF VIEW",
-    "Replacement": "FIELD OF VIEW"
+    "Replacement": "ПОЛЕ ЗРЕНИЯ"
   },
   {
     "Original": "WEAPON POSITION",
-    "Replacement": "WEAPON POSITION"
+    "Replacement": "ПОЛОЖЕНИЕ ОРУЖИЯ"
   },
   {
     "Original": "RIGHT",
-    "Replacement": "RIGHT"
+    "Replacement": "СПРАВА"
   },
   {
     "Original": "Option A",
-    "Replacement": "Option A"
+    "Replacement": "Опция A"
   },
   {
     "Original": "REMEMBER LAST USED WEAPON VARIATION",
-    "Replacement": "REMEMBER LAST USED WEAPON VARIATION"
+    "Replacement": "ЗАПОМИНАТЬ ПОСЛЕДНЕЕ ИСПОЛЬЗОВАННОЕ ОРУЖИЕ"
   },
   {
     "Original": "SCREENSHAKE",
@@ -409,19 +409,19 @@
   },
   {
     "Original": "CAMERA TILT",
-    "Replacement": "CAMERA TILT"
+    "Replacement": "НАКЛОН КАМЕРЫ"
   },
   {
     "Original": "DISCORD INTEGRATION",
-    "Replacement": "DISCORD INTEGRATION"
+    "Replacement": "ИНТЕГРАЦИЯ DISCORD"
   },
   {
     "Original": "STEAM INTEGRATION",
-    "Replacement": "STEAM INTEGRATION"
+    "Replacement": "ИНТЕГРАЦИЯ STEAM"
   },
   {
     "Original": "SAVE SLOT",
-    "Replacement": "SAVE SLOT"
+    "Replacement": "СЛОТ СОХРАНЕНИЯ"
   },
   {
     "Original": "--CONTROLS--",
@@ -429,15 +429,15 @@
   },
   {
     "Original": "RESET TO DEFAULT",
-    "Replacement": "RESET TO DEFAULT"
+    "Replacement": "ПО УМОЛЧАНИЮ"
   },
   {
     "Original": "-- MOVEMENT --",
-    "Replacement": "-- MOVEMENT --"
+    "Replacement": "-- ДВИЖЕНИЕ --"
   },
   {
     "Original": "FORWARD",
-    "Replacement": "FORWARD"
+    "Replacement": "ВПЕРЕД"
   },
   {
     "Original": "W",
@@ -445,39 +445,39 @@
   },
   {
     "Original": "LEFT",
-    "Replacement": "LEFT"
+    "Replacement": "ВЛЕВО"
   },
   {
     "Original": "JUMP",
-    "Replacement": "JUMP"
+    "Replacement": "ПРЫЖОК"
   },
   {
     "Original": "DASH",
-    "Replacement": "DASH"
+    "Replacement": "РЫВОК"
   },
   {
     "Original": "SLIDE",
-    "Replacement": "SLIDE"
+    "Replacement": "СКОЛЬЖЕНИЕ"
   },
   {
     "Original": "-- ACTIONS --",
-    "Replacement": "-- ACTIONS --"
+    "Replacement": "-- ДЕЙСТВИЯ --"
   },
   {
     "Original": "PRIMARY FIRE",
-    "Replacement": "PRIMARY FIRE"
+    "Replacement": "ОСНОВНОЙ ОГОНЬ"
   },
   {
     "Original": "ALT FIRE",
-    "Replacement": "ALT FIRE"
+    "Replacement": "АЛЬТЕРНАТИВНЫЙ ОГОНЬ"
   },
   {
     "Original": "PUNCH",
-    "Replacement": "PUNCH"
+    "Replacement": "УДАР"
   },
   {
     "Original": "LAST USED \nWEAPON",
-    "Replacement": "LAST USED \nWEAPON"
+    "Replacement": "ПОСЛЕДНЕЕ \nОРУЖИЕ"
   },
   {
     "Original": "Q",
@@ -485,11 +485,11 @@
   },
   {
     "Original": "CHANGE\nVARIATION",
-    "Replacement": "CHANGE\nVARIATION"
+    "Replacement": "СМЕНИТЬ\nВИД"
   },
   {
     "Original": "CHANGE ARM",
-    "Replacement": "CHANGE ARM"
+    "Replacement": "СМЕНИТЬ РУКУ"
   },
   {
     "Original": "WHIPLASH",
@@ -501,47 +501,47 @@
   },
   {
     "Original": "-- WEAPONS --",
-    "Replacement": "-- WEAPONS --"
+    "Replacement": "-- ОРУЖИЕ --"
   },
   {
     "Original": "SLOT 1",
-    "Replacement": "SLOT 1"
+    "Replacement": "СЛОТ 1"
   },
   {
     "Original": "SLOT 2",
-    "Replacement": "SLOT 2"
+    "Replacement": "СЛОТ 2"
   },
   {
     "Original": "SLOT 3",
-    "Replacement": "SLOT 3"
+    "Replacement": "СЛОТ 3"
   },
   {
     "Original": "SLOT 4",
-    "Replacement": "SLOT 4"
+    "Replacement": "СЛОТ 4"
   },
   {
     "Original": "CHANGE WEAPON WITH MOUSE WHEEL",
-    "Replacement": "CHANGE WEAPON WITH MOUSE WHEEL"
+    "Replacement": "СМЕНИТЬ ОРУЖИЕ С ПОМОЩЬЮ КОЛЕСИКА МЫШИ"
   },
   {
     "Original": "SCROLL THROUGH TYPE",
-    "Replacement": "SCROLL THROUGH TYPE"
+    "Replacement": "ПРОКРУТИТЬ"
   },
   {
     "Original": "WEAPONS",
-    "Replacement": "WEAPONS"
+    "Replacement": "ОРУЖИЕ"
   },
   {
     "Original": "REVERSE SCROLL DIRECTION",
-    "Replacement": "REVERSE SCROLL DIRECTION"
+    "Replacement": "ИНВЕРСИЯ ПРОКРУЧИВАНИЯ"
   },
   {
     "Original": "--GRAPHICS--",
-    "Replacement": "--GRAPHICS--"
+    "Replacement": "--ГРАФИКА--"
   },
   {
     "Original": "RESOLUTION",
-    "Replacement": "RESOLUTION"
+    "Replacement": "РАЗРЕШЕНИЕ"
   },
   {
     "Original": "640x480",
@@ -549,11 +549,11 @@
   },
   {
     "Original": "FULLSCREEN",
-    "Replacement": "FULLSCREEN"
+    "Replacement": "ПОЛНЫЙ ЭКРАН"
   },
   {
     "Original": "TARGET FRAMERATE",
-    "Replacement": "TARGET FRAMERATE"
+    "Replacement": "ЦЕЛЕВАЯ ЧАСТОТА КАДРОВ"
   },
   {
     "Original": "2X SCREEN'S REFRESH RATE",
