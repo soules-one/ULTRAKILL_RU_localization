@@ -369,11 +369,11 @@
   },
   {
     "Original": "MOUSE SENSITIVITY",
-    "Replacement": "MOUSE SENSITIVITY"
+    "Replacement": "ЧУВСТВИТЕЛЬНОСТЬ МЫШИ"
   },
   {
     "Original": "INVERT X AXIS",
-    "Replacement": "INVERT X AXIS"
+    "Replacement": "ИНВЕРСИЯ ПО ОСИ X"
   },
   {
     "Original": "Toggle",
@@ -381,7 +381,7 @@
   },
   {
     "Original": "INVERT Y AXIS",
-    "Replacement": "INVERT Y AXIS"
+    "Replacement": "ИНВЕРСИЯ ПО ОСИ Y"
   },
   {
     "Original": "FIELD OF VIEW",
