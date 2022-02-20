@@ -377,7 +377,7 @@
   },
   {
     "Original": "Toggle",
-    "Replacement": "Toggle"
+    "Replacement": "Переключить"
   },
   {
     "Original": "INVERT Y AXIS",
@@ -557,7 +557,7 @@
   },
   {
     "Original": "2X SCREEN'S REFRESH RATE",
-    "Replacement": "2X SCREEN'S REFRESH RATE"
+    "Replacement": "2X ОТ ЧАСТОТЫ ОБНОВЛЕНИЯ ЭКРАНА"
   },
   {
     "Original": "VSYNC",
@@ -565,7 +565,7 @@
   },
   {
     "Original": "--PSX SETTINGS--\n",
-    "Replacement": "--PSX SETTINGS--\n"
+    "Replacement": "--НАСТРОЙКИ PSX--\n"
   },
   {
     "Original": "(Tone down for more visual clarity)",
@@ -573,231 +573,231 @@
   },
   {
     "Original": "DOWNSCALING",
-    "Replacement": "DOWNSCALING"
+    "Replacement": "УМЕНЬШЕНИЕ"
   },
   {
     "Original": "OFF",
-    "Replacement": "OFF"
+    "Replacement": "ВЫКЛ"
   },
   {
     "Original": "DITHERING",
-    "Replacement": "DITHERING"
+    "Replacement": "СГЛАЖИВАНИЕ"
   },
   {
     "Original": "TEXTURE WARPING",
-    "Replacement": "TEXTURE WARPING"
+    "Replacement": "ИСКАЖЕНИЕ ТЕКСТУР"
   },
   {
     "Original": "VERTEX WARPING",
-    "Replacement": "VERTEX WARPING"
+    "Replacement": "ИСКАЖЕНИЕ ВЕРШИН"
   },
   {
     "Original": "NONE",
-    "Replacement": "NONE"
+    "Replacement": "НЕТ"
   },
   {
     "Original": "CUSTOM COLOR PALETTE",
-    "Replacement": "CUSTOM COLOR PALETTE"
+    "Replacement": "ПОЛЬЗОВАТЕЛЬСКАЯ ПАЛИТРА"
   },
   {
     "Original": "SELECT",
-    "Replacement": "SELECT"
+    "Replacement": "ВЫБЕРИТЕ"
   },
   {
     "Original": "COLOR COMPRESSION",
-    "Replacement": "COLOR COMPRESSION"
+    "Replacement": "СЖАТИЕ ЦВЕТОВ"
   },
   {
     "Original": "--PERFORMANCE SETTINGS--\n",
-    "Replacement": "--PERFORMANCE SETTINGS--\n"
+    "Replacement": "--НАСТРОЙКИ ПРОИЗВОДИТЕЛЬНОСТИ--\n"
   },
   {
     "Original": "SIMPLER EXPLOSIONS",
-    "Replacement": "SIMPLER EXPLOSIONS"
+    "Replacement": "УПРОЩЕННЫЕ ВЗРЫВЫ"
   },
   {
     "Original": "SIMPLER FIRE",
-    "Replacement": "SIMPLER FIRE"
+    "Replacement": "УПРОЩЕННЫЕ ВЫСТРЕЛЫ"
   },
   {
     "Original": "SIMPLER SPAWN EFFECTS",
-    "Replacement": "SIMPLER SPAWN EFFECTS"
+    "Replacement": "УПРОЩЕННЫЕ ЭФФЕКТЫ СПАВНА"
   },
   {
     "Original": "DISABLE ENVIRONMENTAL PARTICLE EFFECTS",
-    "Replacement": "DISABLE ENVIRONMENTAL PARTICLE EFFECTS"
+    "Replacement": "ОТКЛЮЧИТЬ ЭФФЕКТЫ ОКРУЖАЮЩИХ ЧАСТИЦ"
   },
   {
     "Original": "SIMPLE NAIL PHYSICS",
-    "Replacement": "SIMPLE NAIL PHYSICS"
+    "Replacement": "УПРОЩЕННАЯ ФИЗИКА ГВОЗДЕЙ"
   },
   {
     "Original": "--GORE SETTINGS--\n",
-    "Replacement": "--GORE SETTINGS--\n"
+    "Replacement": "--НАСТРОЙКИ ЖЕСТОКОСТИ--\n"
   },
   {
     "Original": "(Does not affect gameplay)",
-    "Replacement": "(Does not affect gameplay)"
+    "Replacement": "(Не влияет на геймплей)"
   },
   {
     "Original": "ENABLE BLOOD & GORE",
-    "Replacement": "ENABLE BLOOD & GORE"
+    "Replacement": "ВКЛЮЧИТЬ КРОВЬ И ЖЕСТОКОСТЬ"
   },
   {
     "Original": "FREEZE GORE PHYSICS",
-    "Replacement": "FREEZE GORE PHYSICS"
+    "Replacement": "ЗАМОРОЗИТЬ ФИЗИКУ КРОВИ"
   },
   {
     "Original": "BLOODSTAIN CHANCE",
-    "Replacement": "BLOODSTAIN CHANCE"
+    "Replacement": "ШАНС КРОВАВЫХ ПЯТЕН"
   },
   {
     "Original": "MAX GORE PER ROOM",
-    "Replacement": "MAX GORE PER ROOM"
+    "Replacement": "МАКСИМАЛЬНАЯ КРОВЬ ДЛЯ КОМНАТЫ"
   },
   {
     "Original": "--AUDIO--",
-    "Replacement": "--AUDIO--"
+    "Replacement": "--АУДИО--"
   },
   {
     "Original": "SUBTITLES",
-    "Replacement": "SUBTITLES"
+    "Replacement": "СУБТИТРЫ"
   },
   {
     "Original": "MASTER VOLUME",
-    "Replacement": "MASTER VOLUME"
+    "Replacement": "ОБЩАЯ ГРОМКОСТЬ"
   },
   {
-    "Original": "MUSIC VOLUME",
-    "Replacement": "MUSIC VOLUME"
+    "Original": "MUSIC VOLUME""ГРОМКОСТЬ МУЗЫКИ",
+    "Replacement": "ГРОМКОСТЬ МУЗЫКИ"
   },
   {
     "Original": "--HUD--",
-    "Replacement": "--HUD--"
+    "Replacement": "--ИНТЕРФЕЙС--"
   },
   {
     "Original": "HUD TYPE",
-    "Replacement": "HUD TYPE"
+    "Replacement": "ТИП ИНТЕРФЕЙСА"
   },
   {
     "Original": "STANDARD",
-    "Replacement": "STANDARD"
+    "Replacement": "СТАНДАРТНЫЙ"
   },
   {
     "Original": "BACKGROUND OPACITY",
-    "Replacement": "BACKGROUND OPACITY"
+    "Replacement": "НЕПРОЗРАЧНОСТЬ ФОНА"
   },
   {
     "Original": "ALWAYS ON TOP",
-    "Replacement": "ALWAYS ON TOP"
+    "Replacement": "ВСЕГДА СВЕРХУ"
   },
   {
     "Original": "CHEAT & SANDBOX ICONS",
-    "Replacement": "CHEAT & SANDBOX ICONS"
+    "Replacement": "ИКОНКИ ЧИТОВ И ПЕСОЧНИЦЫ"
   },
   {
     "Original": "--HUD ELEMENTS--",
-    "Replacement": "--HUD ELEMENTS--"
+    "Replacement": "--ЭЛЕМЕНТЫ ИНТЕРФЕЙСА--"
   },
   {
     "Original": "WEAPON ICON",
-    "Replacement": "WEAPON ICON"
+    "Replacement": "ИКОНКА ОРУЖИЯ"
   },
   {
     "Original": "ARM ICON",
-    "Replacement": "ARM ICON"
+    "Replacement": "ИКОНКА РУКИ"
   },
   {
     "Original": "RAILCANNON METER",
-    "Replacement": "RAILCANNON METER"
+    "Replacement": "ШКАЛА РЕЛЬСОТРОНА"
   },
   {
     "Original": "STYLE METER",
-    "Replacement": "STYLE METER"
+    "Replacement": "ШКАЛА СТИЛЯ"
   },
   {
     "Original": "STYLE INFO",
-    "Replacement": "STYLE INFO"
+    "Replacement": "ИНФОРМАЦИЯ О СТИЛЕ"
   },
   {
     "Original": "--CROSSHAIR SETTINGS--",
-    "Replacement": "--CROSSHAIR SETTINGS--"
+    "Replacement": "--НАСТРОЙКИ ПЕРЕКРЕСТИЯ--"
   },
   {
     "Original": "CROSSHAIR TYPE",
-    "Replacement": "CROSSHAIR TYPE"
+    "Replacement": "ТИП ПЕРЕКРЕСТИЯ"
   },
   {
     "Original": "SMALL",
-    "Replacement": "SMALL"
+    "Replacement": "МАЛОЕ"
   },
   {
     "Original": "CROSSHAIR COLOR",
-    "Replacement": "CROSSHAIR COLOR"
+    "Replacement": "ЦВЕТ ПЕРЕКРЕСТИЯ"
   },
   {
     "Original": "WHITE",
-    "Replacement": "WHITE"
+    "Replacement": "БЕЛЫЙ"
   },
   {
     "Original": "CROSSHAIR HUD SIZE",
-    "Replacement": "CROSSHAIR HUD SIZE"
+    "Replacement": "РАХЗМЕР ИНТЕРФЕЙСА ПЕРЕКРЕСТИЯ"
   },
   {
     "Original": "MEDIUM",
-    "Replacement": "MEDIUM"
+    "Replacement": "СРЕДНИЙ"
   },
   {
     "Original": "CROSSHAIR HUD FADE",
-    "Replacement": "CROSSHAIR HUD FADE"
+    "Replacement": "ПРОЗРАЧНОСТЬ ИНТЕРФЕЙСА ПЕРЕКРЕСТИЯ"
   },
   {
     "Original": "POWERUP METER",
-    "Replacement": "POWERUP METER"
+    "Replacement": "ШКАЛА УЛУЧШЕНИЙ"
   },
   {
     "Original": "--ASSIST--",
-    "Replacement": "--ASSIST--"
+    "Replacement": "--ВСПОМОГАТЕЛЬНОЕ--"
   },
   {
     "Original": "--MINOR ASSISTS--\n",
-    "Replacement": "--MINOR ASSISTS--\n"
+    "Replacement": "--ПОБОЧНАЯ ПОМОЩЬ--\n"
   },
   {
     "Original": "AUTO AIM",
-    "Replacement": "AUTO AIM"
+    "Replacement": "АВТОПРИЦЕЛ"
   },
   {
     "Original": "AUTO AIM AMOUNT",
-    "Replacement": "AUTO AIM AMOUNT"
+    "Replacement": "КОЛИЧЕСТВО АВТОПРИЦЕЛА"
   },
   {
     "Original": "ENEMY SILHOUETTES",
-    "Replacement": "ENEMY SILHOUETTES"
+    "Replacement": "СИЛУЭТЫ ВРАГОВ"
   },
   {
     "Original": "ACTIVATION DISTANCE",
-    "Replacement": "ACTIVATION DISTANCE"
+    "Replacement": "РАССТОЯНИЕ АКТИВАЦИИ"
   },
   {
     "Original": "ALWAYS ON",
-    "Replacement": "ALWAYS ON"
+    "Replacement": "ВСЕГДА ВКЛЮЧЕНО"
   },
   {
     "Original": "OUTLINE ONLY",
-    "Replacement": "OUTLINE ONLY"
+    "Replacement": "ТОЛЬКО КОНТУР"
   },
   {
     "Original": "--MAJOR ASSISTS--\n",
-    "Replacement": "--MAJOR ASSISTS--\n"
+    "Replacement": "--ОСНОВНАЯ ПОМОЩЬ--\n"
   },
   {
     "Original": "ENABLE",
-    "Replacement": "ENABLE"
+    "Replacement": "ВКЛЮЧИТЬ"
   },
   {
     "Original": "GAME SPEED",
-    "Replacement": "GAME SPEED"
+    "Replacement": "СКОРОСТЬ ИГРЫ"
   },
   {
     "Original": "100%",
@@ -805,47 +805,47 @@
   },
   {
     "Original": "DAMAGE TAKEN",
-    "Replacement": "DAMAGE TAKEN"
+    "Replacement": "ПОЛУЧАЕМЫЙ УРОН"
   },
   {
     "Original": "BOSS FIGHT DIFFICULTY OVERRIDE",
-    "Replacement": "BOSS FIGHT DIFFICULTY OVERRIDE"
+    "Replacement": "ОТМЕНА СЛОЖНОСТИ БИТВ С БОССОМ"
   },
   {
     "Original": "REQUIRES BOSS RESTART",
-    "Replacement": "REQUIRES BOSS RESTART"
+    "Replacement": "НЕОБХОДИМ ПЕРЕЗАПУСК БОССА"
   },
   {
     "Original": "INFINITE STAMINA",
-    "Replacement": "INFINITE STAMINA"
+    "Replacement": "БЕСКОНЕЧНАЯ ВЫНОСЛИВОСТЬ"
   },
   {
     "Original": "DISABLE HARD DAMAGE",
-    "Replacement": "DISABLE HARD DAMAGE"
+    "Replacement": "ОТКЛЮЧИТЬ СЕРЬЕЗНЫЙ УРОН"
   },
   {
     "Original": "DISABLE ASSIST POPUP",
-    "Replacement": "DISABLE ASSIST POPUP"
+    "Replacement": "ОТКЛЮЧИТЬ ВСПЛЫВАНИЕ ПОМОЩИ"
   },
   {
-    "Original": "\"<color=orange>Major Assists</color>\" consists of modifiers that change the game and its balance <color=orange>considerably</color>.\n\nIf \"Major Assists\" is enabled <color=orange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color=orange>can be removed</color> by achieving <color=orange>the same rank or higher</color> with \"Major Assists\" disabled for the duration of the <color=orange>entire</color> mission.\n\n\"<color=yellow>Perfect</color>\" ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabled.",
-    "Replacement": "\"<color=orange>Major Assists</color>\" consists of modifiers that change the game and its balance <color=orange>considerably</color>.\n\nIf \"Major Assists\" is enabled <color=orange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color=orange>can be removed</color> by achieving <color=orange>the same rank or higher</color> with \"Major Assists\" disabled for the duration of the <color=orange>entire</color> mission.\n\n\"<color=yellow>Perfect</color>\" ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabled."
+    "Original": "\"<color=orange>Major Assists</color>\" consists of modifiers that change the game and its balance <color=orange>considerably</color>.\n\nIf \"Major Assists\" is enabled <color=orange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color=orange>can be removed</color> by achieving <color=orange>the same rank or higher</color> with \"Major Assists\" disabled for the duration of the <color=orange>entire</color> mission.\n\n\"<color=yellow>Perfect</color>\" ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabaled."
+    "Replacement":"\"<color=orange>Major Assists</color>\" consists of modifiers that change the game and its balance <color=orange>considerably</color>.\n\nIf \"Major Assists\" is enabled <color=orange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color=orange>can be removed</color> by achieving <color=orange>the same rank or higher</color> with \"Major Assists\" disabled for the duration of the <color=orange>entire</color> mission.\n\n\"<color=yellow>Perfect</color>\" ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabaled."
   },
   {
     "Original": "ENABLE MAJOR ASSISTS?",
-    "Replacement": "ENABLE MAJOR ASSISTS?"
+    "Replacement": "ВКЛЮЧИТЬ ОСНОВНУЮ ПОМОЩЬ"
   },
   {
     "Original": "NO",
-    "Replacement": "NO"
+    "Replacement": "НЕТ"
   },
   {
     "Original": "--COLORS--",
-    "Replacement": "--COLORS--"
+    "Replacement": "--ЦВЕТА--"
   },
   {
     "Original": "-- HUD --",
-    "Replacement": "-- HUD --"
+    "Replacement": "-- ИНТЕРФЕЙС --"
   },
   {
     "Original": "1.00",
@@ -861,7 +861,7 @@
   },
   {
     "Original": "HEALTH NUMBER",
-    "Replacement": "HEALTH NUMBER"
+    "Replacement": "СЧЕТЧИК ЗДОРОВЬЯ"
   },
   {
     "Original": "SOFT DAMAGE",
