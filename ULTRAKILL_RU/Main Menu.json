@@ -757,11 +757,11 @@
   },
   {
     "Original": "--ASSIST--",
-    "Replacement": "--ВСПОМОГАТЕЛЬНОЕ--"
+    "Replacement": "--ПОМОЩЬ--"
   },
   {
     "Original": "--MINOR ASSISTS--\n",
-    "Replacement": "--ПОБОЧНАЯ ПОМОЩЬ--\n"
+    "Replacement": "--НЕЗНАЧИТЕЛЬНАЯ ПОМОЩЬ--\n"
   },
   {
     "Original": "AUTO AIM",
@@ -789,7 +789,7 @@
   },
   {
     "Original": "--MAJOR ASSISTS--\n",
-    "Replacement": "--ОСНОВНАЯ ПОМОЩЬ--\n"
+    "Replacement": "--СЕРЬЁЗНАЯ ПОМОЩЬ--\n"
   },
   {
     "Original": "ENABLE",
@@ -829,11 +829,11 @@
   },
   {
     "Original": "\"<color=orange>Major Assists</color>\" consists of modifiers that change the game and its balance <color=orange>considerably</color>.\n\nIf \"Major Assists\" is enabled <color=orange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color=orange>can be removed</color> by achieving <color=orange>the same rank or higher</color> with \"Major Assists\" disabled for the duration of the <color=orange>entire</color> mission.\n\n\"<color=yellow>Perfect</color>\" ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabaled."
-    "Replacement":"\"<color=orange>Major Assists</color>\" consists of modifiers that change the game and its balance <color=orange>considerably</color>.\n\nIf \"Major Assists\" is enabled <color=orange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color=orange>can be removed</color> by achieving <color=orange>the same rank or higher</color> with \"Major Assists\" disabled for the duration of the <color=orange>entire</color> mission.\n\n\"<color=yellow>Perfect</color>\" ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabaled."
+    "Replacement": "\"<color=orange>Серьёзная Помощь</color>\" состоит из модификаторов, <color=orange>значительно</color> меняющих игру и её баланс.\n\nЕсли \"Серьёзная Помощь\" включена <color=orange>когда-либо</color> во время миссии, ранг, полученный по завершении, будет иметь синий фон. Этот фон <color=orange>может быть убран</color> по достижении <color=orange>того же или ранга выше</color> с отключённой \"Серьёзной Помощью\" в течение <color=orange>всей</color> миссии.\n\n\Ранг "<color=yellow>Perfect</color>\" и наивышие очки Кибер Гринда не могут быть достигнуты с включённой \"Серьёзной Помощью\"."
   },
   {
     "Original": "ENABLE MAJOR ASSISTS?",
-    "Replacement": "ВКЛЮЧИТЬ ОСНОВНУЮ ПОМОЩЬ"
+    "Replacement": "ВКЛЮЧИТЬ СЕРЬЁЗНУЮ ПОМОЩЬ?"
   },
   {
     "Original": "NO",
