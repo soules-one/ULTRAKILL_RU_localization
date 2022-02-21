@@ -525,7 +525,7 @@
   },
   {
     "Original": "SCROLL THROUGH TYPE",
-    "Replacement": "ПРОКРУТИТЬ"
+    "Replacement": "ПРОКРУЧИВАНИЕ ТИПА"
   },
   {
     "Original": "WEAPONS",
@@ -573,7 +573,7 @@
   },
   {
     "Original": "DOWNSCALING",
-    "Replacement": "УМЕНЬШЕНИЕ"
+    "Replacement": "УМЕНЬШЕНИЕ РАЗРЕШЕНИЯ"
   },
   {
     "Original": "OFF",
@@ -581,7 +581,7 @@
   },
   {
     "Original": "DITHERING",
-    "Replacement": "СГЛАЖИВАНИЕ"
+    "Replacement": "РАЗМЫТИЕ"
   },
   {
     "Original": "TEXTURE WARPING",
