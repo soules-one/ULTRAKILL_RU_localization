@@ -1501,7 +1501,7 @@
   },
   {
     "Original": "DON'T PICK UP THE TORCH",
-    "Replacement": "DON'T PICK UP THE TORCH"
+    "Replacement": "НЕ ПОДБИРАЙ ФАКЕЛ"
   },
   {
     "Original": "4-4: CLAIR DE SOLEIL",
@@ -1605,7 +1605,7 @@
   },
   {
     "Original": "Keep Cheats Enabled",
-    "Replacement": "Keep Cheats Enabled"
+    "Replacement": "Оставить Читы Включёнными"
   },
   {
     "Original": "DISABLE ON RELOAD",
@@ -1621,7 +1621,7 @@
   },
   {
     "Original": "EQUIP",
-    "Replacement": "EQUIP"
+    "Replacement": "ЭКИПИРОВАТЬ"
   },
   {
     "Original": "P",
@@ -1633,7 +1633,7 @@
   },
   {
     "Original": "OPEN",
-    "Replacement": "OPEN"
+    "Replacement": "ОТКРЫТЬ"
   },
   {
     "Original": "L",
