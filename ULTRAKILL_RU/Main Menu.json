@@ -741,7 +741,7 @@
   },
   {
     "Original": "CROSSHAIR HUD SIZE",
-    "Replacement": "РАХЗМЕР ИНТЕРФЕЙСА ПЕРЕКРЕСТИЯ"
+    "Replacement": "РАЗМЕР ИНТЕРФЕЙСА ПЕРЕКРЕСТИЯ"
   },
   {
     "Original": "MEDIUM",
@@ -828,8 +828,8 @@
     "Replacement": "ОТКЛЮЧИТЬ ВСПЛЫВАНИЕ ПОМОЩИ"
   },
   {
-    "Original": "\"<color=orange>Major Assists</color>\" consists of modifiers that change the game and its balance <color=orange>considerably</color>.\n\nIf \"Major Assists\" is enabled <color=orange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color=orange>can be removed</color> by achieving <color=orange>the same rank or higher</color> with \"Major Assists\" disabled for the duration of the <color=orange>entire</color> mission.\n\n\"<color=yellow>Perfect</color>\" ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabaled."
-    "Replacement": "\"<color=orange>Серьёзная Помощь</color>\" состоит из модификаторов, <color=orange>значительно</color> меняющих игру и её баланс.\n\nЕсли \"Серьёзная Помощь\" включена <color=orange>когда-либо</color> во время миссии, ранг, полученный по завершении, будет иметь синий фон. Этот фон <color=orange>может быть убран</color> по достижении <color=orange>того же или ранга выше</color> с отключённой \"Серьёзной Помощью\" в течение <color=orange>всей</color> миссии.\n\n\Ранг "<color=yellow>Perfect</color>\" и наивышие очки Кибер Гринда не могут быть достигнуты с включённой \"Серьёзной Помощью\"."
+    "Original": "\"<color=orange>Major Assists</color>\" consists of modifiers that change the game and its balance <color=orange>considerably</color>.\n\nIf \"Major Assists\" is enabled <color=orange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color=orange>can be removed</color> by achieving <color=orange>the same rank or higher</color> with \"Major Assists\" disabled for the duration of the <color=orange>entire</color> mission.\n\n\"<color=yellow>Perfect</color>\" ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabaled.",
+    "Replacement": "\"<color=orange>Серьёзная Помощь</color>\" состоит из модификаторов, <color=orange>значительно</color> меняющих игру и её баланс.\n\nЕсли \"Серьёзная Помощь\" включена <color=orange>когда-либо</color> во время миссии, ранг, полученный по завершении, будет иметь синий фон. Этот фон <color=orange>может быть убран</color> по достижении <color=orange>того же или ранга выше</color> с отключённой \"Серьёзной Помощью\" в течение <color=orange>всей</color> миссии.\n\n\"<color=yellow>Perfect</color>\" ранг и наивышие очки Кибер Гринда не могут быть достигнуты с включённой \"Серьёзной Помощью\"."
   },
   {
     "Original": "ENABLE MAJOR ASSISTS?",
@@ -1185,7 +1185,7 @@
   },
   {
     "Original": "<b>DUPLICATE SAVE</b>\n\nWe found save files <b>both</b> directly in the Saves directory and the <b>first slot.</b>\n\n\nPick which one you want to <b>keep.</b>",
-    "Replacement": "<b>DUPLICATE SAVE</b>\n\nWe found save files <b>both</b> directly in the Saves directory and the <b>first slot.</b>\n\n\nPick which one you want to <b>keep.</b>"
+    "Replacement": "<b>ДУБЛИРОВАТЬ СОХРАНЕНИЕ</b>\n\nНайдены файлы сохранения в папке Сохранений <b>и</b> <b>первом слоте.</b>\n\n\nВыберите какое вы хотите <b>оставить.</b>"
   },
   {
     "Original": "<b>Saves/Slot1/</b>\n\nPROGRESS",
@@ -1201,11 +1201,11 @@
   },
   {
     "Original": "<b>! SAVE FAILED !</b>\n\nThe game is unable to finalize saving your progress.\n\n<b>COMMON REASONS FOR FAILURE:</b>\n1. Third party software (such as an antivirus) stopping the game from saving a new file\r\n\nIf this problem occurs again, make sure your antivirus or any similar software is not preventing the game from writing files\r\n\r\nIf you wish to try again,\r\npress <b>\"Y\"\r</b>\nIf you wish to continue without saving,\r\npress <b>\"N\"</b>\n\nSorry and thank you for your understanding. :)",
-    "Replacement": "<b>! SAVE FAILED !</b>\n\nThe game is unable to finalize saving your progress.\n\n<b>COMMON REASONS FOR FAILURE:</b>\n1. Third party software (such as an antivirus) stopping the game from saving a new file\r\n\nIf this problem occurs again, make sure your antivirus or any similar software is not preventing the game from writing files\r\n\r\nIf you wish to try again,\r\npress <b>\"Y\"\r</b>\nIf you wish to continue without saving,\r\npress <b>\"N\"</b>\n\nSorry and thank you for your understanding. :)"
+    "Replacement": "<b>! НЕ УДАЛОСЬ СОХРАНИТЬСЯ !</b>\n\nИгра не может законочить сохранение прогресса.\n\n<b>ОСНОВНЫЕ ПРИЧИНЫ ОШИБКИ:</b>\n1. Стороннее ПО (например, антивирус) мешает игре сохранить новый файл\r\n\nЕсли эта проблема повторится, убедитесь, что антивирус или похожее ПО не ограничивают запись файлов игрой\r\n\r\nЕсли хотите попробовать ещё раз,\r\nнажмите <b>\"Y\"\r</b>\nЕсли хотите продолжить без сохранения,\r\nнажмите <b>\"N\"</b>\n\nПриносим извинения и благодарим за понимание. :)"
   },
   {
     "Original": "ERROR CODE",
-    "Replacement": "ERROR CODE"
+    "Replacement": "КОД ОШИБКИ"
   },
   {
     "Original": ":(",
@@ -1265,7 +1265,7 @@
   },
   {
     "Original": "OR STAY UP TO DATE AT:",
-    "Replacement": "OR STAY UP TO DATE AT:"
+    "Replacement": "ИЛИ ОТСЛЕЖИВАЕТЕ В:"
   },
   {
     "Original": "TWITTER",
@@ -1397,7 +1397,7 @@
   },
   {
     "Original": "C H A L L E N G E",
-    "Replacement": "C H A L L E N G E"
+    "Replacement": "И С П Ы Т А Н И Е"
   },
   {
     "Original": "-",
@@ -1421,7 +1421,7 @@
   },
   {
     "Original": "SLIDE UNINTERRUPTED FOR 12 SECONDS",
-    "Replacement": "SLIDE UNINTERRUPTED FOR 12 SECONDS"
+    "Replacement": "ПРОСКОЛЬЗИ НЕПРЕРВАННЫМ 12 СЕКУНД"
   },
   {
     "Original": "0-5: CERBERUS",
@@ -1429,7 +1429,7 @@
   },
   {
     "Original": "DON'T KILL A SINGLE ENEMY",
-    "Replacement": "DON'T KILL A SINGLE ENEMY"
+    "Replacement": "НЕ УБЕЙ НИ ОДНОГО ВРАГА"
   },
   {
     "Original": "OVERTURE: THE MOUTH OF HELL",
@@ -1437,7 +1437,7 @@
   },
   {
     "Original": "GET 5 KILLS WITH A SINGLE GLASS PANEL",
-    "Replacement": "GET 5 KILLS WITH A SINGLE GLASS PANEL"
+    "Replacement": "УБЕЙ 5 ВРАГОВ ОДНОЙ СТЕКЛЯННОЙ ПАНЕЛЬЮ"
   },
   {
     "Original": "0-2: THE MEATGRINDER",
@@ -1449,15 +1449,15 @@
   },
   {
     "Original": "SLIDE UNINTERRUPTED FOR 17 SECONDS",
-    "Replacement": "SLIDE UNINTERRUPTED FOR 17 SECONDS"
+    "Replacement": "ПРОСКОЛЬЗИ НЕПРЕРВАННЫМ 17 СЕКУНД"
   },
   {
     "Original": "DON'T INFLICT FATAL DAMAGE TO ANY ENEMY",
-    "Replacement": "DON'T INFLICT FATAL DAMAGE TO ANY ENEMY"
+    "Replacement": "НЕ НАНЕСИ ФАТАЛЬНЫЙ УРОН ЛЮБОМУ ВРАГУ"
   },
   {
     "Original": "FULL INTRO?",
-    "Replacement": "FULL INTRO?"
+    "Replacement": "ПОЛНОЕ ИНТРО?"
   },
   {
     "Original": "-- STANDARD --",
@@ -1617,7 +1617,7 @@
   },
   {
     "Original": "Spawner Arm",
-    "Replacement": "Spawner Arm"
+    "Replacement": "Рука-Спавнер"
   },
   {
     "Original": "EQUIP",
