@@ -1149,23 +1149,23 @@
   },
   {
     "Original": "Save",
-    "Replacement": "Save"
+    "Replacement": "Сохранить"
   },
   {
     "Original": "Load",
-    "Replacement": "Load"
+    "Replacement": "Загрузить"
   },
   {
     "Original": "Delete",
-    "Replacement": "Delete"
+    "Replacement": "Удалить"
   },
   {
     "Original": "New Save",
-    "Replacement": "New Save"
+    "Replacement": "Новое Сохранение"
   },
   {
     "Original": "Give it a name",
-    "Replacement": "Give it a name"
+    "Replacement": "Назови"
   },
   {
     "Original": "Enabling cheats means you will not gain a rank upon completion of a level and a Cyber Grind high score will not be saved.\n\n<color=green>Press <color=white>~</color> or <color=white>home</color> after enabling cheats to toggle the menu</color>",
@@ -1173,15 +1173,15 @@
   },
   {
     "Original": "ACTIVATE CHEATS",
-    "Replacement": "ACTIVATE CHEATS"
+    "Replacement": "АКТИВИРОВАТЬ ЧИТЫ"
   },
   {
     "Original": "Teleport",
-    "Replacement": "Teleport"
+    "Replacement": "Телепорт"
   },
   {
     "Original": "Name",
-    "Replacement": "Name"
+    "Replacement": "Имя"
   },
   {
     "Original": "<b>DUPLICATE SAVE</b>\n\nWe found save files <b>both</b> directly in the Saves directory and the <b>first slot.</b>\n\n\nPick which one you want to <b>keep.</b>",
@@ -1197,7 +1197,7 @@
   },
   {
     "Original": "QUIT GAME",
-    "Replacement": "QUIT GAME"
+    "Replacement": "ЗАКРЫТЬ ИГРУ"
   },
   {
     "Original": "<b>! SAVE FAILED !</b>\n\nThe game is unable to finalize saving your progress.\n\n<b>COMMON REASONS FOR FAILURE:</b>\n1. Third party software (such as an antivirus) stopping the game from saving a new file\r\n\nIf this problem occurs again, make sure your antivirus or any similar software is not preventing the game from writing files\r\n\r\nIf you wish to try again,\r\npress <b>\"Y\"\r</b>\nIf you wish to continue without saving,\r\npress <b>\"N\"</b>\n\nSorry and thank you for your understanding. :)",
