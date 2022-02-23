@@ -897,19 +897,19 @@
   },
   {
     "Original": "BLUE VARIATION",
-    "Replacement": "ВАРИАЦИЯ СИНЕГО"
+    "Replacement": "СИНЯЯ ВАРИАЦИЯ"
   },
   {
     "Original": "GREEN VARIATION",
-    "Replacement": "ВАРИАЦИЯ ЗЕЛЁНОГО"
+    "Replacement": "ЗЕЛЁНАЯ ВАРИАЦИЯ"
   },
   {
     "Original": "RED VARIATION",
-    "Replacement": "ВАРИАЦИЯ КРАСНОГО"
+    "Replacement": "КРАСНАЯ ВАРИАЦИЯ"
   },
   {
     "Original": "GOLD VARIATION",
-    "Replacement": "ВАРИАЦИЯ ЗОЛОТОГО"
+    "Replacement": "ЗОЛОТАЯ ВАРИАЦИЯ"
   },
   {
     "Original": "-- ENEMY SILHOUETTES --",
@@ -933,7 +933,7 @@
   },
   {
     "Original": "SWORDSMACHINE",
-    "Replacement": "СВОРДМАШИНА"
+    "Replacement": "МЕЧ-МАШИНА"
   },
   {
     "Original": "CERBERUS",
@@ -957,7 +957,7 @@
   },
   {
     "Original": "MINDFLAYER",
-    "Replacement": "УМОПОЖИРАТЕЛЬ"
+    "Replacement": "УМОСВЕЖЕВАТЕЛЬ"
   },
   {
     "Original": "VIRTUE",
@@ -1041,7 +1041,7 @@
   },
   {
     "Original": "NAILGUN",
-    "Replacement": "ГВОЗДЕМЁТ"
+    "Replacement": "ГВОЗДОМЁТ"
   },
   {
     "Original": "PIERCER",
