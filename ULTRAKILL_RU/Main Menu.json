@@ -61,7 +61,7 @@
   },
   {
     "Original": "KILL ONLY 1 ENEMY",
-    "Replacement": "УБЕЙ ТОЛЬКО ОДНОГО ПРОТИВНИКА"
+    "Replacement": "УБЕЙТЕ ТОЛЬКО ОДНОГО ПРОТИВНИКА"
   },
   {
     "Original": "TOTAL:",
@@ -165,35 +165,35 @@
   },
   {
     "Original": "Activating in ..",
-    "Replacement": "Activating in .."
+    "Replacement": "Активируется через .."
   },
   {
     "Original": "{platform} is voting",
-    "Replacement": "{platform} is voting"
+    "Replacement": "{platform} голосует"
   },
   {
     "Original": "0 seconds remaining",
-    "Replacement": "0 seconds remaining"
+    "Replacement": "0 секунд осталось"
   },
   {
     "Original": "option",
-    "Replacement": "option"
+    "Replacement": "опция"
   },
   {
     "Original": "VOTE CHAR",
-    "Replacement": "VOTE CHAR"
+    "Replacement": "ГОЛОСОВАНИЕ"
   },
   {
     "Original": "0 votes so far",
-    "Replacement": "0 votes so far"
+    "Replacement": "0 голосов на данный момент"
   },
   {
     "Original": "subtitle",
-    "Replacement": "subtitle"
+    "Replacement": "подзаголовок"
   },
   {
     "Original": "NavMesh out of Date. Please rebuild.",
-    "Replacement": "NavMesh out of Date. Please rebuild."
+    "Replacement": "NavMesh устарел. Пожалуйста, обновите."
   },
   {
     "Original": "Press <color=orange>ESC</color> to skip",
@@ -569,7 +569,7 @@
   },
   {
     "Original": "(Tone down for more visual clarity)",
-    "Replacement": "(Tone down for more visual clarity)"
+    "Replacement": "(Уменьшите для большей визуальной четкости)"
   },
   {
     "Original": "DOWNSCALING",
@@ -829,7 +829,7 @@
   },
   {
     "Original": "\"<color=orange>Major Assists</color>\" consists of modifiers that change the game and its balance <color=orange>considerably</color>.\n\nIf \"Major Assists\" is enabled <color=orange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color=orange>can be removed</color> by achieving <color=orange>the same rank or higher</color> with \"Major Assists\" disabled for the duration of the <color=orange>entire</color> mission.\n\n\"<color=yellow>Perfect</color>\" ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabaled.",
-    "Replacement": "\"<color=orange>Серьёзная Помощь</color>\" состоит из модификаторов, <color=orange>значительно</color> меняющих игру и её баланс.\n\nЕсли \"Серьёзная Помощь\" включена <color=orange>когда-либо</color> во время миссии, ранг, полученный по завершении, будет иметь синий фон. Этот фон <color=orange>может быть убран</color> по достижении <color=orange>того же или ранга выше</color> с отключённой \"Серьёзной Помощью\" в течение <color=orange>всей</color> миссии.\n\n\"<color=yellow>Perfect</color>\" ранг и наивышие очки Кибер Гринда не могут быть достигнуты с включённой \"Серьёзной Помощью\"."
+    "Replacement": "\"<color=orange>Серьёзная Помощь</color>\" состоит из модификаторов, <color=orange>значительно</color> меняющих игру и её баланс.\n\nЕсли \"Серьёзная Помощь\" включена <color=orange>когда-либо</color> во время миссии, ранг, полученный по завершении, будет отмечен синим фоном. Этот фон <color=orange>может быть убран</color> по достижении <color=orange>того же или высшего ранга</color> с отключённой \"Серьёзной Помощью\" в течение <color=orange>всей</color> миссии.\n\n\"<color=yellow>Идеальный</color>\" ранг и наивышие очки Кибер Гринда не могут быть достигнуты с включённой \"Серьёзной Помощью\"."
   },
   {
     "Original": "ENABLE MAJOR ASSISTS?",
@@ -865,75 +865,75 @@
   },
   {
     "Original": "SOFT DAMAGE",
-    "Replacement": "SOFT DAMAGE"
+    "Replacement": "МАЛЫЙ УРОН"
   },
   {
     "Original": "HARD DAMAGE",
-    "Replacement": "HARD DAMAGE"
+    "Replacement": "СЕРЬЁЗНЫЙ УРОН"
   },
   {
     "Original": "OVERHEAL",
-    "Replacement": "OVERHEAL"
+    "Replacement": "ИЗЛЕЧЕНИЕ"
   },
   {
     "Original": "STAMINA (FULL)",
-    "Replacement": "STAMINA (FULL)"
+    "Replacement": "ВЫНОСЛИВОСТЬ (ПОЛН.)"
   },
   {
     "Original": "STAMINA (CHARGING)",
-    "Replacement": "STAMINA (CHARGING)"
+    "Replacement": "ВЫНОСЛИВОСТЬ (ЗАРЯДКА)"
   },
   {
     "Original": "STAMINA (EMPTY)",
-    "Replacement": "STAMINA (EMPTY)"
+    "Replacement": "ВЫНОСЛИВОСТЬ (ПУСТАЯ)"
   },
   {
     "Original": "RAILCANNON (FULL)",
-    "Replacement": "RAILCANNON (FULL)"
+    "Replacement": "РЕЛЬСОТРОН (ПОЛН.)"
   },
   {
     "Original": "RAILCANNON (CHARGING)",
-    "Replacement": "RAILCANNON (CHARGING)"
+    "Replacement": "РЕЛЬСОТРОН (ЗАРЯДКА)"
   },
   {
     "Original": "BLUE VARIATION",
-    "Replacement": "BLUE VARIATION"
+    "Replacement": "СИНЯЯ ВАРИАЦИЯ"
   },
   {
     "Original": "GREEN VARIATION",
-    "Replacement": "GREEN VARIATION"
+    "Replacement": "ЗЕЛЁНАЯ ВАРИАЦИЯ"
   },
   {
     "Original": "RED VARIATION",
-    "Replacement": "RED VARIATION"
+    "Replacement": "КРАСНАЯ ВАРИАЦИЯ"
   },
   {
     "Original": "GOLD VARIATION",
-    "Replacement": "GOLD VARIATION"
+    "Replacement": "ЗОЛОТАЯ ВАРИАЦИЯ"
   },
   {
     "Original": "-- ENEMY SILHOUETTES --",
-    "Replacement": "-- ENEMY SILHOUETTES --"
+    "Replacement": "-- СИЛУЭТЫ ВРАГОВ --"
   },
   {
     "Original": "FILTH",
-    "Replacement": "FILTH"
+    "Replacement": "ОТБРОС"
   },
   {
     "Original": "STRAY",
-    "Replacement": "STRAY"
+    "Replacement": "БРОДЯГА"
   },
   {
     "Original": "MALICIOUS FACE",
-    "Replacement": "MALICIOUS FACE"
+    "Replacement": "ЗЛОБНЫЙ ЛИК"
   },
   {
     "Original": "SCHISM",
-    "Replacement": "SCHISM"
+    "Replacement": "СХИЗМ"
   },
   {
     "Original": "SWORDSMACHINE",
-    "Replacement": "SWORDSMACHINE"
+    "Replacement": "МЕЧ-МАШИНА"
   },
   {
     "Original": "CERBERUS",
@@ -945,7 +945,7 @@
   },
   {
     "Original": "STREETCLEANER",
-    "Replacement": "STREETCLEANER"
+    "Replacement": "ЧИСТИЛЬЩИК"
   },
   {
     "Original": "V2",
@@ -957,11 +957,11 @@
   },
   {
     "Original": "MINDFLAYER",
-    "Replacement": "MINDFLAYER"
+    "Replacement": "УМОСВЕЖЕВАТЕЛЬ"
   },
   {
     "Original": "VIRTUE",
-    "Replacement": "VIRTUE"
+    "Replacement": "ДОБРОДЕТЕЛЬ"
   },
   {
     "Original": "STALKER",
@@ -969,19 +969,19 @@
   },
   {
     "Original": "INSURRECTIONIST",
-    "Replacement": "INSURRECTIONIST"
+    "Replacement": "ПОВСТАНЕЦ"
   },
   {
     "Original": "SLOT 0",
-    "Replacement": "SLOT 0"
+    "Replacement": "СЛОТ 0"
   },
   {
     "Original": "STATE",
-    "Replacement": "STATE"
+    "Replacement": "СОСТОЯНИЕ"
   },
   {
     "Original": "DELETE",
-    "Replacement": "DELETE"
+    "Replacement": "УДАЛИТЬ"
   },
   {
     "Original": "CLOSE",
@@ -989,7 +989,7 @@
   },
   {
     "Original": "<color=red>The game will reload.</color>\n\nIf you're in a mission, your current progress will be lost.",
-    "Replacement": "<color=red>The game will reload.</color>\n\nIf you're in a mission, your current progress will be lost."
+    "Replacement": "<color=red>Игра будет перезагружена.</color>\n\nЕсли вы проходите миссию, ваш текущий прогресс будет утерян."
   },
   {
     "Original": "CANCEL",
@@ -1001,15 +1001,15 @@
   },
   {
     "Original": "Are you sure you want to <color=red>DELETE SLOT 0</color>?",
-    "Replacement": "Are you sure you want to <color=red>DELETE SLOT 0</color>?"
+    "Replacement": "Вы действительно хотите <color=red>УДАЛИТЬ СЛОТ 0</color>?"
   },
   {
     "Original": "YES, <color=red>DELETE</color>",
-    "Replacement": "YES, <color=red>DELETE</color>"
+    "Replacement": "ДА, <color=red>DELETE</color>"
   },
   {
     "Original": "New Text",
-    "Replacement": "New Text"
+    "Replacement": "Новый Текст"
   },
   {
     "Original": "--ARSENAL--",
@@ -1025,7 +1025,7 @@
   },
   {
     "Original": "A <color=orange>Revolver headshot</color> deals <color=orange>2x</color> damage and a <color=orange>limbshot</color> deals <color=orange>1.5x</color> damage.",
-    "Replacement": "A <color=orange>Revolver headshot</color> deals <color=orange>2x</color> damage and a <color=orange>limbshot</color> deals <color=orange>1.5x</color> damage."
+    "Replacement": "<color=orange>Выстрел в голову из револьвера</color> наносит <color=orange>2x</color> урон, а <color=orange>выстрел в конечность</color> наносит <color=orange>1.5x</color> урон."
   },
   {
     "Original": "--MENU--",
@@ -1041,11 +1041,11 @@
   },
   {
     "Original": "NAILGUN",
-    "Replacement": "ГВОЗДЕМЁТ"
+    "Replacement": "ГВОЗДОМЁТ"
   },
   {
     "Original": "PIERCER",
-    "Replacement": "PIERCER"
+    "Replacement": "ПРОБОЙНИК"
   },
   {
     "Original": "READY",
@@ -1053,15 +1053,15 @@
   },
   {
     "Original": "MARKSMAN",
-    "Replacement": "MARKSMAN"
+    "Replacement": "СТРЕЛОК"
   },
   {
     "Original": "NOT IN DEMO",
-    "Replacement": "NOT IN DEMO"
+    "Replacement": "НЕТ В ДЕМО"
   },
   {
     "Original": "<color=orange>Hold</color> Alt Fire to charge a <color=orange>3-hit beam</color>.\n\nRequires <color=orange>cooldown</color>.",
-    "Replacement": "<color=orange>Hold</color> Alt Fire to charge a <color=orange>3-hit beam</color>.\n\nRequires <color=orange>cooldown</color>."
+    "Replacement": "<color=orange>Зажмите</color> Альтернативный огонь, чтобы зарядить <color=orange> тройной луч</color>.\n\nТребует <color=orange>отката</color>."
   },
   {
     "Original": "ALREADY OWNED",
