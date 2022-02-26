@@ -1053,7 +1053,7 @@
   },
   {
     "Original": "MARKSMAN",
-    "Replacement": "СТРЕЛОК"
+    "Replacement": "МЕТКИЙ"
   },
   {
     "Original": "NOT IN DEMO",
@@ -1069,7 +1069,7 @@
   },
   {
     "Original": "Press Alt Fire to throw a <color=orange>coin</color>.\n\nHit an <color=orange>airborne</color> coin to <color=orange>deflect</color> your shot into the nearest enemy's <color=orange>weakpoint</color>.\n\nEach coin <color=orange>increases</color> the shot's power.",
-    "Replacement": "Press Alt Fire to throw a <color=orange>coin</color>.\n\nHit an <color=orange>airborne</color> coin to <color=orange>deflect</color> your shot into the nearest enemy's <color=orange>weakpoint</color>.\n\nEach coin <color=orange>increases</color> the shot's power."
+    "Replacement": "Нажмите Альт. Огонь, чтобы бросить<color=orange>монету</color>.\n\nПопадите по монете<color=orange>в воздухе</color>, чтобы ваш выстрел <color=orange>отразился</color> в <color=orange>слабое место</color> ближайшего врага.\n\nКаждая монета<color=orange>увеличивает</color> мощность выстрела."
   },
   {
     "Original": "$5000",
@@ -1077,15 +1077,15 @@
   },
   {
     "Original": "CORE EJECT",
-    "Replacement": "CORE EJECT"
+    "Replacement": "ВЫБРОС ЯДРА"
   },
   {
     "Original": "PUMP CHARGE",
-    "Replacement": "PUMP CHARGE"
+    "Replacement": "НАКАЧАТЬ ЗАРЯД"
   },
   {
     "Original": "Press Alt Fire to overheat and <color=orange>launch</color> the shotgun's <color=orange>cores</color>.\n\n<color=orange>Hold</color> to charge <color=orange>distance</color>.\n\n<color=orange>Explodes</color> on impact.",
-    "Replacement": "Press Alt Fire to overheat and <color=orange>launch</color> the shotgun's <color=orange>cores</color>.\n\n<color=orange>Hold</color> to charge <color=orange>distance</color>.\n\n<color=orange>Explodes</color> on impact."
+    "Replacement": "Нажмите Альт. Огонь, чтобы перегреть и <color=orange>запустить</color> <color=orange>ядра</color> дробовика.\n\n<color=orange>Зажмите</color>, чтобы зарядить и увеличить <color=orange>дистанцию</color>.\n\n<color=orange>Взрывается</color> по достижении цели."
   },
   {
     "Original": "Press Alt Fire to <color=orange>pump</color> your shotgun, increasing the <color=orange>power</color> and decreasing the <color=orange>accuracy</color> of your <color=orange>next shot</color>.\n\nPumping too much will overheat the shotgun, causing an <color=orange>explosion</color>.",
