@@ -289,7 +289,7 @@
   },
   {
     "Original": "<b>TEXT SCANNED - UNIQUE PASSAGE:\r</b>\n\n<i>“...My mind is adrift with the eternal torments. Lurid vistas painted in insidious tones, hollow walls that scream to the touch. A mocking song plays at all hours, even the sounds of birds are fake. All reminders of my enduring damnation.\r\n\nGabriel my dearest friend, in endless penance I have awaited your embrace into Heaven. I have been so faithful, accepting of my fate, but to what end?  What punishment is this, that I am to bare the keys to my own doom with no hope of salvation...These skulls sneer their devilish grins, voices chattering, tempting me to take the plunge deeper into Hell...I won’t do it.\r\n\nI’ve hidden them away amongst the furnishings, books, and the very foundations of this accursed place. Forgive me Gabriel, I will await your…”\r</i>\n\n<b>REMAINING TEXT: IRRELEVANT.</b>",
-    "Replacement": "<b>TEXT SCANNED - UNIQUE PASSAGE:\r</b>\n\n<i>“...My mind is adrift with the eternal torments. Lurid vistas painted in insidious tones, hollow walls that scream to the touch. A mocking song plays at all hours, even the sounds of birds are fake. All reminders of my enduring damnation.\r\n\nGabriel my dearest friend, in endless penance I have awaited your embrace into Heaven. I have been so faithful, accepting of my fate, but to what end?  What punishment is this, that I am to bare the keys to my own doom with no hope of salvation...These skulls sneer their devilish grins, voices chattering, tempting me to take the plunge deeper into Hell...I won’t do it.\r\n\nI’ve hidden them away amongst the furnishings, books, and the very foundations of this accursed place. Forgive me Gabriel, I will await your…”\r</i>\n\n<b>REMAINING TEXT: IRRELEVANT.</b>"
+    "Replacement": "<b>ТЕКСТ ПРОСКАНИРОВАН - УНИКАЛЬНЫЙ ФРАГМЕНТ:\r</b>\n\n<i>“…Мой разум дрейфует в бесконечных муках ада. Зловещие коридоры, окрашенные в коварные тона, полые стены, что кричат при касании. Издевательская песнь играет каждый час и даже звуки птиц фальшивы. Всё это - напоминания о моих вечных муках.\r\n\nГабриэль, друг мой, в бесконечном смирении я ожидал своего прощения и вознесения в Рай. Я хранил свою веру, смирившись с судьбой, но с какой целью? Какое это наказание, что я храню ключи от своего собственного обречения, не имея надежды на спасение…Эти черепа ухмыляются своими дьявольскими улыбками, голоса перешёптываются, заманивая меня погрузиться глубже в Ад…Но я не стану этого делать.\r\n\nЯ спрятал их среди мебели, книг, и в самом фундаменте этого места. Прости меня, Габриэль, я буду ожидать твоего…”\r</i>\n\n<b>ОСТАЛЬНОЙ ТЕКСТ: НЕ ИМЕЕТ ЗНАЧЕНИЯ.</b>"
   },
   {
     "Original": "SECTION\n",
@@ -368,7 +368,7 @@
     "Replacement": "--ОБЩИЕ--"
   },
   {
-    "Original": "MOUSE SENSITIVITY",
+    "Original": "LOOK SENSITIVITY",
     "Replacement": "ЧУВСТВИТЕЛЬНОСТЬ МЫШИ"
   },
   {
@@ -418,6 +418,10 @@
   {
     "Original": "STEAM INTEGRATION",
     "Replacement": "ИНТЕГРАЦИЯ STEAM"
+  },
+  {
+    "Original": "SEASONAL EVENTS",
+    "Replacement": "СЕЗОННЫЕ СОБЫТИЯ"
   },
   {
     "Original": "SAVE SLOT",
@@ -520,11 +524,11 @@
     "Replacement": "СЛОТ 4"
   },
   {
-    "Original": "CHANGE WEAPON WITH MOUSE WHEEL",
+    "Original": "SCROLL WEAPONS WITH MOUSE WHEEL",
     "Replacement": "СМЕНИТЬ ОРУЖИЕ С ПОМОЩЬЮ КОЛЕСИКА МЫШИ"
   },
   {
-    "Original": "SCROLL THROUGH TYPE",
+    "Original": "WEAPON SCROLL TYPE",
     "Replacement": "ПРОКРУЧИВАНИЕ ТИПА"
   },
   {
@@ -561,7 +565,7 @@
   },
   {
     "Original": "VSYNC",
-    "Replacement": "VSYNC"
+    "Replacement": "ВЕРТИКАЛЬНАЯ СИНХРОНИЗАЦИЯ"
   },
   {
     "Original": "--PSX SETTINGS--\n",
@@ -602,6 +606,10 @@
   {
     "Original": "SELECT",
     "Replacement": "ВЫБЕРИТЕ"
+  },
+  {
+    "Original": "SELECTED",
+    "Replacement": "ВЫБРАНО"
   },
   {
     "Original": "COLOR COMPRESSION",
@@ -684,6 +692,14 @@
     "Replacement": "СТАНДАРТНЫЙ"
   },
   {
+    "Original": "CLASSIC COLOR",
+    "Replacement": "КЛАССИЧЕСКИЙ"
+  },
+  {
+    "Original": "CLASSIC WHITE",
+    "Replacement": "КЛАССИЧЕСКИЙ МОНОХРОМНЫЙ"
+  },
+  {
     "Original": "BACKGROUND OPACITY",
     "Replacement": "НЕПРОЗРАЧНОСТЬ ФОНА"
   },
@@ -694,6 +710,10 @@
   {
     "Original": "CHEAT & SANDBOX ICONS",
     "Replacement": "ИКОНКИ ЧИТОВ И ПЕСОЧНИЦЫ"
+  },
+  {
+    "Original": "DEFAULT",
+    "Replacement": "СТАНДАРТНЫЕ"
   },
   {
     "Original": "--HUD ELEMENTS--",
@@ -829,7 +849,7 @@
   },
   {
     "Original": "\"<color=orange>Major Assists</color>\" consists of modifiers that change the game and its balance <color=orange>considerably</color>.\n\nIf \"Major Assists\" is enabled <color=orange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color=orange>can be removed</color> by achieving <color=orange>the same rank or higher</color> with \"Major Assists\" disabled for the duration of the <color=orange>entire</color> mission.\n\n\"<color=yellow>Perfect</color>\" ranks and Cyber Grind high scores cannot be achieved with \"Major Assists\" enabaled.",
-    "Replacement": "\"<color=orange>Серьёзная Помощь</color>\" состоит из модификаторов, <color=orange>значительно</color> меняющих игру и её баланс.\n\nЕсли \"Серьёзная Помощь\" включена <color=orange>когда-либо</color> во время миссии, ранг, полученный по завершении, будет отмечен синим фоном. Этот фон <color=orange>может быть убран</color> по достижении <color=orange>того же или высшего ранга</color> с отключённой \"Серьёзной Помощью\" в течение <color=orange>всей</color> миссии.\n\n\"<color=yellow>Идеальный</color>\" ранг и наивышие очки Кибер Гринда не могут быть достигнуты с включённой \"Серьёзной Помощью\"."
+    "Replacement": "\"<color=orange>Серьёзная Помощь</color>\" состоит из модификаторов, <color=orange>значительно</color> меняющих игру и её баланс.\n\nЕсли \"Серьёзная Помощь\" включена <color=orange>когда-либо</color> во время миссии, ранг, полученный по завершении, будет отмечен синим фоном. Этот фон <color=orange>может быть убран</color> по достижении <color=orange>того же или высшего ранга</color> с отключённой \"Серьёзной Помощью\" в течение <color=orange>всей</color> миссии.\n\n\"<color=yellow>Идеальный</color>\" ранг и наивысшие очки Кибер Гринда не могут быть достигнуты с включённой \"Серьёзной Помощью\"."
   },
   {
     "Original": "ENABLE MAJOR ASSISTS?",
@@ -1024,7 +1044,7 @@
     "Replacement": "--СОВЕТ ДНЯ--"
   },
   {
-    "Original": "A <color=orange>Revolver headshot</color> deals <color=orange>2x</color> damage and a <color=orange>limbshot</color> deals <color=orange>1.5x</color> damage.",
+    "Original": "<color=orange>Hitscan weapons</color> like the Revolver do <color=orange>loacational</color> damage.\n\nA <color=orange>headshot</color> deals <color=orange>2x</color> damage and a <color=orange>limbshot</color> deals <color=orange>1.5x</color> damage.",
     "Replacement": "<color=orange>Выстрел в голову из револьвера</color> наносит <color=orange>2x</color> урон, а <color=orange>выстрел в конечность</color> наносит <color=orange>1.5x</color> урон."
   },
   {
@@ -1068,7 +1088,7 @@
     "Replacement": "УЖЕ ИМЕЕТСЯ"
   },
   {
-    "Original": "Press Alt Fire to throw a <color=orange>coin</color>.\n\nHit an <color=orange>airborne</color> coin to <color=orange>deflect</color> your shot into the nearest enemy's <color=orange>weakpoint</color>.\n\nEach coin <color=orange>increases</color> the shot's power.",
+    "Original": "Press Alt Fire to throw a <color=orange>coin</color>.\n\nHit an <color=orange>airborne</color> coin to <color=orange>deflect</color> your shot into the nearest enemy's <color=orange>weakpoint</color>.\n\nCoins can be <color=orange>chained</color>.",
     "Replacement": "Нажмите Альт. Огонь, чтобы бросить<color=orange>монету</color>.\n\nПопадите по монете<color=orange>в воздухе</color>, чтобы ваш выстрел <color=orange>отразился</color> в <color=orange>слабое место</color> ближайшего врага.\n\nКаждая монета<color=orange>увеличивает</color> мощность выстрела."
   },
   {
@@ -1088,40 +1108,72 @@
     "Replacement": "Нажмите Альт. Огонь, чтобы перегреть и <color=orange>запустить</color> <color=orange>ядра</color> дробовика.\n\n<color=orange>Зажмите</color>, чтобы зарядить и увеличить <color=orange>дистанцию</color>.\n\n<color=orange>Взрывается</color> по достижении цели."
   },
   {
-    "Original": "Press Alt Fire to <color=orange>pump</color> your shotgun, increasing the <color=orange>power</color> and decreasing the <color=orange>accuracy</color> of your <color=orange>next shot</color>.\n\nPumping too much will overheat the shotgun, causing an <color=orange>explosion</color>.",
-    "Replacement": "Press Alt Fire to <color=orange>pump</color> your shotgun, increasing the <color=orange>power</color> and decreasing the <color=orange>accuracy</color> of your <color=orange>next shot</color>.\n\nPumping too much will overheat the shotgun, causing an <color=orange>explosion</color>."
+    "Original": "Press Alt Fire to <color=orange>pump</color> your shotgun, increasing the <color=orange>power</color> and decreasing the <color=orange>accuracy</color> of your <color=orange>next shot</color>.\n\nToo many pumps will cause an <color=orange>explosion</color> when fired.",
+    "Replacement": "Нажмите Альт. Огонь, чтобы <color=orange>зарядить</color> ваш дробовик, увеличивая <color=orange>мощность</color> и уменьшая <color=orange>точность</color> вашего <color=orange>следующего выстрела</color>.\n\nСлишком много зарядов вызовут <color=orange>взрыв</color>."
   },
   {
     "Original": "125000P",
     "Replacement": "125000P"
   },
   {
+    "Original": "ATTRACTOR",
+    "Replacement": "ATTRACTOR"
+  },
+  {
+    "Original": "Alt fire to shoot a <color=orange>magnet</color> that pulls all nearby <color=orange>nails</color> towards it.\n\nMagnets stick to <color=orange>surfaces</color> and <color=orange>enemies</color> and can be broken with <color=orange>hitscan</color> weapons.",
+    "Replacement": "Нажмите Альт. Огонь, чтобы выстрелить <color=orange>магнитом</color> притягивающим все ближайшие <color=orange>гвозди</color>.\n\nМагниты втыкаются в <color=orange>поверхности</color> и <color=orange>врагов</color>, а разрушаются <color=orange>хитскан</color> оружием."
+  },
+  {
     "Original": "OVERHEAT",
     "Replacement": "ПЕРЕГРЕВ"
   },
   {
-    "Original": "Alt fire while heated up to <color=orange>shatter a heatsink</color> for a quick burst of high damage.\n\n<color=red>Useless without heatsinks</color>, which recharge while not firing.",
-    "Replacement": "Alt fire while heated up to <color=orange>shatter a heatsink</color> for a quick burst of high damage.\n\n<color=red>Useless without heatsinks</color>, which recharge while not firing."
+    "Original": "Alt fire while shooting to <color=orange>overheat</color> for a quick burst of high damage at the cost of a <color=orange>heatsink</color>.\n\nHeatsinks recharge while not firing.",
+    "Replacement": "Во время стрельбы нажмите Альт. Огонь, чтобы <color=orange>перегреть</color> оружие и выпустить мощную очередь, потратив <color=orange>термоклипсу</color>.\n\nТермоклипсы перезаряжаются при простое."
+  },
+  {
+    "Original": "ELECTRIC",
+    "Replacement": "ELECTRIC"
+  },
+  {
+    "Original": "A powerful instant piercing shot.\n\n<color=orange>Pierces</color> through <color=orange>all</color> enemies. Pay attention to your <color=orange>positioning</color> to maximize destruction.\n\nDon't use in water.",
+    "Replacement": "Мощный мгновенный пробивающий выстрел.\n\nПробивает <color=orange>всех</color> врагов. Займите правильную <color=orange>позицию</color>, дабы нанести максимум разрушений.\n\nНе использовать в воде."
+  },
+  {
+    "Original": "Fires a powerful drill that <color=orange>sticks</color> to an enemy and deals damage <color=orange>overtime</color>.\n\nThe drill causes enemies to bleed continously with <color=orange>extra healing range</color>.",
+    "Replacement": "Выстреливает мощным буром, который <color=orange>втыкается</color> во врагов и наносит огромный урон <color=orange>с течением времени</color>.\n\nБур заставляет врагов стабильно кровоточить с <color=orange>повышенным радиусом лечения</color>."
+  },
+  {
+    "Original": "MALICIOUS",
+    "Replacement": "MALICIOUS"
+  },
+  {
+    "Original": "Fires an instant beam that causes a <color=orange>large explosion</color> on impact, similar to a certain familiar face.\n\nWipes out groups of weak enemies with ease.",
+    "Replacement": "Выстреливает лучом, который создаёт <color=orange>огромный взрыв</color> в точке попадания, прямо как у одного знакомого лика.\n\nЛегко расправяется с группами слабых врагов."
   },
   {
     "Original": "<color=#44FF45>CHEATS</color> ENABLED :^)",
-    "Replacement": "<color=#44FF45>CHEATS</color> ENABLED :^)"
+    "Replacement": "<color=#44FF45>ЧИТЫ</color> ВКЛЮЧЕНЫ :^)"
   },
   {
     "Original": "home or ~",
-    "Replacement": "home or ~"
+    "Replacement": "home или ~"
   },
   {
     "Original": "MANAGE CHEATS",
-    "Replacement": "MANAGE CHEATS"
+    "Replacement": "УПРАВЛЕНИЕ ЧИТАМИ"
   },
   {
     "Original": "CHEAT NAME",
-    "Replacement": "CHEAT NAME"
+    "Replacement": "НАЗВАНИЕ ЧИТА"
+  },
+  {
+    "Original": "ENABLED",
+    "Replacement": "ВКЛЮЧЕНО"
   },
   {
     "Original": "DISABLED",
-    "Replacement": "DISABLED"
+    "Replacement": "ОТКЛЮЧЕНО"
   },
   {
     "Original": "PRESS TO BIND",
@@ -1129,7 +1181,7 @@
   },
   {
     "Original": "RESET\nBIND",
-    "Replacement": "RESET\nBIND"
+    "Replacement": "СБРОСИТЬ\nПРИВЯЗКУ"
   },
   {
     "Original": "CATEGORY",
@@ -1169,7 +1221,7 @@
   },
   {
     "Original": "Enabling cheats means you will not gain a rank upon completion of a level and a Cyber Grind high score will not be saved.\n\n<color=green>Press <color=white>~</color> or <color=white>home</color> after enabling cheats to toggle the menu</color>",
-    "Replacement": "Enabling cheats means you will not gain a rank upon completion of a level and a Cyber Grind high score will not be saved.\n\n<color=green>Press <color=white>~</color> or <color=white>home</color> after enabling cheats to toggle the menu</color>"
+    "Replacement": "Со включёнными читами вы не сможете получить ранг за прохождение уровня, а ваш счёт в кибер гринде не будет сохранён.\n\n<color=green>Нажмите <color=white>~</color> или <color=white>home</color> после активации читов чтобы открыть меню</color>"
   },
   {
     "Original": "ACTIVATE CHEATS",
@@ -1233,19 +1285,19 @@
   },
   {
     "Original": "-- EARLY ACCESS --",
-    "Replacement": "-- EARLY ACCESS --"
+    "Replacement": "-- РАННИЙ ДОСТУП --"
   },
   {
     "Original": "-- MERRY CHRISTMAS --",
-    "Replacement": "-- MERRY CHRISTMAS --"
+    "Replacement": "-- С НОВЫМ ГОДОМ --"
   },
   {
     "Original": "-- HAPPY HALLOWEEN --",
-    "Replacement": "-- HAPPY HALLOWEEN --"
+    "Replacement": "-- СЧИСТЛИВОГО ХЭЛЛОУИНА --"
   },
   {
     "Original": "-- HAPPY EASTER --",
-    "Replacement": "-- HAPPY EASTER --"
+    "Replacement": "-- С ПАСХОЙ --"
   },
   {
     "Original": "PLAY",
@@ -1317,35 +1369,35 @@
   },
   {
     "Original": "--HARMLESS--",
-    "Replacement": "--HARMLESS--"
+    "Replacement": "--БЕЗВРЕДНО--"
   },
   {
     "Original": "Absurdly slow enemies and attacks.\n\nDamage is still high, but even a mountain could dodge them.\n\n<color=lime>Recommended for players who want a stress-free experience.</color>",
-    "Replacement": "Absurdly slow enemies and attacks.\n\nDamage is still high, but even a mountain could dodge them.\n\n<color=lime>Recommended for players who want a stress-free experience.</color>"
+    "Replacement": "Абсурдно медленные враги и атаки.\n\nУрон всё ещё высокий, но даже гора сможет от них увернуться.\n\n<color=lime>Рекомендуется для игроков, которые хотят просто пострелять без стресса.</color>"
   },
   {
     "Original": "--LENIENT--",
-    "Replacement": "--LENIENT--"
+    "Replacement": "--СНИСХОДИТЕЛЬНО--"
   },
   {
     "Original": "High damage but slower attacks and passive enemies.\n\nTension is still high, but damage is easier to avoid.\n\n<color=yellow>Recommended for players who have trouble keeping up with Standard difficulty.</color>",
-    "Replacement": "High damage but slower attacks and passive enemies.\n\nTension is still high, but damage is easier to avoid.\n\n<color=yellow>Recommended for players who have trouble keeping up with Standard difficulty.</color>"
+    "Replacement": "Высокий урон, но замедленные атаки и вялые враги.\n\nВсё ещё напряжно, но урона легче избежать.\n\n<color=yellow>Рекомендуется для игроков, которые не справляются с нормальной сложностью.</color>"
   },
   {
     "Original": "--STANDARD--",
-    "Replacement": "--STANDARD--"
+    "Replacement": "--СТАНДАРТ--"
   },
   {
     "Original": "Normal enemies and high damage. \n\nAttacks are easy to avoid, but carelessness will result in a swift death.\n\n<color=orange>Recommended for first time players.</color>",
-    "Replacement": "Normal enemies and high damage. \n\nAttacks are easy to avoid, but carelessness will result in a swift death.\n\n<color=orange>Recommended for first time players.</color>"
+    "Replacement": "Нормальные враги и высокий урон. \n\nАтаки легко избежать, но беспечность приведёт к быстрой смерти.\n\n<color=orange>Рекомендуется для первого прохождения.</color>"
   },
   {
     "Original": "--VIOLENT--",
-    "Replacement": "--VIOLENT--"
+    "Replacement": "--ЖЕСТОКО--"
   },
   {
     "Original": "Fast and aggressive enemies and high damage. \n\nQuick thinking, mobility options and situational awareness are essential.\n\n<color=red>Recommended for players who have already gotten used to the game's pace and mechanics.</color>",
-    "Replacement": "Fast and aggressive enemies and high damage. \n\nQuick thinking, mobility options and situational awareness are essential.\n\n<color=red>Recommended for players who have already gotten used to the game's pace and mechanics.</color>"
+    "Replacement": "Быстрые и агрессивные враги и высокий урон. \n\nСообразительность, ловкость и постоянное понимание обстановки просто необходимы.\n\n<color=red>Рекомендуется для игроков, уже приспособившимся к скорости и механикам игры.</color>"
   },
   {
     "Original": "--CHAPTER--",
@@ -1385,7 +1437,7 @@
   },
   {
     "Original": "LAYER 1: LIMBO",
-    "Replacement": "LAYER 1: LIMBO"
+    "Replacement": "КРУГ 1: ЛИМБ"
   },
   {
     "Original": "SECRET MISSION",
@@ -1477,7 +1529,7 @@
   },
   {
     "Original": "LAYER 4: GREED",
-    "Replacement": "LAYER 4: GREED"
+    "Replacement": "КРУГ 4: АЛЧНОСТЬ"
   },
   {
     "Original": "4-1: SLAVES TO POWER",
@@ -1513,7 +1565,7 @@
   },
   {
     "Original": "LAYER 5: WRATH",
-    "Replacement": "LAYER 5: WRATH"
+    "Replacement": "КРУГ 5: ГНЕВ"
   },
   {
     "Original": "2-1: BRIDGEBURNER",
@@ -1585,7 +1637,7 @@
   },
   {
     "Original": "DO NOT PICK UP ANY SKULLS",
-    "Replacement": "НЕ ПОБИРАЙ НИ ЕДИНОГО ЧЕРЕПА"
+    "Replacement": "НЕ ПОДБИРАЙ НИ ЕДИНОГО ЧЕРЕПА"
   },
   {
     "Original": "LAYER 2: LUST",
@@ -1608,8 +1660,64 @@
     "Replacement": "Оставить Читы Включёнными"
   },
   {
-    "Original": "DISABLE ON RELOAD",
-    "Replacement": "DISABLE ON RELOAD"
+    "Original": "Disable on reload",
+    "Replacement": "Отключить после перезахода"
+  },
+  {
+    "Original": "STAY ACTIVE",
+    "Replacement": "НЕ ОТКЛЮЧАТЬ"
+  },
+  {
+    "Original": "Quick Save",
+    "Replacement": "Быстрое Сохранение"
+  },
+  {
+    "Original": "SAVE",
+    "Replacement": "СОХРАНИТЬ"
+  },
+  {
+    "Original": "Quick Load",
+    "Replacement": "Быстрая Загрузка"
+  },
+  {
+    "Original": "LOAD LATEST SAVE",
+    "Replacement": "ЗАГРУЗИТЬ ПОСЛЕДНЕЕ СОХРАНЕНИЕ"
+  },
+  {
+    "Original": "Manage Saves",
+    "Replacement": "Управление Сохранениями"
+  },
+  {
+    "Original": "Clear Map",
+    "Replacement": "Очистить Карту"
+  },
+  {
+    "Original": "CLEAR",
+    "Replacement": "ОЧИСТИТЬ"
+  },
+  {
+    "Original": "Enemy Navigation",
+    "Replacement": "Навигаия Врагов"
+  },
+  {
+    "Original": "REBUILD",
+    "Replacement": "ПЕРЕСТРОИТЬ"
+  },
+  {
+    "Original": "Snapping",
+    "Replacement": "Прилипание"
+  },
+  {
+    "Original": "Spawn With Physics",
+    "Replacement": "Создавать С Физикой"
+  },
+  {
+    "Original": "DYNAMIC",
+    "Replacement": "ДИНИМЕЧЕСКИ"
+  },
+  {
+    "Original": "STATIC",
+    "Replacement": "СТАТИЧЕСКИ"
   },
   {
     "Original": "O",
@@ -1622,6 +1730,18 @@
   {
     "Original": "EQUIP",
     "Replacement": "ЭКИПИРОВАТЬ"
+  },
+  {
+    "Original": "REMOVE",
+    "Replacement": "СНЯТЬ"
+  },
+  {
+    "Original": "SANDBOX TOOLS :^)",
+    "Replacement": "ИНСТРУМЕНТЫ ПЕСОЧНИЦЫ :^)"
+  },
+  {
+    "Original": "ITEMS",
+    "Replacement": "ПРЕДМЕТЫ"
   },
   {
     "Original": "P",
@@ -1641,7 +1761,7 @@
   },
   {
     "Original": "Fullbright",
-    "Replacement": "Fullbright"
+    "Replacement": "Абсолютное Освещение"
   },
   {
     "Original": "Press to Bind",
@@ -1706,6 +1826,22 @@
   {
     "Original": "Invincible Enemies",
     "Replacement": "Неуязвимые враги"
+  },
+  {
+    "Original": "Kill All Enemies",
+    "Replacement": "Убить Всех Врагов"
+  },
+  {
+    "Original": "Kill All",
+    "Replacement": "Убить Всех"
+  },
+  {
+    "Original": "SPECIAL",
+    "Replacement": "ОСОБОЕ"
+  },
+  {
+    "Original": "Clash Mode",
+    "Replacement": "Режим Клэша"
   },
   {
     "Original": "LOADING...",
