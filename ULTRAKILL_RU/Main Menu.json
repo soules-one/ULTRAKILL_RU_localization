@@ -281,7 +281,7 @@
   },
   {
     "Original": "GLUTTONY",
-    "Replacement": "ЧРЕВОУГОДИЕ"
+    "Replacement": "ОБЖОРСТВО"
   },
   {
     "Original": "SCANNING..",
@@ -497,7 +497,7 @@
   },
   {
     "Original": "WHIPLASH",
-    "Replacement": "WHIPLASH"
+    "Replacement": "ХЛЫСТ"
   },
   {
     "Original": "R",
@@ -1025,7 +1025,7 @@
   },
   {
     "Original": "YES, <color=red>DELETE</color>",
-    "Replacement": "ДА, <color=red>DELETE</color>"
+    "Replacement": "ДА, <color=red>УДАЛИТЬ</color>"
   },
   {
     "Original": "New Text",
@@ -1101,7 +1101,7 @@
   },
   {
     "Original": "PUMP CHARGE",
-    "Replacement": "НАКАЧАТЬ ЗАРЯД"
+    "Replacement": "ПОМПА"
   },
   {
     "Original": "Press Alt Fire to overheat and <color=orange>launch</color> the shotgun's <color=orange>cores</color>.\n\n<color=orange>Hold</color> to charge <color=orange>distance</color>.\n\n<color=orange>Explodes</color> on impact.",
@@ -1117,7 +1117,7 @@
   },
   {
     "Original": "ATTRACTOR",
-    "Replacement": "ATTRACTOR"
+    "Replacement": "АТТРАКТОР"
   },
   {
     "Original": "Alt fire to shoot a <color=orange>magnet</color> that pulls all nearby <color=orange>nails</color> towards it.\n\nMagnets stick to <color=orange>surfaces</color> and <color=orange>enemies</color> and can be broken with <color=orange>hitscan</color> weapons.",
@@ -1133,7 +1133,7 @@
   },
   {
     "Original": "ELECTRIC",
-    "Replacement": "ELECTRIC"
+    "Replacement": "ЭЛЕКТРИЧЕСКИЙ"
   },
   {
     "Original": "A powerful instant piercing shot.\n\n<color=orange>Pierces</color> through <color=orange>all</color> enemies. Pay attention to your <color=orange>positioning</color> to maximize destruction.\n\nDon't use in water.",
@@ -1145,7 +1145,7 @@
   },
   {
     "Original": "MALICIOUS",
-    "Replacement": "MALICIOUS"
+    "Replacement": "ЗЛОБНЫЙ"
   },
   {
     "Original": "Fires an instant beam that causes a <color=orange>large explosion</color> on impact, similar to a certain familiar face.\n\nWipes out groups of weak enemies with ease.",
@@ -1185,19 +1185,19 @@
   },
   {
     "Original": "CATEGORY",
-    "Replacement": "CATEGORY"
+    "Replacement": "КАТЕГОРИЯ"
   },
   {
     "Original": "SANDBOX SAVES",
-    "Replacement": "SANDBOX SAVES"
+    "Replacement": "СОХРАНЕНИЯ ПЕСОЧНИЦЫ"
   },
   {
     "Original": "OPEN DIRECTORY",
-    "Replacement": "OPEN DIRECTORY"
+    "Replacement": "ОТКРЫТЬ ПАПКУ"
   },
   {
     "Original": "SAVE NAME",
-    "Replacement": "SAVE NAME"
+    "Replacement": "НАЗВАНИЕ СОХРАНЕНИЯ"
   },
   {
     "Original": "Save",
@@ -1405,7 +1405,7 @@
   },
   {
     "Original": "PRELUDE",
-    "Replacement": "PRELUDE"
+    "Replacement": "ПРЕЛЮДИЕ"
   },
   {
     "Original": "ACT I: INFINITE HYPERDEATH",
@@ -1477,7 +1477,7 @@
   },
   {
     "Original": "0-5: CERBERUS",
-    "Replacement": "0-5: CERBERUS"
+    "Replacement": "0-5: ЦЕРБЕР"
   },
   {
     "Original": "DON'T KILL A SINGLE ENEMY",
@@ -1513,7 +1513,7 @@
   },
   {
     "Original": "-- STANDARD --",
-    "Replacement": "-- STANDARD --"
+    "Replacement": "-- СТАНДАРТ --"
   },
   {
     "Original": "P-1: SOUL SURVIVOR",
@@ -1597,7 +1597,7 @@
   },
   {
     "Original": "PARRY A PUNCH",
-    "Replacement": "PARRY A PUNCH"
+    "Replacement": "ПАРИРУЙ УДАР"
   },
   {
     "Original": "LAYER 6: HERESY",
@@ -1697,7 +1697,7 @@
   },
   {
     "Original": "Enemy Navigation",
-    "Replacement": "Навигаия Врагов"
+    "Replacement": "Навигация Врагов"
   },
   {
     "Original": "REBUILD",
