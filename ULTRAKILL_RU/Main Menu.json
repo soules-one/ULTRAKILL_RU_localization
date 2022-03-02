@@ -9,7 +9,7 @@
   },
   {
     "Original": "0-3: DOUBLE DOWN",
-    "Replacement": "0-3: DOUBLE DOWN"
+    "Replacement": "0-3: ВНИЗ И ВНИЗ"
   },
   {
     "Original": "-- TEST --",
@@ -221,7 +221,7 @@
   },
   {
     "Original": "DONE",
-    "Replacement": "Выполнено"
+    "Replacement": "ВЫПОЛНЕНО"
   },
   {
     "Original": "MAJOR ASSISTS:",
@@ -289,7 +289,7 @@
   },
   {
     "Original": "<b>TEXT SCANNED - UNIQUE PASSAGE:\r</b>\n\n<i>“...My mind is adrift with the eternal torments. Lurid vistas painted in insidious tones, hollow walls that scream to the touch. A mocking song plays at all hours, even the sounds of birds are fake. All reminders of my enduring damnation.\r\n\nGabriel my dearest friend, in endless penance I have awaited your embrace into Heaven. I have been so faithful, accepting of my fate, but to what end?  What punishment is this, that I am to bare the keys to my own doom with no hope of salvation...These skulls sneer their devilish grins, voices chattering, tempting me to take the plunge deeper into Hell...I won’t do it.\r\n\nI’ve hidden them away amongst the furnishings, books, and the very foundations of this accursed place. Forgive me Gabriel, I will await your…”\r</i>\n\n<b>REMAINING TEXT: IRRELEVANT.</b>",
-    "Replacement": "<b>ТЕКСТ ПРОСКАНИРОВАН - УНИКАЛЬНЫЙ ФРАГМЕНТ:\r</b>\n\n<i>“…Мой разум дрейфует в бесконечных муках. Зловещие коридоры, окрашенные в коварные тона, полые стены, что кричат при касании. Издевательская песнь играет каждый час и даже звуки птиц фальшивы. Всё это - напоминания о моих вечных муках.\r\n\nГабриэль, друг мой, в бесконечном смирении я ожидал своего прощения и вознесения в Рай. Я хранил свою веру, смирившись с судьбой, но с какой целью? Какое это наказание, что я храню ключи от своего собственного обречения, не имея надежды на спасение…Эти черепа ухмыляются своими дьявольскими улыбками, голоса перешёптываются, заманивая меня погрузиться глубже в Ад…Но я не стану этого делать.\r\n\nЯ спрятал их среди мебели, книг, и в самом фундаменте этого места. Прости меня, Габриэль, я буду ожидать твоего…”\r</i>\n\n<b>ОСТАЛЬНОЙ ТЕКСТ: ИРРЕВЕЛАНТНЫЙ.</b>"
+    "Replacement": "<b>ТЕКСТ ПРОСКАНИРОВАН - ОСОБЕННЫЙ ФРАГМЕНТ:\r</b>\n\n<i>“...Мой разум дрейфует в бесконечных муках. Зловещие коридоры, окрашенные в коварные тона, полые стены, что кричат от касаний. Издевательская песнь непрерывно играет, и даже звуки птиц фальшивы. Всё это - напоминания о моих вечных муках.\r\n\nГавриил, друг мой, в бесконечном покаянии я ожидал твоих обьятий на Небесах. Я был столь правоверен, смирившись со своей судьбой, но к чему это ведёт? Каково же наказание, что я обнажаю ключи от своего собственного обречения, не имея надежды на искупление...Эти черепа ухмыляются дьявольскими улыбками, голоса перешёптываются, заманивая меня погрузиться глубже в Ад...Я не стану этого делать.\r\n\nЯ спрятал их среди мебели, книг, и в самом фундаменте этого проклятого места. Прости меня, Гавриил, я буду ожидать твоего…”\r</i>\n\n<b>ОСТАЛЬНОЙ ТЕКСТ: ИРРЕЛЕВАНТЕН.</b>"
   },
   {
     "Original": "SECTION\n",
