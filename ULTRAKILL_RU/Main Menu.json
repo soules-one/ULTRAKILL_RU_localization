@@ -184,6 +184,10 @@
     "Replacement": "СКАНИРУЮ.."
   },
   {
+    "Original": "<b>TEXT SCANNED - UNIQUE PASSAGE:\r</b>\n\n<i>“...My mind is adrift with the eternal torments. Lurid vistas painted in insidious tones, hollow walls that scream to the touch. A mocking song plays at all hours, even the sounds of birds are fake. All reminders of my enduring damnation.\r\n\nGabriel my dearest friend, in endless penance I have awaited your embrace into Heaven. I have been so faithful, accepting of my fate, but to what end?  What punishment is this, that I am to bare the keys to my own doom with no hope of salvation...These skulls sneer their devilish grins, voices chattering, tempting me to take the plunge deeper into Hell...I won’t do it.\r\n\nI’ve hidden them away amongst the furnishings, books, and the very foundations of this accursed place. Forgive me Gabriel, I will await your…”\r</i>\n\n<b>REMAINING TEXT: IRRELEVANT.</b>",
+    "Replacement": "<b>ТЕКСТ ПРОСКАНИРОВАН - ОСОБЕННЫЙ ФРАГМЕНТ:\r</b>\n\n<i>“...Мой разум дрейфует в бесконечных муках. Зловещие коридоры, окрашенные в коварные тона, полые стены, что кричат от касаний. Издевательская песнь непрерывно играет, и даже звуки птиц фальшивы. Всё это - напоминания о моих вечных муках.\r\n\nГавриил, друг мой, в бесконечном покаянии я ожидал твоих обьятий на Небесах. Я был столь правоверен, смирившись со своей судьбой, но к чему это ведёт? Каково же наказание, что я обнажаю ключи от своего собственного обречения, не имея надежды на искупление...Эти черепа ухмыляются дьявольскими улыбками, голоса перешёптываются, заманивая меня погрузиться глубже в Ад...Я не стану этого делать.\r\n\nЯ спрятал их среди мебели, книг, и в самом фундаменте этого проклятого места. Прости меня, Гавриил, я буду ожидать твоего…”\r</i>\n\n<b>ОСТАЛЬНОЙ ТЕКСТ: ИРРЕЛЕВАНТЕН.</b>"
+  },
+  {
     "Original": "SECTION\n",
     "Replacement": "СЕКЦИЯ\n"
   },
@@ -382,6 +386,10 @@
   {
     "Original": "WHIPLASH",
     "Replacement": "ХЛЫСТ"
+  },
+  {
+    "Original": "R",
+    "Replacement": "R"
   },
   {
     "Original": "-- WEAPONS --",
@@ -918,6 +926,70 @@
   {
     "Original": "ALREADY OWNED",
     "Replacement": "УЖЕ ИМЕЕТСЯ"
+  },
+  {
+    "Original": "Press Alt Fire to throw a <color=orange>coin</color>.\n\nHit an <color=orange>airborne</color> coin to <color=orange>deflect</color> your shot into the nearest enemy's <color=orange>weakpoint</color>.\n\nCoins can be <color=orange>chained</color>.",
+    "Replacement": "Нажмите Альт. Огонь, чтобы бросить<color=orange>монету</color>.\n\nПопадите по монете<color=orange>в воздухе</color>, чтобы ваш выстрел <color=orange>отразился</color> в <color=orange>слабое место</color> ближайшего врага.\n\nКаждая монета<color=orange>увеличивает</color> мощность выстрела."
+  },
+  {
+    "Original": "$5000",
+    "Replacement": "$5000"
+  },
+  {
+    "Original": "CORE EJECT",
+    "Replacement": "ВЫБРОС ЯДРА"
+  },
+  {
+    "Original": "PUMP CHARGE",
+    "Replacement": "ПОМПА"
+  },
+  {
+    "Original": "Press Alt Fire to overheat and <color=orange>launch</color> the shotgun's <color=orange>cores</color>.\n\n<color=orange>Hold</color> to charge <color=orange>distance</color>.\n\n<color=orange>Explodes</color> on impact.",
+    "Replacement": "Нажмите Альт. Огонь, чтобы перегреть и <color=orange>запустить</color> <color=orange>ядра</color> дробовика.\n\n<color=orange>Зажмите</color>, чтобы зарядить и увеличить <color=orange>дистанцию</color>.\n\n<color=orange>Взрывается</color> по достижении цели."
+  },
+  {
+    "Original": "Press Alt Fire to <color=orange>pump</color> your shotgun, increasing the <color=orange>power</color> and decreasing the <color=orange>accuracy</color> of your <color=orange>next shot</color>.\n\nToo many pumps will cause an <color=orange>explosion</color> when fired.",
+    "Replacement": "Нажмите Альт. Огонь, чтобы <color=orange>зарядить</color> ваш дробовик, увеличивая <color=orange>мощность</color> и уменьшая <color=orange>точность</color> вашего <color=orange>следующего выстрела</color>.\n\nСлишком много зарядов вызовут <color=orange>взрыв</color>."
+  },
+  {
+    "Original": "125000P",
+    "Replacement": "125000P"
+  },
+  {
+    "Original": "ATTRACTOR",
+    "Replacement": "АТТРАКТОР"
+  },
+  {
+    "Original": "Alt fire to shoot a <color=orange>magnet</color> that pulls all nearby <color=orange>nails</color> towards it.\n\nMagnets stick to <color=orange>surfaces</color> and <color=orange>enemies</color> and can be broken with <color=orange>hitscan</color> weapons.",
+    "Replacement": "Нажмите Альт. Огонь, чтобы выстрелить <color=orange>магнитом</color> притягивающим все ближайшие <color=orange>гвозди</color>.\n\nМагниты втыкаются в <color=orange>поверхности</color> и <color=orange>врагов</color>, а разрушаются <color=orange>хитскан</color> оружием."
+  },
+  {
+    "Original": "OVERHEAT",
+    "Replacement": "ПЕРЕГРЕВ"
+  },
+  {
+    "Original": "Alt fire while shooting to <color=orange>overheat</color> for a quick burst of high damage at the cost of a <color=orange>heatsink</color>.\n\nHeatsinks recharge while not firing.",
+    "Replacement": "Во время стрельбы нажмите Альт. Огонь, чтобы <color=orange>перегреть</color> оружие и выпустить мощную очередь, потратив <color=orange>термоклипсу</color>.\n\nТермоклипсы перезаряжаются при простое."
+  },
+  {
+    "Original": "ELECTRIC",
+    "Replacement": "ЭЛЕКТРИЧЕСКИЙ"
+  },
+  {
+    "Original": "A powerful instant piercing shot.\n\n<color=orange>Pierces</color> through <color=orange>all</color> enemies. Pay attention to your <color=orange>positioning</color> to maximize destruction.\n\nDon't use in water.",
+    "Replacement": "Мощный мгновенный пробивающий выстрел.\n\nПробивает <color=orange>всех</color> врагов. Займите правильную <color=orange>позицию</color>, дабы нанести максимум разрушений.\n\nНе использовать в воде."
+  },
+  {
+    "Original": "Fires a powerful drill that <color=orange>sticks</color> to an enemy and deals damage <color=orange>overtime</color>.\n\nThe drill causes enemies to bleed continously with <color=orange>extra healing range</color>.",
+    "Replacement": "Выстреливает мощным буром, который <color=orange>втыкается</color> во врагов и наносит огромный урон <color=orange>с течением времени</color>.\n\nБур заставляет врагов стабильно кровоточить с <color=orange>повышенным радиусом лечения</color>."
+  },
+  {
+    "Original": "MALICIOUS",
+    "Replacement": "ЗЛОБНЫЙ"
+  },
+  {
+    "Original": "Fires an instant beam that causes a <color=orange>large explosion</color> on impact, similar to a certain familiar face.\n\nWipes out groups of weak enemies with ease.",
+    "Replacement": "Выстреливает лучом, который создаёт <color=orange>огромный взрыв</color> в точке попадания, прямо как у одного знакомого лика.\n\nЛегко расправяется с группами слабых врагов."
   },
   {
     "Original": "<color=#44FF45>CHEATS</color> ENABLED :^)",
