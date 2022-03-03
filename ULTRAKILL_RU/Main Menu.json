@@ -1,13 +1,5 @@
 [
   {
-    "Original": "+",
-    "Replacement": "+"
-  },
-  {
-    "Original": "100",
-    "Replacement": "100"
-  },
-  {
     "Original": "0-3: DOUBLE DOWN",
     "Replacement": "0-3: ВНИЗ И ВНИЗ"
   },
@@ -20,20 +12,8 @@
     "Replacement": "ВРЕМЯ:"
   },
   {
-    "Original": "0:00.000",
-    "Replacement": "0:00.000"
-  },
-  {
-    "Original": "D",
-    "Replacement": "D"
-  },
-  {
     "Original": "KILLS:",
     "Replacement": "УБИЙСТВА:"
-  },
-  {
-    "Original": "0",
-    "Replacement": "0"
   },
   {
     "Original": "STYLE:",
@@ -44,16 +24,8 @@
     "Replacement": "+ БЕЗ РЕСТАРТОВ\n+ БЕЗ УРОНА\n"
   },
   {
-    "Original": "S",
-    "Replacement": "S"
-  },
-  {
     "Original": "SECRETS:",
     "Replacement": "СЕКРЕТЫ:"
-  },
-  {
-    "Original": "0 / 5",
-    "Replacement": "0 / 5"
   },
   {
     "Original": "CHALLENGE:",
@@ -66,18 +38,6 @@
   {
     "Original": "TOTAL:",
     "Replacement": "ВСЕГО:"
-  },
-  {
-    "Original": "+0<color=orange>P</color>",
-    "Replacement": "+0<color=orange>P</color>"
-  },
-  {
-    "Original": "",
-    "Replacement": ""
-  },
-  {
-    "Original": "x 1.00",
-    "Replacement": "x 1.00"
   },
   {
     "Original": "MULTIPLIER",
@@ -128,16 +88,8 @@
     "Replacement": "ЗДОРОВЬЕ"
   },
   {
-    "Original": "/100",
-    "Replacement": "/100"
-  },
-  {
     "Original": "STAMINA",
     "Replacement": "ВЫНОСЛИВОСТЬ"
-  },
-  {
-    "Original": "3.00",
-    "Replacement": "3.00"
   },
   {
     "Original": "WEAPON",
@@ -146,6 +98,10 @@
   {
     "Original": "ARM",
     "Replacement": "РУКА"
+  },
+  {
+    "Original": "RETURN TO MISSION",
+    "Replacement": "ВЕРНУТЬСЯ К ЗАДАНИЮ"
   },
   {
     "Original": "CHARGE",
@@ -200,26 +156,6 @@
     "Replacement": "Нажмите <color=orange>ESC</color> для пропуска"
   },
   {
-    "Original": "???",
-    "Replacement": "???"
-  },
-  {
-    "Original": "00:00.000",
-    "Replacement": "00:00.000"
-  },
-  {
-    "Original": "000",
-    "Replacement": "000"
-  },
-  {
-    "Original": "00000",
-    "Replacement": "00000"
-  },
-  {
-    "Original": "5/5",
-    "Replacement": "5/5"
-  },
-  {
     "Original": "DONE",
     "Replacement": "ВЫПОЛНЕНО"
   },
@@ -230,46 +166,6 @@
   {
     "Original": "YES",
     "Replacement": "ДА"
-  },
-  {
-    "Original": "1-1",
-    "Replacement": "1-1"
-  },
-  {
-    "Original": "1-2",
-    "Replacement": "1-2"
-  },
-  {
-    "Original": "1-3",
-    "Replacement": "1-3"
-  },
-  {
-    "Original": "1-4",
-    "Replacement": "1-4"
-  },
-  {
-    "Original": "2-1",
-    "Replacement": "2-1"
-  },
-  {
-    "Original": "2-2",
-    "Replacement": "2-2"
-  },
-  {
-    "Original": "2-3",
-    "Replacement": "2-3"
-  },
-  {
-    "Original": "2-4",
-    "Replacement": "2-4"
-  },
-  {
-    "Original": "3-1",
-    "Replacement": "3-1"
-  },
-  {
-    "Original": "3-2",
-    "Replacement": "3-2"
   },
   {
     "Original": "LIMBO",
@@ -444,10 +340,6 @@
     "Replacement": "ВПЕРЕД"
   },
   {
-    "Original": "W",
-    "Replacement": "W"
-  },
-  {
     "Original": "LEFT",
     "Replacement": "ВЛЕВО"
   },
@@ -482,10 +374,6 @@
   {
     "Original": "LAST USED \nWEAPON",
     "Replacement": "ПОСЛЕДНЕЕ \nОРУЖИЕ"
-  },
-  {
-    "Original": "Q",
-    "Replacement": "Q"
   },
   {
     "Original": "CHANGE\nVARIATION",
@@ -820,10 +708,6 @@
     "Replacement": "СКОРОСТЬ ИГРЫ"
   },
   {
-    "Original": "100%",
-    "Replacement": "100%"
-  },
-  {
     "Original": "DAMAGE TAKEN",
     "Replacement": "ПОЛУЧАЕМЫЙ УРОН"
   },
@@ -866,18 +750,6 @@
   {
     "Original": "-- HUD --",
     "Replacement": "-- ИНТЕРФЕЙС --"
-  },
-  {
-    "Original": "1.00",
-    "Replacement": "1.00"
-  },
-  {
-    "Original": "G",
-    "Replacement": "G"
-  },
-  {
-    "Original": "B",
-    "Replacement": "B"
   },
   {
     "Original": "HEALTH NUMBER",
@@ -1036,52 +908,20 @@
     "Replacement": "--АРСЕНАЛ--"
   },
   {
-    "Original": "$0",
-    "Replacement": "$0"
-  },
-  {
     "Original": "--TIP OF THE DAY--",
     "Replacement": "--СОВЕТ ДНЯ--"
-  },
-  {
-    "Original": "<color=orange>Hitscan weapons</color> like the Revolver do <color=orange>loacational</color> damage.\n\nA <color=orange>headshot</color> deals <color=orange>2x</color> damage and a <color=orange>limbshot</color> deals <color=orange>1.5x</color> damage.",
-    "Replacement": "<color=orange>Выстрел в голову из револьвера</color> наносит <color=orange>2x</color> урон, а <color=orange>выстрел в конечность</color> наносит <color=orange>1.5x</color> урон."
   },
   {
     "Original": "--MENU--",
     "Replacement": "--МЕНЮ--"
   },
   {
-    "Original": "REVOLVER",
-    "Replacement": "РЕВОЛЬВЕР"
-  },
-  {
-    "Original": "SHOTGUN",
-    "Replacement": "ДРОБОВИК"
-  },
-  {
-    "Original": "NAILGUN",
-    "Replacement": "ГВОЗДОМЁТ"
-  },
-  {
-    "Original": "PIERCER",
-    "Replacement": "ПРОБОЙНИК"
-  },
-  {
     "Original": "READY",
     "Replacement": "ГОТОВО"
   },
   {
-    "Original": "MARKSMAN",
-    "Replacement": "МЕТКИЙ"
-  },
-  {
     "Original": "NOT IN DEMO",
     "Replacement": "НЕТ В ДЕМО"
-  },
-  {
-    "Original": "<color=orange>Hold</color> Alt Fire to charge a <color=orange>3-hit beam</color>.\n\nRequires <color=orange>cooldown</color>.",
-    "Replacement": "<color=orange>Зажмите</color> Альтернативный огонь, чтобы зарядить <color=orange> тройной луч</color>.\n\nТребует <color=orange>отката</color>."
   },
   {
     "Original": "ALREADY OWNED",
@@ -1258,14 +1098,6 @@
   {
     "Original": "ERROR CODE",
     "Replacement": "КОД ОШИБКИ"
-  },
-  {
-    "Original": ":(",
-    "Replacement": ":("
-  },
-  {
-    "Original": ":)",
-    "Replacement": ":)"
   },
   {
     "Original": "Leave a Comment",
@@ -1452,10 +1284,6 @@
     "Replacement": "И С П Ы Т А Н И Е"
   },
   {
-    "Original": "-",
-    "Replacement": "-"
-  },
-  {
     "Original": "1-2: THE BURNING WORLD",
     "Replacement": "1-2: THE BURNING WORLD"
   },
@@ -1620,14 +1448,6 @@
     "Replacement": "DROP GABRIEL IN A PIT"
   },
   {
-    "Original": "1920 x 1080",
-    "Replacement": "1920 x 1080"
-  },
-  {
-    "Original": "120",
-    "Replacement": "120"
-  },
-  {
     "Original": "DEFAULT",
     "Replacement": "DEFAULT"
   },
@@ -1720,10 +1540,6 @@
     "Replacement": "СТАТИЧЕСКИ"
   },
   {
-    "Original": "O",
-    "Replacement": "O"
-  },
-  {
     "Original": "Spawner Arm",
     "Replacement": "Рука-Спавнер"
   },
@@ -1744,20 +1560,12 @@
     "Replacement": "ПРЕДМЕТЫ"
   },
   {
-    "Original": "P",
-    "Replacement": "P"
-  },
-  {
     "Original": "Teleport Menu",
     "Replacement": "Меню Телепортации"
   },
   {
     "Original": "OPEN",
     "Replacement": "ОТКРЫТЬ"
-  },
-  {
-    "Original": "L",
-    "Replacement": "L"
   },
   {
     "Original": "Fullbright",
@@ -1776,10 +1584,6 @@
     "Replacement": "Noclip"
   },
   {
-    "Original": "V",
-    "Replacement": "V"
-  },
-  {
     "Original": "Flight",
     "Replacement": "Полёт"
   },
@@ -1788,16 +1592,8 @@
     "Replacement": "Бесконечные Прыжки От Стен"
   },
   {
-    "Original": "N",
-    "Replacement": "N"
-  },
-  {
     "Original": "No Weapon Cooldown",
     "Replacement": "Отключить Перезарядку"
-  },
-  {
-    "Original": "C",
-    "Replacement": "C"
   },
   {
     "Original": "Infinite Power-Ups",
@@ -1812,16 +1608,8 @@
     "Replacement": "Слепые враги"
   },
   {
-    "Original": "M",
-    "Replacement": "M"
-  },
-  {
     "Original": "Disable Enemy Spawns",
     "Replacement": "Отключить появление врагов"
-  },
-  {
-    "Original": "I",
-    "Replacement": "I"
   },
   {
     "Original": "Invincible Enemies",

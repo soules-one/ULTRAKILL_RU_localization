@@ -1,0 +1,58 @@
+[
+  {
+    "Original": "BOOT UP SEQUENCE#READY½\n\nFIRMWARE# \n+LATEST VERSION (2112.08.06)_½\n\nCALIBRATION§\n*EXPIRED_\n*NEW CALIBRATION REQUIRED_½\n\nBEGINNING CALIBRATION½\n\nAUDIO§         Ä½\nVIDEO§         Ä½\nMECHANICS§     Ä½\n\n+CALIBRATION COMPLETE_\n+PRIMARY SETTINGS UPDATED_\n(±ASSIST OPTIONS_ AVAILABLE IN PAUSE MENU )½\n\n+ALL SYSTEMS OPERATIONAL_½\nLOADING STATUS UPDATE§",
+    "Replacement": "BOOT UP SEQUENCE#READY½\n\nFIRMWARE# \n+LATEST VERSION (2112.08.06)_½\n\nCALIBRATION§\n*EXPIRED_\n*NEW CALIBRATION REQUIRED_½\n\nBEGINNING CALIBRATION½\n\nAUDIO§         Ä½\nVIDEO§         Ä½\nMECHANICS§     Ä½\n\n+CALIBRATION COMPLETE_\n+PRIMARY SETTINGS UPDATED_\n(±ASSIST OPTIONS_ AVAILABLE IN PAUSE MENU )½\n\n+ALL SYSTEMS OPERATIONAL_½\nLOADING STATUS UPDATE§"
+  },
+  {
+    "Original": "BOOT UP SEQUENCE READY \n\nFIRMWARE  \n<color=lime> LATEST VERSION (2112.08.06)</color>  \n\nCALIBRATION \n<color=lime> RECENTLY UPDATED</color> \n\nPERFORM RECALIBRATION?\nY/N",
+    "Replacement": "BOOT UP SEQUENCE READY \n\nFIRMWARE  \n<color=lime> LATEST VERSION (2112.08.06)</color>  \n\nCALIBRATION \n<color=lime> RECENTLY UPDATED</color> \n\nPERFORM RECALIBRATION?\nY/N"
+  },
+  {
+    "Original": " STATUS UPDATE:½\n\n MACHINE ID:            V1½½\n LOCATION:              APPROACHING HELL½½@\n CURRENT OBJECTIVE:     FIND A WEAPON½½\n\n*MANKIND IS DEAD._½½\n*BLOOD IS FUEL._½½\n*HELL IS FULL._½½&",
+    "Replacement": " STATUS UPDATE:½\n\n MACHINE ID:            V1½½\n LOCATION:              APPROACHING HELL½½@\n CURRENT OBJECTIVE:     FIND A WEAPON½½\n\n*MANKIND IS DEAD._½½\n*BLOOD IS FUEL._½½\n*HELL IS FULL._½½&"
+  },
+  {
+    "Original": "MANUAL AUDIO CALIBRATION:",
+    "Replacement": "РУЧНАЯ НАСТРОЙКА ЗВУКА:"
+  },
+  {
+    "Original": "MASTER VOLUME",
+    "Replacement": "ОБЩАЯ ГРОМКОСТЬ"
+  },
+  {
+    "Original": "MUSIC VOLUME",
+    "Replacement": "ГРОМКОСТЬ МУЗЫКИ"
+  },
+  {
+    "Original": "<color=red>MASTER VOLUME IS OFF</color>.\n\nYOU WILL HAVE NO AUDIO.\n\nIS THIS OK?",
+    "Replacement": "<color=red>ОБЩАЯ ГРОМКОСТЬ НА НУЛЕ</color>.\n\nУ ВАС НЕ БУДЕТ ЗВУКА.\n\nПРОДОЛЖИТЬ?"
+  },
+  {
+    "Original": "CONTINUE WITHOUT SOUND",
+    "Replacement": "ПРОДОЛЖИТЬ БЕЗ ЗВУКА"
+  },
+  {
+    "Original": "CANCEL",
+    "Replacement": "ОТМЕНА"
+  },
+  {
+    "Original": "MANUAL VIDEO CALIBRATION:",
+    "Replacement": "РУЧНАЯ НАСТРОЙКА ВИДЕО:"
+  },
+  {
+    "Original": "PC",
+    "Replacement": "PC"
+  },
+  {
+    "Original": "PSX",
+    "Replacement": "PSX"
+  },
+  {
+    "Original": "SMOOTH, CLEAR, EASY TO READ",
+    "Replacement": "SMOOTH, CLEAR, EASY TO READ"
+  },
+  {
+    "Original": "ROUGH, PIXELATED, WARPING",
+    "Replacement": "ROUGH, PIXELATED, WARPING"
+  }
+]
