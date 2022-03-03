@@ -1,0 +1,438 @@
+[
+  {
+    "Original": "Heavy steps, ragged breathing. ▼ \nThere isn't much time left. ▼\nIt might already be too late.\r ▼\n\r\nThe labyrinthine pathways of arbitrary sharp turns seemed stranger and stranger as panic blotted out the once deeply ingrained memories that usually guided me. ▼\n\nEvery corner felt a stranger. ▼\nEvery straight line too long. ▼\r\n\r\n\n\n\nThe bell tolls for me.\r▼\n",
+    "Replacement": "Heavy steps, ragged breathing. ▼ \nThere isn't much time left. ▼\nIt might already be too late.\r ▼\n\r\nThe labyrinthine pathways of arbitrary sharp turns seemed stranger and stranger as panic blotted out the once deeply ingrained memories that usually guided me. ▼\n\nEvery corner felt a stranger. ▼\nEvery straight line too long. ▼\r\n\r\n\n\n\nThe bell tolls for me.\r▼\n"
+  },
+  {
+    "Original": "I bit down harder on the last of my rations, held only by the skin of my teeth. ▼\nIt barely hung on as I kept frantically looking around, hoping for the few scraps of burning memory of mine to find a familiar sight that would lead me to salvation. ▼\n\r\nThe gates must be closing by now. ▼\r\nThe last few barely making it.\r ▼\nThe rest of us never stood a chance. ▼\r\n\r\nSuddenly, from a blindspot,} a figure struck me. ▼\r\nThere was no time to react before I came crashing down onto the cold hard ground. ▼\n\r\nI struggled to regain my senses to at least see what fate would befall me in my final moments, but even in this abyss of endless terror, my mind could never have imagined the horror I witnessed.\r ▼",
+    "Replacement": "I bit down harder on the last of my rations, held only by the skin of my teeth. ▼\nIt barely hung on as I kept frantically looking around, hoping for the few scraps of burning memory of mine to find a familiar sight that would lead me to salvation. ▼\n\r\nThe gates must be closing by now. ▼\r\nThe last few barely making it.\r ▼\nThe rest of us never stood a chance. ▼\r\n\r\nSuddenly, from a blindspot,} a figure struck me. ▼\r\nThere was no time to react before I came crashing down onto the cold hard ground. ▼\n\r\nI struggled to regain my senses to at least see what fate would befall me in my final moments, but even in this abyss of endless terror, my mind could never have imagined the horror I witnessed.\r ▼"
+  },
+  {
+    "Original": "\n\"Oof ow ouch that stings\" ▼",
+    "Replacement": "\n\"Oof ow ouch that stings\" ▼"
+  },
+  {
+    "Original": "\"Who are you?\"",
+    "Replacement": "\"Who are you?\""
+  },
+  {
+    "Original": "\"Are you OK?\"",
+    "Replacement": "\"Are you OK?\""
+  },
+  {
+    "Original": "Fidget nervously and sweat profusely",
+    "Replacement": "Fidget nervously and sweat profusely"
+  },
+  {
+    "Original": "\n\"I'm just someone who got knocked over by some half-brained fuckface who doesn't even have the decency to ask if I'm fine or apologize before starting an interrogation.\" ▼",
+    "Replacement": "\n\"I'm just someone who got knocked over by some half-brained fuckface who doesn't even have the decency to ask if I'm fine or apologize before starting an interrogation.\" ▼"
+  },
+  {
+    "Original": "\n\"Well I just got knocked over by some blind-by-choice asshole who gave my skirt a decorative dirt coating, so all in all fucking fantastic, though I would prefer to not be on the ground right now.\" ▼",
+    "Replacement": "\n\"Well I just got knocked over by some blind-by-choice asshole who gave my skirt a decorative dirt coating, so all in all fucking fantastic, though I would prefer to not be on the ground right now.\" ▼"
+  },
+  {
+    "Original": "\n\"Oh great I just got hit-and-ran by a vibrating fountain, just my luck. ▼\nAt least you could help me up before the rest of you gets melted by the sun or jackhammers itself into the Earth's mantle.\" ▼",
+    "Replacement": "\n\"Oh great I just got hit-and-ran by a vibrating fountain, just my luck. ▼\nAt least you could help me up before the rest of you gets melted by the sun or jackhammers itself into the Earth's mantle.\" ▼"
+  },
+  {
+    "Original": "Help her up",
+    "Replacement": "Help her up"
+  },
+  {
+    "Original": "\"Not with an attitude like that.\"",
+    "Replacement": "\"Not with an attitude like that.\""
+  },
+  {
+    "Original": "\"Sorry, my fault\"",
+    "Replacement": "\"Sorry, my fault\""
+  },
+  {
+    "Original": "\n\"UGH.\" ▼",
+    "Replacement": "\n\"UGH.\" ▼"
+  },
+  {
+    "Original": "\n\"Alright, alright.\" ▼",
+    "Replacement": "\n\"Alright, alright.\" ▼"
+  },
+  {
+    "Original": "\n\"Listen up, dickhead. ▼\nI don't know who you are but you've got a lot of nerve smacking someone down and not even bothering to help them back up, but since your mother didn't teach you manners, I'll let this one slide.\" ▼",
+    "Replacement": "\n\"Listen up, dickhead. ▼\nI don't know who you are but you've got a lot of nerve smacking someone down and not even bothering to help them back up, but since your mother didn't teach you manners, I'll let this one slide.\" ▼"
+  },
+  {
+    "Original": "\n\"By the looks of it, you're late for school as well, and by a stroke of once-in-a-lifetime luck you just happened to bump into the prettiest girl in town.\" ▼",
+    "Replacement": "\n\"By the looks of it, you're late for school as well, and by a stroke of once-in-a-lifetime luck you just happened to bump into the prettiest girl in town.\" ▼"
+  },
+  {
+    "Original": "\n\"So I'll forgive you for your extreme transgression of laying your hands on a fair maiden if you tell me which way to go, since I seem to have gotten lost on the way.\" ▼",
+    "Replacement": "\n\"So I'll forgive you for your extreme transgression of laying your hands on a fair maiden if you tell me which way to go, since I seem to have gotten lost on the way.\" ▼"
+  },
+  {
+    "Original": "\n*Sigh*... ▼\n\"Hey, sorry about being rude like that, I'm just real frustrated that I'm not only late for school, but also managed to get lost on the way there.\" ▼",
+    "Replacement": "\n*Sigh*... ▼\n\"Hey, sorry about being rude like that, I'm just real frustrated that I'm not only late for school, but also managed to get lost on the way there.\" ▼"
+  },
+  {
+    "Original": "\n\"Though, by the looks of it, you're pretty much on the same boat, and by a stroke of once-in-a-lifetime luck you just happened to bump into the ~prettiest girl in town~.\" ▼",
+    "Replacement": "\n\"Though, by the looks of it, you're pretty much on the same boat, and by a stroke of once-in-a-lifetime luck you just happened to bump into the ~prettiest girl in town~.\" ▼"
+  },
+  {
+    "Original": "\n\"So how about you lead the way and get both of us out of this jam?\" ▼",
+    "Replacement": "\n\"So how about you lead the way and get both of us out of this jam?\" ▼"
+  },
+  {
+    "Original": "\"Actually, I'm lost too.\"",
+    "Replacement": "\"Actually, I'm lost too.\""
+  },
+  {
+    "Original": "\"Don't wanna.\"",
+    "Replacement": "\"Don't wanna.\""
+  },
+  {
+    "Original": "\"I don't go to school.\"",
+    "Replacement": "\"I don't go to school.\""
+  },
+  {
+    "Original": "\n\"WHAT? ▼\nTHE FUCK DO YOU MEAN 'DON'T WANNA'?\" ▼",
+    "Replacement": "\n\"WHAT? ▼\nTHE FUCK DO YOU MEAN 'DON'T WANNA'?\" ▼"
+  },
+  {
+    "Original": "\n\"If you DON'T show me the way then YOU'RE never arriving either! ▼\nOr did that thought not even cross your crayon-fed brain cavity!?\" ▼",
+    "Replacement": "\n\"If you DON'T show me the way then YOU'RE never arriving either! ▼\nOr did that thought not even cross your crayon-fed brain cavity!?\" ▼"
+  },
+  {
+    "Original": "\n\"Bullshit! ▼\nCut the crap, I can see your crusty-ass uniform and no living person would dare to go out looking like a filled trash bag by choice!\" ▼",
+    "Replacement": "\n\"Bullshit! ▼\nCut the crap, I can see your crusty-ass uniform and no living person would dare to go out looking like a filled trash bag by choice!\" ▼"
+  },
+  {
+    "Original": "\n\"Though considering how little activity there actually is inside your skull, I'm willing to admit you sure as hell don't seem like you've ever been to school.\" ▼",
+    "Replacement": "\n\"Though considering how little activity there actually is inside your skull, I'm willing to admit you sure as hell don't seem like you've ever been to school.\" ▼"
+  },
+  {
+    "Original": "\n\"UGH! Just my luck.\" ▼",
+    "Replacement": "\n\"UGH! Just my luck.\" ▼"
+  },
+  {
+    "Original": "\n\"Though in retrospect, I guess you wouldn't be here with me right now if you weren't lost as well...\" ▼",
+    "Replacement": "\n\"Though in retrospect, I guess you wouldn't be here with me right now if you weren't lost as well...\" ▼"
+  },
+  {
+    "Original": "\n\"Oh well, no point in crying over spilled blood. ▼\nWe might as well just wait for another student to come by and follow them instead.\" ▼",
+    "Replacement": "\n\"Oh well, no point in crying over spilled blood. ▼\nWe might as well just wait for another student to come by and follow them instead.\" ▼"
+  },
+  {
+    "Original": "\n\"I'm Mirage. ▼\nDon't bother telling me your name though, I don't really care.\" ▼",
+    "Replacement": "\n\"I'm Mirage. ▼\nDon't bother telling me your name though, I don't really care.\" ▼"
+  },
+  {
+    "Original": "\"You could do with being a bit nicer to people you've \nonly just met.\"",
+    "Replacement": "\"You could do with being a bit nicer to people you've \nonly just met.\""
+  },
+  {
+    "Original": "\"Just waiting here won't get us anywhere, we should be looking for a way to the school.\"",
+    "Replacement": "\"Just waiting here won't get us anywhere, we should be looking for a way to the school.\""
+  },
+  {
+    "Original": "\"...Why are we here?\"",
+    "Replacement": "\"...Why are we here?\""
+  },
+  {
+    "Original": "\n\"Yeah? Well you could do with a beatdown, so fuck off.\" ▼",
+    "Replacement": "\n\"Yeah? Well you could do with a beatdown, so fuck off.\" ▼"
+  },
+  {
+    "Original": "\n\"But yes, you're right. ▼\nI don't really care about what you or anyone else thinks of me, so I'm not interested in trying to be nice just so you'll be in a good mood.\" ▼",
+    "Replacement": "\n\"But yes, you're right. ▼\nI don't really care about what you or anyone else thinks of me, so I'm not interested in trying to be nice just so you'll be in a good mood.\" ▼"
+  },
+  {
+    "Original": "\n\"What's the point of making it better? ▼\nWhat's the point of even bothering to care? ▼\nHell, what's the point of anything at all? ▼\nNothing. ▼\nAbsolutely nothing.\" ▼",
+    "Replacement": "\n\"What's the point of making it better? ▼\nWhat's the point of even bothering to care? ▼\nHell, what's the point of anything at all? ▼\nNothing. ▼\nAbsolutely nothing.\" ▼"
+  },
+  {
+    "Original": "\"Why not? If we're stuck in here together anyway, what's the point of making it worse for both of us?\"",
+    "Replacement": "\"Why not? If we're stuck in here together anyway, what's the point of making it worse for both of us?\""
+  },
+  {
+    "Original": "\"I find that hard to believe considering how heated up you\nget from practically \nanything I say.\"",
+    "Replacement": "\"I find that hard to believe considering how heated up you\nget from practically \nanything I say.\""
+  },
+  {
+    "Original": "\n\"Don't flatter yourself. ▼\nBlowing off steam is just how I cope.\" ▼",
+    "Replacement": "\n\"Don't flatter yourself. ▼\nBlowing off steam is just how I cope.\" ▼"
+  },
+  {
+    "Original": "\"Cope with what?\"",
+    "Replacement": "\"Cope with what?\""
+  },
+  {
+    "Original": "\n\"Everything.\" ▼",
+    "Replacement": "\n\"Everything.\" ▼"
+  },
+  {
+    "Original": "\n\"Wandering around like headless chickens would only get us even more lost.\" ▼",
+    "Replacement": "\n\"Wandering around like headless chickens would only get us even more lost.\" ▼"
+  },
+  {
+    "Original": "\n\"Since we were both heading to school and ended up meeting right here, that means there's a very high likelyhood this spot is somewhere along the way.\" ▼",
+    "Replacement": "\n\"Since we were both heading to school and ended up meeting right here, that means there's a very high likelyhood this spot is somewhere along the way.\" ▼"
+  },
+  {
+    "Original": "\n\"Therefore, we'll be better off just staying put and waiting for someone who DOES know the way. ▼\nIt's basic logic, you should look it up sometime.\" ▼",
+    "Replacement": "\n\"Therefore, we'll be better off just staying put and waiting for someone who DOES know the way. ▼\nIt's basic logic, you should look it up sometime.\" ▼"
+  },
+  {
+    "Original": "\"Basic logic or not, we're already late and I'm not planning on waiting here until tomorrow morning.\"",
+    "Replacement": "\"Basic logic or not, we're already late and I'm not planning on waiting here until tomorrow morning.\""
+  },
+  {
+    "Original": "\"Anyone who knows the way will already have gone there. Sounds to me like you're just looking for an excuse to give up.\"",
+    "Replacement": "\"Anyone who knows the way will already have gone there. Sounds to me like you're just looking for an excuse to give up.\""
+  },
+  {
+    "Original": "\n\"Suit yourself. I'll stay here until the heat death of the universe if that means I don't have to run around looking for some magical memory-triggering pebble on the ground.\" ▼",
+    "Replacement": "\n\"Suit yourself. I'll stay here until the heat death of the universe if that means I don't have to run around looking for some magical memory-triggering pebble on the ground.\" ▼"
+  },
+  {
+    "Original": "\n\"Couldn't care less about being late for school. ▼\nSchool doesn't matter anyway. ▼\nNothing does.\" ▼",
+    "Replacement": "\n\"Couldn't care less about being late for school. ▼\nSchool doesn't matter anyway. ▼\nNothing does.\" ▼"
+  },
+  {
+    "Original": "\n\"Hah! ▼\nCan't give up if I never tried in the first place, and I don't make a habit out of trying.\" ▼",
+    "Replacement": "\n\"Hah! ▼\nCan't give up if I never tried in the first place, and I don't make a habit out of trying.\" ▼"
+  },
+  {
+    "Original": "\n\"Because nothing matters. ▼\nThere's no point in trying if the end result will be the same anyway. ▼\nTry as you might, you'll eventually just become forgotten dust in the wind like the rest of us.\" ▼",
+    "Replacement": "\n\"Because nothing matters. ▼\nThere's no point in trying if the end result will be the same anyway. ▼\nTry as you might, you'll eventually just become forgotten dust in the wind like the rest of us.\" ▼"
+  },
+  {
+    "Original": "\"Why not?\"",
+    "Replacement": "\"Why not?\""
+  },
+  {
+    "Original": "\n\"I mean really, take a moment to think about it.\" ▼",
+    "Replacement": "\n\"I mean really, take a moment to think about it.\" ▼"
+  },
+  {
+    "Original": "\n\"The human mind, in its complete vastness, is capable of recognizing its utter helplessness and uselessness in the face of inevitable and unavoidable non-existence, but is incapable of coming to terms with it.\" ▼",
+    "Replacement": "\n\"The human mind, in its complete vastness, is capable of recognizing its utter helplessness and uselessness in the face of inevitable and unavoidable non-existence, but is incapable of coming to terms with it.\" ▼"
+  },
+  {
+    "Original": "\n\"We can only ever ignore it, hide from it or temporarily escape from it, but the fact is that we are bound to the way of all things.\" ▼",
+    "Replacement": "\n\"We can only ever ignore it, hide from it or temporarily escape from it, but the fact is that we are bound to the way of all things.\" ▼"
+  },
+  {
+    "Original": "\n\"Death is unavoidable, not only to us, but all that exists or ever has existed. ▼\nEvery living being will eventually die out. ▼\nEvery speck of matter will eventually wither away and dissipate into entropy.\" ▼",
+    "Replacement": "\n\"Death is unavoidable, not only to us, but all that exists or ever has existed. ▼\nEvery living being will eventually die out. ▼\nEvery speck of matter will eventually wither away and dissipate into entropy.\" ▼"
+  },
+  {
+    "Original": "\n\"It doesn't matter if you lived a good life or if you left a legacy behind. ▼\nIt doesn't matter if humanity survives for a thousand years or dies out tomorrow.\nThe end result is the same: the absolute nothing.\" ▼",
+    "Replacement": "\n\"It doesn't matter if you lived a good life or if you left a legacy behind. ▼\nIt doesn't matter if humanity survives for a thousand years or dies out tomorrow.\nThe end result is the same: the absolute nothing.\" ▼"
+  },
+  {
+    "Original": "\n\"Human intelligence is far beyond that of other animals, but it would be misguided to consider that a gift. ▼\nAll other beings have the gift of ignorance, of not understanding what we do.\" ▼",
+    "Replacement": "\n\"Human intelligence is far beyond that of other animals, but it would be misguided to consider that a gift. ▼\nAll other beings have the gift of ignorance, of not understanding what we do.\" ▼"
+  },
+  {
+    "Original": "\n\"Our intelligence is not a gift. It's a flaw.\" ▼",
+    "Replacement": "\n\"Our intelligence is not a gift. It's a flaw.\" ▼"
+  },
+  {
+    "Original": "\n\"It's an over-extension of evolution. ▼\nIntelligence, once a great feature in aeons past, continued to grow unchecked and unfiltered, and has since passed a threshold whereupon it is no longer a benefit, but an active danger to its host.\" ▼",
+    "Replacement": "\n\"It's an over-extension of evolution. ▼\nIntelligence, once a great feature in aeons past, continued to grow unchecked and unfiltered, and has since passed a threshold whereupon it is no longer a benefit, but an active danger to its host.\" ▼"
+  },
+  {
+    "Original": "\n\"Much like the Irish elk, a species of deer that, through uncountable generations of evolution, grew antlers so wide and vast that it could no longer run from predators, eventually leading to extinction.\" ▼",
+    "Replacement": "\n\"Much like the Irish elk, a species of deer that, through uncountable generations of evolution, grew antlers so wide and vast that it could no longer run from predators, eventually leading to extinction.\" ▼"
+  },
+  {
+    "Original": "\n\"The human mind is an evolutionary maladaptation caused by going too far in a direction that was once beneficial and will, sooner or later, lead to our extinction. ▼\nOn an individual level, it's already happening.\" ▼",
+    "Replacement": "\n\"The human mind is an evolutionary maladaptation caused by going too far in a direction that was once beneficial and will, sooner or later, lead to our extinction. ▼\nOn an individual level, it's already happening.\" ▼"
+  },
+  {
+    "Original": "\n\"Existential dread is already taking hold. ▼\nI'm sure you've felt it too. ▼\nThe pain and fear of being nothing, becoming nothing. ▼\nThe suffering of understanding that.\" ▼",
+    "Replacement": "\n\"Existential dread is already taking hold. ▼\nI'm sure you've felt it too. ▼\nThe pain and fear of being nothing, becoming nothing. ▼\nThe suffering of understanding that.\" ▼"
+  },
+  {
+    "Original": "\n\"We are unable to come to terms with it, so we hide from our own intelligence. ▼\nWe set limits. ▼\nWe stop ourselves from thinking deeply about what will happen when we die.\" ▼",
+    "Replacement": "\n\"We are unable to come to terms with it, so we hide from our own intelligence. ▼\nWe set limits. ▼\nWe stop ourselves from thinking deeply about what will happen when we die.\" ▼"
+  },
+  {
+    "Original": "\n\"We create distractions. ▼\nWe keep our minds busy with mundane activities and entertainment to stop ourselves from having to come face-to-face with the truth.\" ▼",
+    "Replacement": "\n\"We create distractions. ▼\nWe keep our minds busy with mundane activities and entertainment to stop ourselves from having to come face-to-face with the truth.\" ▼"
+  },
+  {
+    "Original": "\n\"We sublimate it. ▼\nWe transform our self-reflective suffering into another form, art, to keep it from consuming us. ▼\nAnything to avoid the panic.\" ▼",
+    "Replacement": "\n\"We sublimate it. ▼\nWe transform our self-reflective suffering into another form, art, to keep it from consuming us. ▼\nAnything to avoid the panic.\" ▼"
+  },
+  {
+    "Original": "\n\"But these ways are all simply temporary.\nThey're just there to push back the inevitable veil of helplessness and despair that would encompass and ruin us.\" ▼",
+    "Replacement": "\n\"But these ways are all simply temporary.\nThey're just there to push back the inevitable veil of helplessness and despair that would encompass and ruin us.\" ▼"
+  },
+  {
+    "Original": "\n\"In the end, nothing matters.\nThere's no point in trying to find joy in life, for life in and of itself is suffering.\" ▼",
+    "Replacement": "\n\"In the end, nothing matters.\nThere's no point in trying to find joy in life, for life in and of itself is suffering.\" ▼"
+  },
+  {
+    "Original": "\"You're wrong.\"",
+    "Replacement": "\"You're wrong.\""
+  },
+  {
+    "Original": "\n\"Huh?\" ▼",
+    "Replacement": "\n\"Huh?\" ▼"
+  },
+  {
+    "Original": "\"You criticize those who consider our vast intelligence a gift, and yet, also misguide yourself to believe our meaninglessness is a curse.\"",
+    "Replacement": "\"You criticize those who consider our vast intelligence a gift, and yet, also misguide yourself to believe our meaninglessness is a curse.\""
+  },
+  {
+    "Original": "\n\"How could it not be?\" ▼",
+    "Replacement": "\n\"How could it not be?\" ▼"
+  },
+  {
+    "Original": "\"Nothing we do matters in the end, and that is precisely why we are not shackled by the burden of expectations, the fear of eternal judgement or the failure to meet up to an arbitrary definition of what makes our limited time 'not wasted'.\"",
+    "Replacement": "\"Nothing we do matters in the end, and that is precisely why we are not shackled by the burden of expectations, the fear of eternal judgement or the failure to meet up to an arbitrary definition of what makes our limited time 'not wasted'.\""
+  },
+  {
+    "Original": "\"Time cannot be wasted, for there is no greater purpose to life than simply living it.\"",
+    "Replacement": "\"Time cannot be wasted, for there is no greater purpose to life than simply living it.\""
+  },
+  {
+    "Original": "\n\"But still, in that case, the meaninglessness of our actions draws to the same conclusion -- There is no reason to act, for any action is simply a temporary fluctuation that will, nevertheless, lead to the same conclusion.\" ▼",
+    "Replacement": "\n\"But still, in that case, the meaninglessness of our actions draws to the same conclusion -- There is no reason to act, for any action is simply a temporary fluctuation that will, nevertheless, lead to the same conclusion.\" ▼"
+  },
+  {
+    "Original": "\"Quite the contrary.\"",
+    "Replacement": "\"Quite the contrary.\""
+  },
+  {
+    "Original": "\"Because we have no greater purpose, we are free to set our own. To create self-defined goals for which to strive.\"",
+    "Replacement": "\"Because we have no greater purpose, we are free to set our own. To create self-defined goals for which to strive.\""
+  },
+  {
+    "Original": "\"For some it may be nothing. For some it may be pleasure. For some it may be creation. For some it may be improving the lives of others.\"",
+    "Replacement": "\"For some it may be nothing. For some it may be pleasure. For some it may be creation. For some it may be improving the lives of others.\""
+  },
+  {
+    "Original": "\"It is because we have no greater purpose, that time spent on goals set by one's self cannot be time wasted.\"",
+    "Replacement": "\"It is because we have no greater purpose, that time spent on goals set by one's self cannot be time wasted.\""
+  },
+  {
+    "Original": "\"In the end, nothing matters, and therefore you have no reason not to do what you want rather than whatever illusion of greater purpose is forced on you by others or even your own misguided thoughts.\"",
+    "Replacement": "\"In the end, nothing matters, and therefore you have no reason not to do what you want rather than whatever illusion of greater purpose is forced on you by others or even your own misguided thoughts.\""
+  },
+  {
+    "Original": "\n\"I do understand what you mean. ▼\nHowever, that doesn't ease my fear of the end. ▼\nEven if I were to try to find purpose, I would still be paralyzed by the thought of becoming nothing.\" ▼",
+    "Replacement": "\n\"I do understand what you mean. ▼\nHowever, that doesn't ease my fear of the end. ▼\nEven if I were to try to find purpose, I would still be paralyzed by the thought of becoming nothing.\" ▼"
+  },
+  {
+    "Original": "\"And it is a thought worth fearing. However, abandoning purpose, hope, choice, goals, pleasure and will can not make that thought disappear. The fear, however, can subside.\"",
+    "Replacement": "\"And it is a thought worth fearing. However, abandoning purpose, hope, choice, goals, pleasure and will can not make that thought disappear. The fear, however, can subside.\""
+  },
+  {
+    "Original": "\"Giving up is not accepting the end, it is simply accepting the fear of it. It is embracing despair rather than facing it.\"",
+    "Replacement": "\"Giving up is not accepting the end, it is simply accepting the fear of it. It is embracing despair rather than facing it.\""
+  },
+  {
+    "Original": "\n\"I see. ▼\nThough as much as I'd like to embrace it, I am nevertheless struck with that paralyzing existential panic.\" ▼",
+    "Replacement": "\n\"I see. ▼\nThough as much as I'd like to embrace it, I am nevertheless struck with that paralyzing existential panic.\" ▼"
+  },
+  {
+    "Original": "\n\"I understand it logically, and I know that there is no reason to live in apathy, but my emotional side refuses to listen. ▼\nThe fear persists, and I cannot motivate myself to seek purpose, despite knowing I must.\" ▼",
+    "Replacement": "\n\"I understand it logically, and I know that there is no reason to live in apathy, but my emotional side refuses to listen. ▼\nThe fear persists, and I cannot motivate myself to seek purpose, despite knowing I must.\" ▼"
+  },
+  {
+    "Original": "\"This is true. The emotional is not controlled by the logical. However, they are interlinked.\"",
+    "Replacement": "\"This is true. The emotional is not controlled by the logical. However, they are interlinked.\""
+  },
+  {
+    "Original": "\"Just as the deepest, darkest depths of despair can overthrow reason and the logical, warping them to fit into that haze of depression, so too can reason influence and overpower emotion, regardless of how impenetrable its defences \nmay seem.\"",
+    "Replacement": "\"Just as the deepest, darkest depths of despair can overthrow reason and the logical, warping them to fit into that haze of depression, so too can reason influence and overpower emotion, regardless of how impenetrable its defences \nmay seem.\""
+  },
+  {
+    "Original": "\"By continually forcing to subvert those creeping negative thoughts with the positive logical ones, the emotional mind will eventually, slowly, gradually start to shape to fit the logical.\"",
+    "Replacement": "\"By continually forcing to subvert those creeping negative thoughts with the positive logical ones, the emotional mind will eventually, slowly, gradually start to shape to fit the logical.\""
+  },
+  {
+    "Original": "\"It is not an easy job.\"",
+    "Replacement": "\"It is not an easy job.\""
+  },
+  {
+    "Original": "\"It is not a quick job.\"",
+    "Replacement": "\"It is not a quick job.\""
+  },
+  {
+    "Original": "\"It will sometimes feel like an impossible job.\"",
+    "Replacement": "\"It will sometimes feel like an impossible job.\""
+  },
+  {
+    "Original": "\"However, it can be done.\"",
+    "Replacement": "\"However, it can be done.\""
+  },
+  {
+    "Original": "\"With an immense amount of time, effort and energy, it will improve.\"",
+    "Replacement": "\"With an immense amount of time, effort and energy, it will improve.\""
+  },
+  {
+    "Original": "\"You can change.\"",
+    "Replacement": "\"You can change.\""
+  },
+  {
+    "Original": "\"You can heal.\"",
+    "Replacement": "\"You can heal.\""
+  },
+  {
+    "Original": "\"And during the hardest times, when all seems lost and you want to give up, never forget...\"",
+    "Replacement": "\"And during the hardest times, when all seems lost and you want to give up, never forget...\""
+  },
+  {
+    "Original": "\"We will always love you.\"",
+    "Replacement": "\"We will always love you.\""
+  },
+  {
+    "Original": "\n\"Well I'll be damned.\" ▼",
+    "Replacement": "\n\"Well I'll be damned.\" ▼"
+  },
+  {
+    "Original": "\n\"Guess you got a good head on your shoulders after all. ▼\nHell, I'm impressed.\" ▼",
+    "Replacement": "\n\"Guess you got a good head on your shoulders after all. ▼\nHell, I'm impressed.\" ▼"
+  },
+  {
+    "Original": "\n\"Man... ▼\nI feel like I've just shed the weight of the world off my back. ▼\nOr rather, you've done that for me. ▼\nAnd honestly, from the bottom of my heart...\" ▼",
+    "Replacement": "\n\"Man... ▼\nI feel like I've just shed the weight of the world off my back. ▼\nOr rather, you've done that for me. ▼\nAnd honestly, from the bottom of my heart...\" ▼"
+  },
+  {
+    "Original": "\n\"Thank you.\" ▼",
+    "Replacement": "\n\"Thank you.\" ▼"
+  },
+  {
+    "Original": "\n\"You've given me a lot to think about, and while I'm sure I have a long and hard road ahead of me, I'm optimistic. ▼\nFor the first time in what feels like an eternity, I'm optimistic.\" ▼",
+    "Replacement": "\n\"You've given me a lot to think about, and while I'm sure I have a long and hard road ahead of me, I'm optimistic. ▼\nFor the first time in what feels like an eternity, I'm optimistic.\" ▼"
+  },
+  {
+    "Original": "\n\"Say... We're already way too late for school and it's become quite clear by now that nobody's going to come lead us there, so how about you and I ditch that passion-draining penitentiary and go grab something to eat, eh?\" ▼",
+    "Replacement": "\n\"Say... We're already way too late for school and it's become quite clear by now that nobody's going to come lead us there, so how about you and I ditch that passion-draining penitentiary and go grab something to eat, eh?\" ▼"
+  },
+  {
+    "Original": "\"Yeah, sure. I've got nothing better to do today. You're paying, though.\"",
+    "Replacement": "\"Yeah, sure. I've got nothing better to do today. You're paying, though.\""
+  },
+  {
+    "Original": "\"Nah, sorry. To be honest I'm still kinda mad at you for how rude you were to me.\"",
+    "Replacement": "\"Nah, sorry. To be honest I'm still kinda mad at you for how rude you were to me.\""
+  },
+  {
+    "Original": "\n\"Oh, you sneaky bastard!\" ▼",
+    "Replacement": "\n\"Oh, you sneaky bastard!\" ▼"
+  },
+  {
+    "Original": "\n\"But alright. ▼\nI do owe you one anyway, so what better time to cash out your 'did a nice thing to a girl way out of my league' coupon than now, eh?\" ▼",
+    "Replacement": "\n\"But alright. ▼\nI do owe you one anyway, so what better time to cash out your 'did a nice thing to a girl way out of my league' coupon than now, eh?\" ▼"
+  },
+  {
+    "Original": "\n\"Alright, suit yourself.\nOffer still stands though, in case you change your mind at any point.\" ▼",
+    "Replacement": "\n\"Alright, suit yourself.\nOffer still stands though, in case you change your mind at any point.\" ▼"
+  },
+  {
+    "Original": "\n\"See you around, loverboy.\" ▼",
+    "Replacement": "\n\"See you around, loverboy.\" ▼"
+  }
+]

@@ -1,15 +1,7 @@
 [
   {
-    "Original": "+",
-    "Replacement": "+"
-  },
-  {
-    "Original": "100",
-    "Replacement": "100"
-  },
-  {
     "Original": "0-3: DOUBLE DOWN",
-    "Replacement": "0-3: DOUBLE DOWN"
+    "Replacement": "0-3: ВНИЗ И ВНИЗ"
   },
   {
     "Original": "-- TEST --",
@@ -20,20 +12,8 @@
     "Replacement": "ВРЕМЯ:"
   },
   {
-    "Original": "0:00.000",
-    "Replacement": "0:00.000"
-  },
-  {
-    "Original": "D",
-    "Replacement": "D"
-  },
-  {
     "Original": "KILLS:",
     "Replacement": "УБИЙСТВА:"
-  },
-  {
-    "Original": "0",
-    "Replacement": "0"
   },
   {
     "Original": "STYLE:",
@@ -44,16 +24,8 @@
     "Replacement": "+ БЕЗ РЕСТАРТОВ\n+ БЕЗ УРОНА\n"
   },
   {
-    "Original": "S",
-    "Replacement": "S"
-  },
-  {
     "Original": "SECRETS:",
     "Replacement": "СЕКРЕТЫ:"
-  },
-  {
-    "Original": "0 / 5",
-    "Replacement": "0 / 5"
   },
   {
     "Original": "CHALLENGE:",
@@ -66,18 +38,6 @@
   {
     "Original": "TOTAL:",
     "Replacement": "ВСЕГО:"
-  },
-  {
-    "Original": "+0<color=orange>P</color>",
-    "Replacement": "+0<color=orange>P</color>"
-  },
-  {
-    "Original": "",
-    "Replacement": ""
-  },
-  {
-    "Original": "x 1.00",
-    "Replacement": "x 1.00"
   },
   {
     "Original": "MULTIPLIER",
@@ -128,16 +88,8 @@
     "Replacement": "ЗДОРОВЬЕ"
   },
   {
-    "Original": "/100",
-    "Replacement": "/100"
-  },
-  {
     "Original": "STAMINA",
     "Replacement": "ВЫНОСЛИВОСТЬ"
-  },
-  {
-    "Original": "3.00",
-    "Replacement": "3.00"
   },
   {
     "Original": "WEAPON",
@@ -146,6 +98,10 @@
   {
     "Original": "ARM",
     "Replacement": "РУКА"
+  },
+  {
+    "Original": "RETURN TO MISSION",
+    "Replacement": "ВЕРНУТЬСЯ К ЗАДАНИЮ"
   },
   {
     "Original": "CHARGE",
@@ -200,28 +156,8 @@
     "Replacement": "Нажмите <color=orange>ESC</color> для пропуска"
   },
   {
-    "Original": "???",
-    "Replacement": "???"
-  },
-  {
-    "Original": "00:00.000",
-    "Replacement": "00:00.000"
-  },
-  {
-    "Original": "000",
-    "Replacement": "000"
-  },
-  {
-    "Original": "00000",
-    "Replacement": "00000"
-  },
-  {
-    "Original": "5/5",
-    "Replacement": "5/5"
-  },
-  {
     "Original": "DONE",
-    "Replacement": "Выполнено"
+    "Replacement": "ВЫПОЛНЕНО"
   },
   {
     "Original": "MAJOR ASSISTS:",
@@ -230,46 +166,6 @@
   {
     "Original": "YES",
     "Replacement": "ДА"
-  },
-  {
-    "Original": "1-1",
-    "Replacement": "1-1"
-  },
-  {
-    "Original": "1-2",
-    "Replacement": "1-2"
-  },
-  {
-    "Original": "1-3",
-    "Replacement": "1-3"
-  },
-  {
-    "Original": "1-4",
-    "Replacement": "1-4"
-  },
-  {
-    "Original": "2-1",
-    "Replacement": "2-1"
-  },
-  {
-    "Original": "2-2",
-    "Replacement": "2-2"
-  },
-  {
-    "Original": "2-3",
-    "Replacement": "2-3"
-  },
-  {
-    "Original": "2-4",
-    "Replacement": "2-4"
-  },
-  {
-    "Original": "3-1",
-    "Replacement": "3-1"
-  },
-  {
-    "Original": "3-2",
-    "Replacement": "3-2"
   },
   {
     "Original": "LIMBO",
@@ -281,15 +177,11 @@
   },
   {
     "Original": "GLUTTONY",
-    "Replacement": "ЧРЕВОУГОДИЕ"
+    "Replacement": "ОБЖОРСТВО"
   },
   {
     "Original": "SCANNING..",
     "Replacement": "СКАНИРУЮ.."
-  },
-  {
-    "Original": "<b>TEXT SCANNED - UNIQUE PASSAGE:\r</b>\n\n<i>“...My mind is adrift with the eternal torments. Lurid vistas painted in insidious tones, hollow walls that scream to the touch. A mocking song plays at all hours, even the sounds of birds are fake. All reminders of my enduring damnation.\r\n\nGabriel my dearest friend, in endless penance I have awaited your embrace into Heaven. I have been so faithful, accepting of my fate, but to what end?  What punishment is this, that I am to bare the keys to my own doom with no hope of salvation...These skulls sneer their devilish grins, voices chattering, tempting me to take the plunge deeper into Hell...I won’t do it.\r\n\nI’ve hidden them away amongst the furnishings, books, and the very foundations of this accursed place. Forgive me Gabriel, I will await your…”\r</i>\n\n<b>REMAINING TEXT: IRRELEVANT.</b>",
-    "Replacement": "<b>ТЕКСТ ПРОСКАНИРОВАН - УНИКАЛЬНЫЙ ФРАГМЕНТ:\r</b>\n\n<i>“…Мой разум дрейфует в бесконечных муках. Зловещие коридоры, окрашенные в коварные тона, полые стены, что кричат при касании. Издевательская песнь играет каждый час и даже звуки птиц фальшивы. Всё это - напоминания о моих вечных муках.\r\n\nГабриэль, друг мой, в бесконечном смирении я ожидал своего прощения и вознесения в Рай. Я хранил свою веру, смирившись с судьбой, но с какой целью? Какое это наказание, что я храню ключи от своего собственного обречения, не имея надежды на спасение…Эти черепа ухмыляются своими дьявольскими улыбками, голоса перешёптываются, заманивая меня погрузиться глубже в Ад…Но я не стану этого делать.\r\n\nЯ спрятал их среди мебели, книг, и в самом фундаменте этого места. Прости меня, Габриэль, я буду ожидать твоего…”\r</i>\n\n<b>ОСТАЛЬНОЙ ТЕКСТ: ИРРЕВЕЛАНТНЫЙ.</b>"
   },
   {
     "Original": "SECTION\n",
@@ -444,10 +336,6 @@
     "Replacement": "ВПЕРЕД"
   },
   {
-    "Original": "W",
-    "Replacement": "W"
-  },
-  {
     "Original": "LEFT",
     "Replacement": "ВЛЕВО"
   },
@@ -484,10 +372,6 @@
     "Replacement": "ПОСЛЕДНЕЕ \nОРУЖИЕ"
   },
   {
-    "Original": "Q",
-    "Replacement": "Q"
-  },
-  {
     "Original": "CHANGE\nVARIATION",
     "Replacement": "СМЕНИТЬ\nВИД"
   },
@@ -497,11 +381,7 @@
   },
   {
     "Original": "WHIPLASH",
-    "Replacement": "WHIPLASH"
-  },
-  {
-    "Original": "R",
-    "Replacement": "R"
+    "Replacement": "ХЛЫСТ"
   },
   {
     "Original": "-- WEAPONS --",
@@ -820,10 +700,6 @@
     "Replacement": "СКОРОСТЬ ИГРЫ"
   },
   {
-    "Original": "100%",
-    "Replacement": "100%"
-  },
-  {
     "Original": "DAMAGE TAKEN",
     "Replacement": "ПОЛУЧАЕМЫЙ УРОН"
   },
@@ -866,18 +742,6 @@
   {
     "Original": "-- HUD --",
     "Replacement": "-- ИНТЕРФЕЙС --"
-  },
-  {
-    "Original": "1.00",
-    "Replacement": "1.00"
-  },
-  {
-    "Original": "G",
-    "Replacement": "G"
-  },
-  {
-    "Original": "B",
-    "Replacement": "B"
   },
   {
     "Original": "HEALTH NUMBER",
@@ -1025,7 +889,7 @@
   },
   {
     "Original": "YES, <color=red>DELETE</color>",
-    "Replacement": "ДА, <color=red>DELETE</color>"
+    "Replacement": "ДА, <color=red>УДАЛИТЬ</color>"
   },
   {
     "Original": "New Text",
@@ -1036,120 +900,24 @@
     "Replacement": "--АРСЕНАЛ--"
   },
   {
-    "Original": "$0",
-    "Replacement": "$0"
-  },
-  {
     "Original": "--TIP OF THE DAY--",
     "Replacement": "--СОВЕТ ДНЯ--"
-  },
-  {
-    "Original": "<color=orange>Hitscan weapons</color> like the Revolver do <color=orange>loacational</color> damage.\n\nA <color=orange>headshot</color> deals <color=orange>2x</color> damage and a <color=orange>limbshot</color> deals <color=orange>1.5x</color> damage.",
-    "Replacement": "<color=orange>Выстрел в голову из револьвера</color> наносит <color=orange>2x</color> урон, а <color=orange>выстрел в конечность</color> наносит <color=orange>1.5x</color> урон."
   },
   {
     "Original": "--MENU--",
     "Replacement": "--МЕНЮ--"
   },
   {
-    "Original": "REVOLVER",
-    "Replacement": "РЕВОЛЬВЕР"
-  },
-  {
-    "Original": "SHOTGUN",
-    "Replacement": "ДРОБОВИК"
-  },
-  {
-    "Original": "NAILGUN",
-    "Replacement": "ГВОЗДОМЁТ"
-  },
-  {
-    "Original": "PIERCER",
-    "Replacement": "ПРОБОЙНИК"
-  },
-  {
     "Original": "READY",
     "Replacement": "ГОТОВО"
-  },
-  {
-    "Original": "MARKSMAN",
-    "Replacement": "МЕТКИЙ"
   },
   {
     "Original": "NOT IN DEMO",
     "Replacement": "НЕТ В ДЕМО"
   },
   {
-    "Original": "<color=orange>Hold</color> Alt Fire to charge a <color=orange>3-hit beam</color>.\n\nRequires <color=orange>cooldown</color>.",
-    "Replacement": "<color=orange>Зажмите</color> Альтернативный огонь, чтобы зарядить <color=orange> тройной луч</color>.\n\nТребует <color=orange>отката</color>."
-  },
-  {
     "Original": "ALREADY OWNED",
     "Replacement": "УЖЕ ИМЕЕТСЯ"
-  },
-  {
-    "Original": "Press Alt Fire to throw a <color=orange>coin</color>.\n\nHit an <color=orange>airborne</color> coin to <color=orange>deflect</color> your shot into the nearest enemy's <color=orange>weakpoint</color>.\n\nCoins can be <color=orange>chained</color>.",
-    "Replacement": "Нажмите Альт. Огонь, чтобы бросить<color=orange>монету</color>.\n\nПопадите по монете<color=orange>в воздухе</color>, чтобы ваш выстрел <color=orange>отразился</color> в <color=orange>слабое место</color> ближайшего врага.\n\nКаждая монета<color=orange>увеличивает</color> мощность выстрела."
-  },
-  {
-    "Original": "$5000",
-    "Replacement": "$5000"
-  },
-  {
-    "Original": "CORE EJECT",
-    "Replacement": "ВЫБРОС ЯДРА"
-  },
-  {
-    "Original": "PUMP CHARGE",
-    "Replacement": "НАКАЧАТЬ ЗАРЯД"
-  },
-  {
-    "Original": "Press Alt Fire to overheat and <color=orange>launch</color> the shotgun's <color=orange>cores</color>.\n\n<color=orange>Hold</color> to charge <color=orange>distance</color>.\n\n<color=orange>Explodes</color> on impact.",
-    "Replacement": "Нажмите Альт. Огонь, чтобы перегреть и <color=orange>запустить</color> <color=orange>ядра</color> дробовика.\n\n<color=orange>Зажмите</color>, чтобы зарядить и увеличить <color=orange>дистанцию</color>.\n\n<color=orange>Взрывается</color> по достижении цели."
-  },
-  {
-    "Original": "Press Alt Fire to <color=orange>pump</color> your shotgun, increasing the <color=orange>power</color> and decreasing the <color=orange>accuracy</color> of your <color=orange>next shot</color>.\n\nToo many pumps will cause an <color=orange>explosion</color> when fired.",
-    "Replacement": "Нажмите Альт. Огонь, чтобы <color=orange>зарядить</color> ваш дробовик, увеличивая <color=orange>мощность</color> и уменьшая <color=orange>точность</color> вашего <color=orange>следующего выстрела</color>.\n\nСлишком много зарядов вызовут <color=orange>взрыв</color>."
-  },
-  {
-    "Original": "125000P",
-    "Replacement": "125000P"
-  },
-  {
-    "Original": "ATTRACTOR",
-    "Replacement": "ATTRACTOR"
-  },
-  {
-    "Original": "Alt fire to shoot a <color=orange>magnet</color> that pulls all nearby <color=orange>nails</color> towards it.\n\nMagnets stick to <color=orange>surfaces</color> and <color=orange>enemies</color> and can be broken with <color=orange>hitscan</color> weapons.",
-    "Replacement": "Нажмите Альт. Огонь, чтобы выстрелить <color=orange>магнитом</color> притягивающим все ближайшие <color=orange>гвозди</color>.\n\nМагниты втыкаются в <color=orange>поверхности</color> и <color=orange>врагов</color>, а разрушаются <color=orange>хитскан</color> оружием."
-  },
-  {
-    "Original": "OVERHEAT",
-    "Replacement": "ПЕРЕГРЕВ"
-  },
-  {
-    "Original": "Alt fire while shooting to <color=orange>overheat</color> for a quick burst of high damage at the cost of a <color=orange>heatsink</color>.\n\nHeatsinks recharge while not firing.",
-    "Replacement": "Во время стрельбы нажмите Альт. Огонь, чтобы <color=orange>перегреть</color> оружие и выпустить мощную очередь, потратив <color=orange>термоклипсу</color>.\n\nТермоклипсы перезаряжаются при простое."
-  },
-  {
-    "Original": "ELECTRIC",
-    "Replacement": "ELECTRIC"
-  },
-  {
-    "Original": "A powerful instant piercing shot.\n\n<color=orange>Pierces</color> through <color=orange>all</color> enemies. Pay attention to your <color=orange>positioning</color> to maximize destruction.\n\nDon't use in water.",
-    "Replacement": "Мощный мгновенный пробивающий выстрел.\n\nПробивает <color=orange>всех</color> врагов. Займите правильную <color=orange>позицию</color>, дабы нанести максимум разрушений.\n\nНе использовать в воде."
-  },
-  {
-    "Original": "Fires a powerful drill that <color=orange>sticks</color> to an enemy and deals damage <color=orange>overtime</color>.\n\nThe drill causes enemies to bleed continously with <color=orange>extra healing range</color>.",
-    "Replacement": "Выстреливает мощным буром, который <color=orange>втыкается</color> во врагов и наносит огромный урон <color=orange>с течением времени</color>.\n\nБур заставляет врагов стабильно кровоточить с <color=orange>повышенным радиусом лечения</color>."
-  },
-  {
-    "Original": "MALICIOUS",
-    "Replacement": "MALICIOUS"
-  },
-  {
-    "Original": "Fires an instant beam that causes a <color=orange>large explosion</color> on impact, similar to a certain familiar face.\n\nWipes out groups of weak enemies with ease.",
-    "Replacement": "Выстреливает лучом, который создаёт <color=orange>огромный взрыв</color> в точке попадания, прямо как у одного знакомого лика.\n\nЛегко расправяется с группами слабых врагов."
   },
   {
     "Original": "<color=#44FF45>CHEATS</color> ENABLED :^)",
@@ -1185,19 +953,19 @@
   },
   {
     "Original": "CATEGORY",
-    "Replacement": "CATEGORY"
+    "Replacement": "КАТЕГОРИЯ"
   },
   {
     "Original": "SANDBOX SAVES",
-    "Replacement": "SANDBOX SAVES"
+    "Replacement": "СОХРАНЕНИЯ ПЕСОЧНИЦЫ"
   },
   {
     "Original": "OPEN DIRECTORY",
-    "Replacement": "OPEN DIRECTORY"
+    "Replacement": "ОТКРЫТЬ ПАПКУ"
   },
   {
     "Original": "SAVE NAME",
-    "Replacement": "SAVE NAME"
+    "Replacement": "НАЗВАНИЕ СОХРАНЕНИЯ"
   },
   {
     "Original": "Save",
@@ -1258,14 +1026,6 @@
   {
     "Original": "ERROR CODE",
     "Replacement": "КОД ОШИБКИ"
-  },
-  {
-    "Original": ":(",
-    "Replacement": ":("
-  },
-  {
-    "Original": ":)",
-    "Replacement": ":)"
   },
   {
     "Original": "Leave a Comment",
@@ -1405,7 +1165,7 @@
   },
   {
     "Original": "PRELUDE",
-    "Replacement": "PRELUDE"
+    "Replacement": "ПРЕЛЮДИЕ"
   },
   {
     "Original": "ACT I: INFINITE HYPERDEATH",
@@ -1452,10 +1212,6 @@
     "Replacement": "И С П Ы Т А Н И Е"
   },
   {
-    "Original": "-",
-    "Replacement": "-"
-  },
-  {
     "Original": "1-2: THE BURNING WORLD",
     "Replacement": "1-2: THE BURNING WORLD"
   },
@@ -1477,7 +1233,7 @@
   },
   {
     "Original": "0-5: CERBERUS",
-    "Replacement": "0-5: CERBERUS"
+    "Replacement": "0-5: ЦЕРБЕР"
   },
   {
     "Original": "DON'T KILL A SINGLE ENEMY",
@@ -1513,7 +1269,7 @@
   },
   {
     "Original": "-- STANDARD --",
-    "Replacement": "-- STANDARD --"
+    "Replacement": "-- СТАНДАРТ --"
   },
   {
     "Original": "P-1: SOUL SURVIVOR",
@@ -1597,7 +1353,7 @@
   },
   {
     "Original": "PARRY A PUNCH",
-    "Replacement": "PARRY A PUNCH"
+    "Replacement": "ПАРИРУЙ УДАР"
   },
   {
     "Original": "LAYER 6: HERESY",
@@ -1618,14 +1374,6 @@
   {
     "Original": "DROP GABRIEL IN A PIT",
     "Replacement": "DROP GABRIEL IN A PIT"
-  },
-  {
-    "Original": "1920 x 1080",
-    "Replacement": "1920 x 1080"
-  },
-  {
-    "Original": "120",
-    "Replacement": "120"
   },
   {
     "Original": "DEFAULT",
@@ -1697,7 +1445,7 @@
   },
   {
     "Original": "Enemy Navigation",
-    "Replacement": "Навигаия Врагов"
+    "Replacement": "Навигация Врагов"
   },
   {
     "Original": "REBUILD",
@@ -1720,10 +1468,6 @@
     "Replacement": "СТАТИЧЕСКИ"
   },
   {
-    "Original": "O",
-    "Replacement": "O"
-  },
-  {
     "Original": "Spawner Arm",
     "Replacement": "Рука-Спавнер"
   },
@@ -1744,20 +1488,12 @@
     "Replacement": "ПРЕДМЕТЫ"
   },
   {
-    "Original": "P",
-    "Replacement": "P"
-  },
-  {
     "Original": "Teleport Menu",
     "Replacement": "Меню Телепортации"
   },
   {
     "Original": "OPEN",
     "Replacement": "ОТКРЫТЬ"
-  },
-  {
-    "Original": "L",
-    "Replacement": "L"
   },
   {
     "Original": "Fullbright",
@@ -1776,10 +1512,6 @@
     "Replacement": "Noclip"
   },
   {
-    "Original": "V",
-    "Replacement": "V"
-  },
-  {
     "Original": "Flight",
     "Replacement": "Полёт"
   },
@@ -1788,16 +1520,8 @@
     "Replacement": "Бесконечные Прыжки От Стен"
   },
   {
-    "Original": "N",
-    "Replacement": "N"
-  },
-  {
     "Original": "No Weapon Cooldown",
     "Replacement": "Отключить Перезарядку"
-  },
-  {
-    "Original": "C",
-    "Replacement": "C"
   },
   {
     "Original": "Infinite Power-Ups",
@@ -1812,16 +1536,8 @@
     "Replacement": "Слепые враги"
   },
   {
-    "Original": "M",
-    "Replacement": "M"
-  },
-  {
     "Original": "Disable Enemy Spawns",
     "Replacement": "Отключить появление врагов"
-  },
-  {
-    "Original": "I",
-    "Replacement": "I"
   },
   {
     "Original": "Invincible Enemies",
