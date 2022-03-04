@@ -8,10 +8,6 @@
     "Replacement": "ВРАГОВ ОСТАЛОСЬ:"
   },
   {
-    "Original": "If blown too far off the arena, <color=lime>PUMP CHARGE</color>'s overcharge is a good way to get back.",
-    "Replacement": "Ели вас откинуло далеко от арены, взрыв <color=lime>ПОМПЫ</color> неплохой способ вернуться обратно."
-  },
-  {
     "Original": "THE CYBER GRIND",
     "Replacement": "КИБЕР ГРИНД"
   },
@@ -49,7 +45,7 @@
   },
   {
     "Original": "CYBER GRIND SETTINGS",
-    "Replacement": "НАСТРОЙКИ КИБЕР РГИНДА"
+    "Replacement": "НАСТРОЙКИ\nКИБЕР ГРИНДА"
   },
   {
     "Original": "This terminal is used for Cyber Grind customization",

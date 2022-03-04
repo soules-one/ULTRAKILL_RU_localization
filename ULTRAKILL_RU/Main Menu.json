@@ -917,7 +917,7 @@
   },
   {
     "Original": "--MENU--",
-    "Replacement": "--МЕНЮ--"
+    "Replacement": "-МЕНЮ-"
   },
   {
     "Original": "READY",
@@ -1644,83 +1644,83 @@
     "Replacement": "ЗАГРУЗКА..."
   },
   {
-    "Original": "<color=red>Return back to:</color>\n0-2: THE MEATGRINDER",
+    "Original": "<color=red>Returning to:</color>\n0-2: THE MEATGRINDER",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n0-2: МЯСОРУБКА"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n0-3: DOUBLE DOWN",
+    "Original": "<color=red>Returning to:</color>\n0-3: DOUBLE DOWN",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n0-3: ВНИЗ И ВНИЗ"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n0-4: A ONE-MACHINE ARMY",
+    "Original": "<color=red>Returning to:</color>\n0-4: A ONE-MACHINE ARMY",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n0-4: ОДИН В ПОЛЕ ВОИН"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n0-5: CERBERUS",
+    "Original": "<color=red>Returning to:</color>\n0-5: CERBERUS",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n0-5: ЦЕРБЕР"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n1-1: HEART OF THE SUNRISE",
+    "Original": "<color=red>Returning to:</color>\n1-1: HEART OF THE SUNRISE",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n1-1: СЕРДЦЕ РАССВЕТА"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n1-2: THE BURNING WORLD",
+    "Original": "<color=red>Returning to:</color>\n1-2: THE BURNING WORLD",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n1-2: ГОРЯЩИЙ МИР"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n1-3: HALLS OF SACRED REMAINS",
+    "Original": "<color=red>Returning to:</color>\n1-3: HALLS OF SACRED REMAINS",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n1-3: КОРРИДОРЫ СВЯТЫХ ДУШ"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n1-4: CLAIR DE LUNE",
+    "Original": "<color=red>Returning to:</color>\n1-4: CLAIR DE LUNE",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n1-4: ЛУННЫЙ СВЕТ"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n2-1: BRIDGEBURNER",
+    "Original": "<color=red>Returning to:</color>\n2-1: BRIDGEBURNER",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n2-1: МОСТОЖИГАТЕЛЬ"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n2-2: DEATH AT 20,000 VOLTS",
+    "Original": "<color=red>Returning to:</color>\n2-2: DEATH AT 20,000 VOLTS",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n2-2: СМЕРТЬ ОТ 20,000 ВОЛЬТ"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n2-3: SHEER HEART ATTACK",
+    "Original": "<color=red>Returning to:</color>\n2-3: SHEER HEART ATTACK",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n2-3: ЧИСТОСЕРДЕЧНЫЙ ПРИСТУП"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n2-4: COURT OF THE CORPSE KING",
+    "Original": "<color=red>Returning to:</color>\n2-4: COURT OF THE CORPSE KING",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n2-4: ДВОР МЁРТВОГО КОРОЛЯ"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n3-1: BELLY OF THE BEAST",
+    "Original": "<color=red>Returning to:</color>\n3-1: BELLY OF THE BEAST",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n3-1: ЖЕЛУДОК ЧУДИЩА"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n3-2: IN THE FLESH",
+    "Original": "<color=red>Returning to:</color>\n3-2: IN THE FLESH",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n3-2: ВО ПЛОТИ"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n4-1: SLAVES TO POWER",
+    "Original": "<color=red>Returning to:</color>\n4-1: SLAVES TO POWER",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n4-1: РАБЫ МОЩИ"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n4-2: GOD DAMN THE SUN",
+    "Original": "<color=red>Returning to:</color>\n4-2: GOD DAMN THE SUN",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n4-2: ЧЁРТОВО СОЛНЦЕ"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n4-3: A SHOT IN THE DARK",
+    "Original": "<color=red>Returning to:</color>\n4-3: A SHOT IN THE DARK",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n4-3: ВЫСТРЕЛ ВО ТЬМЕ"
   },
   {
-    "Original": "<color=red>Return back to:</color>\n4-4: CLAIR DE SOLEIL",
+    "Original": "<color=red>Returning to:</color>\n4-4: CLAIR DE SOLEIL",
     "Replacement": "<color=red>Вернуться к заданию:</color>\n4-4: СОЛНЕЧНЫЙ СВЕТ"
   },
   {
-    "Original": "<color=red>Return back to:</color>\nP-1: SOUL SURVIVOR",
+    "Original": "<color=red>Returning to:</color>\nP-1: SOUL SURVIVOR",
     "Replacement": "<color=red>Вернуться к заданию:</color>\nP-1: ВЫЖИВШАЯ ДУША"
   },
   {
-    "Original": "<color=red>Return back to:</color>\nMAIN MENU",
+    "Original": "<color=red>Returning to:</color>\nMAIN MENU",
     "Replacement": "<color=red>Вернуться в</color>\nГЛАВНОЕ МЕНЮ"
   }
 ]
