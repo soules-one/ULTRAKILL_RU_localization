@@ -16,6 +16,10 @@
     "Replacement": "РЕЛЬСОТРОН"
   },
   {
+    "Original": "RAILCANNON",
+    "Replacement": "РЕЛЬСОПУШКА"
+  },
+  {
     "Original": "ARMS",
     "Replacement": "РУКИ"
   },
@@ -77,7 +81,7 @@
   },
   {
     "Original": "SCREWDRIVER",
-    "Replacement": "БУР"
+    "Replacement": "ОТВЁРТКА"
   },
   {
     "Original": "Fires a powerful drill that <color=orange>sticks</color> to an enemy and deals damage <color=orange>overtime</color>.\n\nThe drill causes enemies to bleed continously with <color=orange>extra healing range</color>.",
@@ -93,7 +97,7 @@
   },
   {
     "Original": "FEEDBACKER",
-    "Replacement": "ОТРАЖАТЕЛЬ"
+    "Replacement": "ОТВЕТЧИК"
   },
   {
     "Original": "Fast punch with decent damage. \n\nCan <color=orange>parry</color> projectile attacks, including <color=orange>shotgun shots</color> and <color=orange>coins</color>.",
@@ -101,11 +105,15 @@
   },
   {
     "Original": "KNUCKLEBLASTER",
-    "Replacement": "КАСТЕТ"
+    "Replacement": "КАСТЕТ-ДРОБОВИК"
   },
   {
     "Original": "Slow punch with high damage and knockback.\n\n<color=orange>Hold Punch</color> to blast shells inside the knuckles, causing a <color=orange>shockwave</color> that knocks surrounding enemies away.",
     "Replacement": "Медленный удар с высоким уроном и взрывной волной.\n\n<color=orange>Зажмите удар</color> чтобы взорвать патроны в кулаке, выпуская <color=orange>взрвную волну</color>, которая отбрасывает ближайших врагов."
+  },
+  {
+    "Original": "UNDER CONSTRUCTION",
+    "Replacement": "В ПРОИЗВОДСТВЕ"
   },
   {
     "Original": "A winch with a spear.\n<color=orange>Hold</color> to throw, <color=orange>release</color> to pull.\n\nCan pull light enemies and items, will get pulled to heavy enemies and grapple points.",
