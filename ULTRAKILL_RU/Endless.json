@@ -16,24 +16,24 @@
     "Replacement": "КИБЕР ГРИНД"
   },
   {
-    "Original": "<color=red>The Cyber Grind</color> is an endless survival mode.\n\nGood performance gives many <color=red>points</color>.\n\n<color=red>Progress in the current mission will be lost.</color>",
-    "Replacement": "<color=red>The Cyber Grind</color> is an endless survival mode.\n\nGood performance gives many <color=red>points</color>.\n\n<color=red>Progress in the current mission will be lost.</color>"
-  },
-  {
     "Original": "ENTER THE CYBER GRIND",
     "Replacement": "ВОЙТИ В КИБЕР ГРИНД"
+  },
+  {
+    "Original": "EXIT THE CYBER GRIND",
+    "Replacement": "ПОКИНУТЬ КИБЕР ГРИНД"
   },
   {
     "Original": "BACK",
     "Replacement": "НАЗАД"
   },
   {
-    "Original": "The <color=#4C99E6>Sandbox</color> is an empty level that can be used for practicing.\n\n<color=red>Progress in the current mission will be lost.</color>",
-    "Replacement": "The <color=#4C99E6>Sandbox</color> is an empty level that can be used for practicing.\n\n<color=red>Progress in the current mission will be lost.</color>"
-  },
-  {
     "Original": "ENTER THE SANDBOX",
     "Replacement": "ВОЙТИ В ПЕСОЧНИЦУ"
+  },
+  {
+    "Original": "EXIT THE SANDBOX",
+    "Replacement": "ПОКИНУТЬ ПЕСОЧНИЦУ"
   },
   {
     "Original": "ENEMIES",
@@ -120,10 +120,6 @@
     "Replacement": "--СВОЯ--"
   },
   {
-    "Original": "",
-    "Replacement": ""
-  },
-  {
     "Original": "GRID",
     "Replacement": "СЕТКА"
   },
@@ -148,48 +144,24 @@
     "Replacement": "ПО УМОЛЧ."
   },
   {
-    "Original": "Glows",
-    "Replacement": "Glows"
-  },
-  {
-    "Original": "Skyboxes",
-    "Replacement": "Skyboxes"
-  },
-  {
-    "Original": "Starbuster",
-    "Replacement": "Starbuster"
-  },
-  {
-    "Original": "Vvizard",
-    "Replacement": "Vvizard"
-  },
-  {
-    "Original": "1/4",
-    "Replacement": "1/4"
-  },
-  {
     "Original": "BASE",
-    "Replacement": "BASE"
+    "Replacement": "ОСНОВА"
   },
   {
     "Original": "TOP",
-    "Replacement": "TOP"
+    "Replacement": "ВЕРХ"
   },
   {
     "Original": "TOP\nROW",
-    "Replacement": "TOP\nROW"
+    "Replacement": "ВЕРХН.\nРЯД"
   },
   {
     "Original": "GLOW INTENSITY",
-    "Replacement": "GLOW INTENSITY"
+    "Replacement": "ИНТЕНСИВНОСТЬ СВЕЧЕНИЯ"
   },
   {
     "Original": "ENABLE",
     "Replacement": "ENABLE"
-  },
-  {
-    "Original": "<color=red>The game will reload.</color>\n\nIf you're in a mission, your current progress will be lost.",
-    "Replacement": "<color=red>The game will reload.</color>\n\nIf you're in a mission, your current progress will be lost."
   },
   {
     "Original": "I UNDERSTAND",
@@ -205,11 +177,11 @@
   },
   {
     "Original": "NEW",
-    "Replacement": "НОВЫЙ"
+    "Replacement": "РЕЗУЛЬТАТ ЗАБЕГА"
   },
   {
     "Original": "BEST",
-    "Replacement": "ЛУЧШИЙ"
+    "Replacement": "РЕКОРД"
   },
   {
     "Original": "FRIEND HIGH SCORES",
