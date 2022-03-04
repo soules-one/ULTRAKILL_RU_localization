@@ -821,7 +821,7 @@
   },
   {
     "Original": "SCHISM",
-    "Replacement": "СХИЗМ"
+    "Replacement": "РАСКОЛ"
   },
   {
     "Original": "SWORDSMACHINE",
@@ -973,7 +973,7 @@
   },
   {
     "Original": "ELECTRIC",
-    "Replacement": "ЭЛЕКТРИЧЕСКИЙ"
+    "Replacement": "ЭЛЕКТРО"
   },
   {
     "Original": "A powerful instant piercing shot.\n\n<color=orange>Pierces</color> through <color=orange>all</color> enemies. Pay attention to your <color=orange>positioning</color> to maximize destruction.\n\nDon't use in water.",
@@ -1213,7 +1213,7 @@
   },
   {
     "Original": "High damage but slower attacks and passive enemies.\n\nTension is still high, but damage is easier to avoid.\n\n<color=yellow>Recommended for players who have trouble keeping up with Standard difficulty.</color>",
-    "Replacement": "Высокий урон, но замедленные атаки и вялые враги.\n\nВсё ещё напряжно, но урона легче избежать.\n\n<color=yellow>Рекомендуется для игроков, которые не справляются с нормальной сложностью.</color>"
+    "Replacement": "Высокий урон, но замедленные атаки и вялые враги.\n\nВсё ещё напряжно, но урона легко избежать.\n\n<color=yellow>Рекомендуется для игроков, которые не справляются с нормальной сложностью.</color>"
   },
   {
     "Original": "--STANDARD--",
@@ -1241,23 +1241,23 @@
   },
   {
     "Original": "ACT I: INFINITE HYPERDEATH",
-    "Replacement": "ACT I: INFINITE HYPERDEATH"
+    "Replacement": "АКТ I: БЕСКОНЕЧНАЯ ГИПЕРСМЕРТЬ"
   },
   {
     "Original": "ACT II: IMPERFECT HATRED",
-    "Replacement": "ACT II: IMPERFECT HATRED"
+    "Replacement": "АКТ II: НЕСОВЕРШЕННАЯ НЕНАВИСТЬ"
   },
   {
     "Original": "ACT III: ???",
-    "Replacement": "ACT III: ???"
+    "Replacement": "АКТ III: ???"
   },
   {
     "Original": "FINALE",
-    "Replacement": "FINALE"
+    "Replacement": "ФИНАЛ"
   },
   {
     "Original": "PRIME SANCTUMS",
-    "Replacement": "PRIME SANCTUMS"
+    "Replacement": "ВЫСШИЕ СВЯТИЛИЩА"
   },
   {
     "Original": "THE CYBER GRIND",
@@ -1277,7 +1277,7 @@
   },
   {
     "Original": "1-1: HEART OF THE SUNRISE",
-    "Replacement": "1-1: HEART OF THE SUNRISE"
+    "Replacement": "1-1: СЕРДЦЕ РАССВЕТА"
   },
   {
     "Original": "C H A L L E N G E",
@@ -1285,19 +1285,19 @@
   },
   {
     "Original": "1-2: THE BURNING WORLD",
-    "Replacement": "1-2: THE BURNING WORLD"
+    "Replacement": "1-2: ГОРЯЩИЙ МИР"
   },
   {
     "Original": "1-3: HALLS OF SACRED REMAINS",
-    "Replacement": "1-3: HALLS OF SACRED REMAINS"
+    "Replacement": "1-3: КОРРИДОРЫ СВЯТЫХ ДУШ"
   },
   {
     "Original": "BEAT THE SECRET ENCOUNTER",
-    "Replacement": "BEAT THE SECRET ENCOUNTER"
+    "Replacement": "ПОПЕДИ В СЕКРЕТНОЙ СХВАТКЕ"
   },
   {
     "Original": "1-4: CLAIR DE LUNE",
-    "Replacement": "1-4: CLAIR DE LUNE"
+    "Replacement": "1-4: ЛУННЫЙ СВЕТ"
   },
   {
     "Original": "SLIDE UNINTERRUPTED FOR 12 SECONDS",
@@ -1313,7 +1313,7 @@
   },
   {
     "Original": "OVERTURE: THE MOUTH OF HELL",
-    "Replacement": "OVERTURE: THE MOUTH OF HELL"
+    "Replacement": "УВЕРТЮРА: ВРАТА АДА"
   },
   {
     "Original": "GET 5 KILLS WITH A SINGLE GLASS PANEL",
@@ -1321,11 +1321,11 @@
   },
   {
     "Original": "0-2: THE MEATGRINDER",
-    "Replacement": "0-2: THE MEATGRINDER"
+    "Replacement": "0-2: МЯСОРУБКА"
   },
   {
     "Original": "0-4: A ONE-MACHINE ARMY",
-    "Replacement": "0-4: A ONE-MACHINE ARMY"
+    "Replacement": "0-4: ОДИН В ПОЛЕ ВОИН"
   },
   {
     "Original": "SLIDE UNINTERRUPTED FOR 17 SECONDS",
@@ -1345,7 +1345,7 @@
   },
   {
     "Original": "P-1: SOUL SURVIVOR",
-    "Replacement": "P-1: SOUL SURVIVOR"
+    "Replacement": "P-1: ВЫЖИВШАЯ ДУША"
   },
   {
     "Original": "P-2",
@@ -1361,15 +1361,15 @@
   },
   {
     "Original": "4-1: SLAVES TO POWER",
-    "Replacement": "4-1: SLAVES TO POWER"
+    "Replacement": "4-1: РАБЫ МОЩИ"
   },
   {
     "Original": "DON'T ACTIVATE ANY ENEMIES",
-    "Replacement": "DON'T ACTIVATE ANY ENEMIES"
+    "Replacement": "НЕ АКТИВИРУЙ ПРОТИВНИКОВ  "
   },
   {
     "Original": "4-2: GOD DAMN THE SUN",
-    "Replacement": "4-2: GOD DAMN THE SUN"
+    "Replacement": "4-2: ЧЁРТОВО СОЛНЦЕ"
   },
   {
     "Original": "KILL THE INSURRECTIONIST IN UNDER 10 SECONDS",
@@ -1377,7 +1377,7 @@
   },
   {
     "Original": "4-3: A SHOT IN THE DARK",
-    "Replacement": "4-3: A SHOT IN THE DARK"
+    "Replacement": "4-3: ВЫСТРЕЛ ВО ТЬМЕ"
   },
   {
     "Original": "DON'T PICK UP THE TORCH",
@@ -1385,11 +1385,11 @@
   },
   {
     "Original": "4-4: CLAIR DE SOLEIL",
-    "Replacement": "4-4: CLAIR DE SOLEIL"
+    "Replacement": "4-4: СОЛНЕЧНЫЙ СВЕТ"
   },
   {
     "Original": "REACH THE BOSS GATE IN UNDER 18 SECONDS",
-    "Replacement": "REACH THE BOSS GATE IN UNDER 18 SECONDS"
+    "Replacement": "ДОСТИГНИ ВРАТ БОССА ЗА 18 СЕКУНД"
   },
   {
     "Original": "LAYER 5: WRATH",
@@ -1397,23 +1397,23 @@
   },
   {
     "Original": "2-1: BRIDGEBURNER",
-    "Replacement": "2-1: BRIDGEBURNER"
+    "Replacement": "2-1: МОСТОЖИГАТЕЛЬ"
   },
   {
     "Original": "DON'T OPEN ANY NORMAL DOORS",
-    "Replacement": "DON'T OPEN ANY NORMAL DOORS"
+    "Replacement": "НЕ ОТКРЫВАЙ НОРМАЛЬНЫЕ ДВЕРИ"
   },
   {
     "Original": "2-2: DEATH AT 20,000 VOLTS",
-    "Replacement": "2-2: DEATH AT 20,000 VOLTS"
+    "Replacement": "2-2: СМЕРТЬ ОТ 20,000 ВОЛЬТ"
   },
   {
     "Original": "BEAT THE LEVEL IN UNDER 60 SECONDS",
-    "Replacement": "BEAT THE LEVEL IN UNDER 60 SECONDS"
+    "Replacement": "ПРОЙДИ УРОВЕНЬ ЗА 60 СЕКУНД"
   },
   {
     "Original": "2-3: SHEER HEART ATTACK",
-    "Replacement": "2-3: SHEER HEART ATTACK"
+    "Replacement": "2-3: ЧИСТОСЕРДЕЧНЫЙ ПРИСТУП"
   },
   {
     "Original": "DON'T TOUCH ANY WATER",
@@ -1421,7 +1421,7 @@
   },
   {
     "Original": "2-4: COURT OF THE CORPSE KING",
-    "Replacement": "2-4: COURT OF THE CORPSE KING"
+    "Replacement": "2-4: ДВОР МЁРТВОГО КОРОЛЯ"
   },
   {
     "Original": "PARRY A PUNCH",
@@ -1433,11 +1433,11 @@
   },
   {
     "Original": "3-1: BELLY OF THE BEAST",
-    "Replacement": "3-1: BELLY OF THE BEAST"
+    "Replacement": "3-1: ЖЕЛУДОК ЧУДИЩА"
   },
   {
     "Original": "KILL A MINDFLAYER WITH ACID",
-    "Replacement": "KILL A MINDFLAYER WITH ACID"
+    "Replacement": "УБЕЙ УМОСВЕЖЕВАТЕЛЯ КИСЛОТОЙ"
   },
   {
     "Original": "3-2: DIVINE INTERVENTION",
@@ -1445,11 +1445,11 @@
   },
   {
     "Original": "DROP GABRIEL IN A PIT",
-    "Replacement": "DROP GABRIEL IN A PIT"
+    "Replacement": "СБРОСЬ ГАВРИИЛА В ПРОПАСТЬ"
   },
   {
     "Original": "DEFAULT",
-    "Replacement": "DEFAULT"
+    "Replacement": "СТАНДАРТ"
   },
   {
     "Original": "COMPLETE THE LEVEL IN UNDER 10 SECONDS",
