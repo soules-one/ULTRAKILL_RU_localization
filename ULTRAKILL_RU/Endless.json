@@ -1,0 +1,230 @@
+[
+  {
+    "Original": "WAVE:",
+    "Replacement": "ВОЛНА:"
+  },
+  {
+    "Original": "ENEMIES LEFT:",
+    "Replacement": "ВРАГОВ ОСТАЛОСЬ:"
+  },
+  {
+    "Original": "If blown too far off the arena, <color=lime>PUMP CHARGE</color>'s overcharge is a good way to get back.",
+    "Replacement": "Ели вас откинуло далеко от арены, взрыв <color=lime>ПОМПЫ</color> неплохой способ вернуться обратно."
+  },
+  {
+    "Original": "THE CYBER GRIND",
+    "Replacement": "КИБЕР ГРИНД"
+  },
+  {
+    "Original": "<color=red>The Cyber Grind</color> is an endless survival mode.\n\nGood performance gives many <color=red>points</color>.\n\n<color=red>Progress in the current mission will be lost.</color>",
+    "Replacement": "<color=red>The Cyber Grind</color> is an endless survival mode.\n\nGood performance gives many <color=red>points</color>.\n\n<color=red>Progress in the current mission will be lost.</color>"
+  },
+  {
+    "Original": "ENTER THE CYBER GRIND",
+    "Replacement": "ВОЙТИ В КИБЕР ГРИНД"
+  },
+  {
+    "Original": "BACK",
+    "Replacement": "НАЗАД"
+  },
+  {
+    "Original": "The <color=#4C99E6>Sandbox</color> is an empty level that can be used for practicing.\n\n<color=red>Progress in the current mission will be lost.</color>",
+    "Replacement": "The <color=#4C99E6>Sandbox</color> is an empty level that can be used for practicing.\n\n<color=red>Progress in the current mission will be lost.</color>"
+  },
+  {
+    "Original": "ENTER THE SANDBOX",
+    "Replacement": "ВОЙТИ В ПЕСОЧНИЦУ"
+  },
+  {
+    "Original": "ENEMIES",
+    "Replacement": "ВРАГИ"
+  },
+  {
+    "Original": "SANDBOX",
+    "Replacement": "ПЕСОЧНИЦА"
+  },
+  {
+    "Original": "RETURN TO MISSION",
+    "Replacement": "ВЕРНУТЬСЯ К ЗАДАНИЮ"
+  },
+  {
+    "Original": "CYBER GRIND SETTINGS",
+    "Replacement": "НАСТРОЙКИ КИБЕР РГИНДА"
+  },
+  {
+    "Original": "This terminal is used for Cyber Grind customization",
+    "Replacement": "Этот терминал используется для кастомизации Кибер Гринда"
+  },
+  {
+    "Original": "--THEMES--",
+    "Replacement": "--ТЕМЫ--"
+  },
+  {
+    "Original": "Select the visual theme for the arena",
+    "Replacement": "Выберите визуальную тему арены"
+  },
+  {
+    "Original": "LIGHT",
+    "Replacement": "СВЕТЛАЯ"
+  },
+  {
+    "Original": "DARK",
+    "Replacement": "ТЁМНАЯ"
+  },
+  {
+    "Original": "CUSTOM",
+    "Replacement": "СВОЯ"
+  },
+  {
+    "Original": "New Text",
+    "Replacement": "Новый Текст"
+  },
+  {
+    "Original": "REFRESH",
+    "Replacement": "ОБНОВИТЬ"
+  },
+  {
+    "Original": "EDITOR",
+    "Replacement": "РЕДАКТОР"
+  },
+  {
+    "Original": "--PATTERNS--",
+    "Replacement": "--ПАТТЕРНЫ--"
+  },
+  {
+    "Original": "DISABLED",
+    "Replacement": "ОТКЛЮЧЕНО"
+  },
+  {
+    "Original": "--WAVES--",
+    "Replacement": "--ВОЛНЫ--"
+  },
+  {
+    "Original": "SELECT STARTING WAVE:\n\n<size=16>(Highest reached wave must be at least twice as high)</size>",
+    "Replacement": "ВЫБЕРИТЕ НАЧАЛЬНУЮ ВОЛНУ:\n\n<size=16>(Максимальная волна должна быть в два раза больше)</size>"
+  },
+  {
+    "Original": "THEMES",
+    "Replacement": "ТЕМЫ"
+  },
+  {
+    "Original": "PATTERNS",
+    "Replacement": "ПАТТЕРНЫ"
+  },
+  {
+    "Original": "WAVES",
+    "Replacement": "ВОЛНЫ"
+  },
+  {
+    "Original": "--CUSTOM--",
+    "Replacement": "--СВОЯ--"
+  },
+  {
+    "Original": "",
+    "Replacement": ""
+  },
+  {
+    "Original": "GRID",
+    "Replacement": "СЕТКА"
+  },
+  {
+    "Original": "GRID GLOW",
+    "Replacement": "СВЕЧЕНИЕ СЕТКИ"
+  },
+  {
+    "Original": "GRID SIDES",
+    "Replacement": "СТОРОНЫ СЕТКИ"
+  },
+  {
+    "Original": "SKYBOX",
+    "Replacement": "СКАЙБОКС"
+  },
+  {
+    "Original": "folder title",
+    "Replacement": "название папки"
+  },
+  {
+    "Original": "DEFAULT",
+    "Replacement": "ПО УМОЛЧ."
+  },
+  {
+    "Original": "Glows",
+    "Replacement": "Glows"
+  },
+  {
+    "Original": "Skyboxes",
+    "Replacement": "Skyboxes"
+  },
+  {
+    "Original": "Starbuster",
+    "Replacement": "Starbuster"
+  },
+  {
+    "Original": "Vvizard",
+    "Replacement": "Vvizard"
+  },
+  {
+    "Original": "1/4",
+    "Replacement": "1/4"
+  },
+  {
+    "Original": "BASE",
+    "Replacement": "BASE"
+  },
+  {
+    "Original": "TOP",
+    "Replacement": "TOP"
+  },
+  {
+    "Original": "TOP\nROW",
+    "Replacement": "TOP\nROW"
+  },
+  {
+    "Original": "GLOW INTENSITY",
+    "Replacement": "GLOW INTENSITY"
+  },
+  {
+    "Original": "ENABLE",
+    "Replacement": "ENABLE"
+  },
+  {
+    "Original": "<color=red>The game will reload.</color>\n\nIf you're in a mission, your current progress will be lost.",
+    "Replacement": "<color=red>The game will reload.</color>\n\nIf you're in a mission, your current progress will be lost."
+  },
+  {
+    "Original": "I UNDERSTAND",
+    "Replacement": "Я ПОНИМАЮ"
+  },
+  {
+    "Original": "CANCEL",
+    "Replacement": "ОТМЕНА"
+  },
+  {
+    "Original": "TOTAL:",
+    "Replacement": "ВСЕГО:"
+  },
+  {
+    "Original": "NEW",
+    "Replacement": "НОВЫЙ"
+  },
+  {
+    "Original": "BEST",
+    "Replacement": "ЛУЧШИЙ"
+  },
+  {
+    "Original": "FRIEND HIGH SCORES",
+    "Replacement": "РЕКОРД ДРУЗЕЙ"
+  },
+  {
+    "Original": "CONNECTING TO STEAMWORKS",
+    "Replacement": "ПОДКЛЮЧАЕМСЯ К STEAMWORKS"
+  },
+  {
+    "Original": "USERNAME",
+    "Replacement": "ИМЯ ПОЛЬЗОВАТЕЛЯ"
+  },
+  {
+    "Original": "GLOBAL HIGH SCORES",
+    "Replacement": "ГЛОБАЛЬНЫЕ РЕКОРДЫ"
+  }
+]
