@@ -113,7 +113,7 @@
   },
   {
     "Original": "<color=red>ERROR: BLOCKING DOOR WOULD CLOSE</color>",
-    "Replacement": "<color=red>ОШТБКА: ДАННОЕ ДЕЙСТВИЕ ЗАКРОЕТ ДВЕРЬ</color>"
+    "Replacement": "<color=red>ОШИБКА: ДАННОЕ ДЕЙСТВИЕ ЗАКРОЕТ ДВЕРЬ</color>"
   },
   {
     "Original": "The water has been drained",
@@ -141,11 +141,11 @@
   },
   {
     "Original": "<color=lime>WHIPLASH</color>: Hold <color=orange>R</color> to throw, release to pull",
-    "Replacement": "<color=lime>ХЛЫСТ</color>: Hold <color=orange>R</color> to throw, release to pull"
+    "Replacement": "<color=lime>ХЛЫСТ</color>: Зажмите <color=orange>R</color> чтобы выкинуть, отпустите, чтобы притянуть"
   },
   {
     "Original": "<color=lime>WHIPLASH</color>: Pull <color=orange>light</color> enemies to you, pull yourself to <color=orange>heavy</color> enemies.",
-    "Replacement": "<color=lime>ХЛЫСТ</color>: Pull <color=orange>light</color> enemies to you, pull yourself to <color=orange>heavy</color> enemies."
+    "Replacement": "<color=lime>ХЛЫСТ</color>: Притягивает <color=orange>лёгких</color> врагов к вам, притягивает вас к <color=orange>тяжёлым</color> врагам."
   },
   {
     "Original": "Something wicked this way comes.",
