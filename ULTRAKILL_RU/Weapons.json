@@ -37,15 +37,15 @@
   },
   {
     "Original": "Press Alt Fire to throw a <color=orange>coin</color>.\n\nHit an <color=orange>airborne</color> coin to <color=orange>deflect</color> your shot into the nearest enemy's <color=orange>weakpoint</color>.\n\nCoins can be <color=orange>chained</color>. ",
-    "Replacement": "Нажмите Альт. Огонь, чтобы бросить <color=orange>монету</color>.\n\nПопадите по монете<color=orange>в воздухе</color>, чтобы ваш выстрел <color=orange>отразился</color> в <color=orange>слабое место</color> ближайшего врага.\n\nКаждая монета<color=orange>увеличивает</color> мощность выстрела."
+    "Replacement": "Нажмите Альтернативный огонь, чтобы бросить <color=orange>монету</color>.\n\nПопадите по монете<color=orange>в воздухе</color>, чтобы ваш выстрел <color=orange>отразился</color> в <color=orange>слабое место</color> ближайшего врага.\n\nКаждая монета<color=orange>увеличивает</color> мощность выстрела."
   },
   {
     "Original": "CORE EJECT",
-    "Replacement": "ЯДРО"
+    "Replacement": "ЯДРОМЁТ"
   },
   {
     "Original": "Press Alt Fire to overheat and <color=orange>launch</color> the shotgun's <color=orange>cores</color>.\n\n<color=orange>Hold</color> to charge <color=orange>distance</color>.\n\n<color=orange>Explodes</color> on impact.",
-    "Replacement": "Нажмите Альт. Огонь, чтобы перегреть и <color=orange>запустить</color> <color=orange>ядра</color> дробовика.\n\n<color=orange>Зажмите</color>, чтобы зарядить и увеличить <color=orange>дистанцию</color>.\n\n<color=orange>Взрывается</color> по достижении цели."
+    "Replacement": "Нажмите Альтернативный огонь, чтобы перегреть и <color=orange>запустить</color> <color=orange>ядра</color> дробовика.\n\n<color=orange>Зажмите</color>, чтобы зарядить и увеличить <color=orange>дистанцию</color>.\n\n<color=orange>Взрывается</color> по достижении цели."
   },
   {
     "Original": "PUMP CHARGE",
@@ -53,7 +53,7 @@
   },
   {
     "Original": "Press Alt Fire to <color=orange>pump</color> your shotgun, increasing the <color=orange>power</color> and decreasing the <color=orange>accuracy</color> of your <color=orange>next shot</color>.\n\nToo many pumps will cause an <color=orange>explosion</color> when fired.",
-    "Replacement": "Нажмите Альт. Огонь, чтобы <color=orange>зарядить</color> ваш дробовик, увеличивая <color=orange>мощность</color> и уменьшая <color=orange>точность</color> вашего <color=orange>следующего выстрела</color>.\n\nСлишком много зарядов вызовут <color=orange>взрыв</color>."
+    "Replacement": "Нажмите Альтернативный огонь, чтобы <color=orange>зарядить</color> ваш дробовик, увеличивая <color=orange>мощность</color> и уменьшая <color=orange>точность</color> вашего <color=orange>следующего выстрела</color>.\n\nСлишком много зарядов вызовут <color=orange>взрыв</color>."
   },
   {
     "Original": "ATTRACTOR",
@@ -61,15 +61,15 @@
   },
   {
     "Original": "Alt fire to shoot a <color=orange>magnet</color> that pulls all nearby <color=orange>nails</color> towards it. \n\nMagnets stick to <color=orange>surfaces</color> and <color=orange>enemies</color> and can be broken with <color=orange>hitscan</color> weapons.",
-    "Replacement": "Нажмите Альт. Огонь, чтобы выстрелить <color=orange>магнитом</color> притягивающим все ближайшие <color=orange>гвозди</color>.\n\nМагниты втыкаются в <color=orange>поверхности</color> и <color=orange>врагов</color>, а разрушаются <color=orange>хитскан</color> оружием."
+    "Replacement": "Нажмите Альтернативный огонь, чтобы выстрелить <color=orange>магнитом</color>, притягивающим все ближайшие <color=orange>гвозди</color>.\n\nМагниты впиваются в <color=orange>поверхности</color> и <color=orange>врагов</color>, а разрушаются <color=orange>хитскан-оружием</color>."
   },
   {
     "Original": "OVERHEAT",
-    "Replacement": "ПЕРЕГРЕВ"
+    "Replacement": "ПЕРЕГРЕВАТЕЛЬ"
   },
   {
     "Original": "Alt fire while shooting to <color=orange>overheat</color> for a quick burst of high damage at the cost of a <color=orange>heatsink</color>.\n\nHeatsinks recharge while not firing.",
-    "Replacement": "Во время стрельбы нажмите Альт. Огонь, чтобы <color=orange>перегреть</color> оружие и выпустить мощную очередь, потратив <color=orange>термоклипсу</color>.\n\nТермоклипсы пассивно перезаряжаются."
+    "Replacement": "Во время стрельбы нажмите Альтернативный огонь, чтобы <color=orange>перегреть</color> оружие и выпустить мощную очередь, потратив <color=orange>термоклипсу</color>.\n\nТермоклипсы пассивно перезаряжаются."
   },
   {
     "Original": "ELECTRIC",
@@ -77,7 +77,7 @@
   },
   {
     "Original": "A powerful instant piercing shot.\n\n<color=orange>Pierces</color> through <color=orange>all</color> enemies. Pay attention to your <color=orange>positioning</color> to maximize destruction.\n\nDon't use in water.",
-    "Replacement": "Мощный мгновенный пробивающий выстрел.\n\nПробивает <color=orange>всех</color> врагов. Займите правильную <color=orange>позицию</color>, дабы нанести максимум разрушений.\n\nНе использовать в воде."
+    "Replacement": "Мощный, мгновенный пробивающий насквозь выстрел.\n\nПробивает <color=orange>всех</color> врагов. Займите правильную <color=orange>позицию</color>, чтобы нанести максимум разрушений.\n\nНе использовать в воде."
   },
   {
     "Original": "SCREWDRIVER",
@@ -85,7 +85,7 @@
   },
   {
     "Original": "Fires a powerful drill that <color=orange>sticks</color> to an enemy and deals damage <color=orange>overtime</color>.\n\nThe drill causes enemies to bleed continously with <color=orange>extra healing range</color>.",
-    "Replacement": "Выстреливает мощным буром, который <color=orange>втыкается</color> во врагов и наносит огромный урон <color=orange>с течением времени</color>.\n\nБур заставляет врагов стабильно кровоточить с <color=orange>повышенным радиусом лечения</color>."
+    "Replacement": "Выстреливает мощным буром, который <color=orange>впивается</color> во врагов и наносит огромный урон <color=orange>с течением времени</color>.\n\nБур заставляет врагов стабильно кровоточить с <color=orange>повышенным радиусом лечения</color>."
   },
   {
     "Original": "MALICIOUS",
@@ -101,7 +101,7 @@
   },
   {
     "Original": "Fast punch with decent damage. \n\nCan <color=orange>parry</color> projectile attacks, including <color=orange>shotgun shots</color> and <color=orange>coins</color>.",
-    "Replacement": "Быстрый удар с неплохим уроном.\n\nМожет <color=orange>отражать</color> снаряды и атаки, в том числе <color=orange>выстрелы из дробовика</color> и <color=orange>монетки</color>."
+    "Replacement": "Быстрый удар с неплохим уроном.\n\nМожет <color=orange>отражать</color> снаряды и атаки, в том числе <color=orange>выстрелы из дробовика</color> и <color=orange>монеты</color>."
   },
   {
     "Original": "KNUCKLEBLASTER",
@@ -109,14 +109,14 @@
   },
   {
     "Original": "Slow punch with high damage and knockback.\n\n<color=orange>Hold Punch</color> to blast shells inside the knuckles, causing a <color=orange>shockwave</color> that knocks surrounding enemies away.",
-    "Replacement": "Медленный удар с высоким уроном и взрывной волной.\n\n<color=orange>Зажмите удар</color> чтобы взорвать патроны в кулаке, выпуская <color=orange>взрвную волну</color>, которая отбрасывает ближайших врагов."
+    "Replacement": "Медленный удар с высоким уроном и взрывной волной.\n\n<color=orange>Зажмите Удар</color>, чтобы взорвать патроны в кулаке, выпуская <color=orange>взрывную волну</color>, которая отбрасывает ближайших врагов."
   },
   {
     "Original": "UNDER CONSTRUCTION",
-    "Replacement": "В ПРОИЗВОДСТВЕ"
+    "Replacement": "В РАЗРАБОТКЕ"
   },
   {
     "Original": "A winch with a spear.\n<color=orange>Hold</color> to throw, <color=orange>release</color> to pull.\n\nCan pull light enemies and items, will get pulled to heavy enemies and grapple points.",
-    "Replacement": "Крюк-кошка с острым наконечником. <color=orange>Удерживайте</color> чтобы бросить, <color=orange>отпустите</color> чтобы притянуть.\n\nМожет притягивать лёгких врагов и предметы, будет притягиваться к тяжёлым врагам и точкам притяжения."
+    "Replacement": "Крюк-кошка с острым наконечником. <color=orange>Удерживайте</color>, чтобы выстрелить, <color=orange>отпустите</color>, чтобы притянуть.\n\nМожет притягивать лёгких врагов и предметы, будет притягиваться к тяжёлым врагам и точкам притяжения."
   }
 ]
