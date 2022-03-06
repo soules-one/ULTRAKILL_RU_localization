@@ -74,5 +74,9 @@
   {
     "Original": "<color=orange>Parries</color> can be used as a powerful healing tool.\n\nParrying any enemy projectile or melee attack will <color=red>fully replenish your health</color> up to the hard damage limit.",
     "Replacement": "<color=orange>Parries</color> can be used as a powerful healing tool.\n\nParrying any enemy projectile or melee attack will <color=red>fully replenish your health</color> up to the hard damage limit."
+  },
+  {
+    "Original": "If blown too far off the arena, <color=lime>PUMP CHARGE</color>'s overcharge is a good way to get back.",
+    "Replacement": "Если вас откинуло далеко от арены, взрыв <color=lime>ПОМПЫ</color> неплохой способ вернуться обратно."
   }
 ]
