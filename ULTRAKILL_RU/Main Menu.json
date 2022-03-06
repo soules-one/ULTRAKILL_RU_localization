@@ -24,8 +24,40 @@
     "Replacement": "СТИЛЬ:"
   },
   {
-    "Original": "+ NO RESTARTS\n+ NO DAMAGE\n",
-    "Replacement": "+ БЕЗ РЕСТАРТОВ\n+ БЕЗ УРОНА\n"
+    "Original": "+ NO RESTARTS\n  (+500<color=orange>P</color>)\n",
+    "Replacement": "+ БЕЗ РЕСТАРТОВ\n  (+500<color=orange>P</color>)\n"
+  },
+  {
+    "Original": "+ NO RESTARTS\n",
+    "Replacement": "+ БЕЗ РЕСТАРТОВ\n"
+  },
+  {
+    "Original": "+ NO RESTARTS\n  (+500<color=orange>P</color>)\n+ <color=orange>NO DAMAGE\n  (</color>+5,000<color=orange>P)</color>\n",
+    "Replacement": "+ БЕЗ РЕСТАРТОВ\n  (+500<color=orange>P</color>)\n+ <color=orange>БЕЗ УРОНА\n  (</color>+5,000<color=orange>P)</color>\n"
+  },
+  {
+    "Original": "+ NO RESTARTS\n+ <color=orange>NO DAMAGE",
+    "Replacement": "+ БЕЗ РЕСТАРТОВ\n+ <color=orange>БЕЗ УРОНА\n"
+  },
+  {
+    "Original": "- <color=#44FF45>CHEATS USED</color>\n+ NO RESTARTS\n  (+500<color=orange>P</color>)\n+ <color=orange>NO DAMAGE\n  (</color>+5,000<color=orange>P)</color>\n",
+    "Replacement": "- <color=#44FF45>ИСПОЛЬЗОВАНЫ ЧИТЫ</color>\n+ БЕЗ РЕСТАРТОВ\n  (+500<color=orange>P</color>)\n+ <color=orange>БЕЗ УРОНА\n  (</color>+5,000<color=orange>P)</color>\n"
+  },
+  {
+    "Original": "- <color=#44FF45>CHEATS USED</color>\n+ NO RESTARTS\n+ <color=orange>NO DAMAGE</color>\n",
+    "Replacement": "- <color=#44FF45>ИСПОЛЬЗОВАНЫ ЧИТЫ</color>\n+ БЕЗ РЕСТАРТОВ\n+ <color=orange>БЕЗ УРОНА\n"
+  },
+  {
+    "Original": "- <color=#44FF45>CHEATS USED</color>\n+ NO RESTARTS\n  (+500<color=orange>P</color>)\n",
+    "Replacement": "- <color=#44FF45>ИСПОЛЬЗОВАНЫ ЧИТЫ</color>\n+ БЕЗ РЕСТАРТОВ\n  (+500<color=orange>P</color>)\n"
+  },
+  {
+    "Original": "- <color=#44FF45>CHEATS USED</color>\n+ NO RESTARTS\n",
+    "Replacement": "- <color=#44FF45>ИСПОЛЬЗОВАНЫ ЧИТЫ</color>\n+ БЕЗ РЕСТАРТОВ\n"
+  },
+  {
+    "Original": "- <color=red>1</color> RESTARTS\n",
+    "Replacement": "- <color=red>1</color> РЕСТАРТ\n"
   },
   {
     "Original": "SECRETS:",
@@ -42,6 +74,10 @@
   {
     "Original": "TOTAL:",
     "Replacement": "ВСЕГО:"
+  },
+  {
+    "Original": "CRATES:",
+    "Replacement": "ЯЩИКИ:"
   },
   {
     "Original": "MULTIPLIER",
@@ -1286,6 +1322,10 @@
   {
     "Original": "C H A L L E N G E",
     "Replacement": "И С П Ы Т А Н И Е"
+  },
+  {
+    "Original": "C O M P L E T E",
+    "Replacement": "В Ы П О Л Н Е Н О"             
   },
   {
     "Original": "1-2: THE BURNING WORLD",
