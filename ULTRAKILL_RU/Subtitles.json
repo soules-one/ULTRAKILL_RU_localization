@@ -8,8 +8,12 @@
     "Replacement": "Нажмите '<color=orange>F</color>' чтобы <color=orange>УДАРИТЬ</color>."
   },
   {
-    "Original": "Hold '<color=orange>CTRL</color>' to <color=orange>SLIDE</color>.",
-    "Replacement": "Зажмите '<color=orange>Левый CTRL</color>' чтобы <color=orange>СКОЛЬЗИТЬ</color>."
+    "Original": "Hold '<color=orange>Ctrl</color>' to <color=orange>SLIDE</color>.",
+    "Replacement": "Зажмите '<color=orange>Левый Ctrl</color>' чтобы <color=orange>СКОЛЬЗИТЬ</color>."
+  },
+  {
+    "Original": "Hold '<color=orange>LeftControl</color>' to <color=orange>SLIDE</color>.",
+    "Replacement": "Зажмите '<color=orange>Левый Ctrl</color>' чтобы <color=orange>СКОЛЬЗИТЬ</color>."
   },
   {
     "Original": "Press '<color=#00DFFF>LeftShift</color>' to <color=#00DFFF>DASH</color>. (Consumes <color=#00DFFF>STAMINA</color>)\nCan be performed in air.",
@@ -24,8 +28,8 @@
     "Replacement": "<color=orange>ПРЫГНИТЕ</color> на <color=orange>СТЕНУ</color> чтобы выполнить <color=orange>ПРЫЖОК ОТ СТЕНЫ</color>. (Макс. 3 раза)"
   },
   {
-    "Original": "Press '<color=orange>CTRL</color>' in the air to <color=orange>GROUND SLAM</color>.\nHold for <color=orange>SHOCKWAVE</color>. (Consumes <color=#00DFFF>STAMINA</color>)",
-    "Replacement": "Нажмите '<color=orange>LeftControl</color>' в воздухе чтобы выполнить <color=orange>РЫВОК ВНИЗ</color>.\nЗажмите для <color=orange>УДАРНОЙ ВОЛНЫ</color>. (Тратит <color=#00DFFF>ВЫНОСЛИВОСТЬ</color>)"
+    "Original": "Press '<color=orange>LeftControl</color>' in the air to <color=orange>GROUND SLAM</color>.\nHold for <color=orange>SHOCKWAVE</color>. (Consumes <color=#00DFFF>STAMINA</color>)",
+    "Replacement": "Нажмите '<color=orangeЛевый Ctrl</color>' в воздухе чтобы выполнить <color=orange>РЫВОК ВНИЗ</color>.\nЗажмите для <color=orange>УДАРНОЙ ВОЛНЫ</color>. (Тратит <color=#00DFFF>ВЫНОСЛИВОСТЬ</color>)"
   },
   {
     "Original": "Most levels have secret <color=cyan>SOUL ORBS</color>.\nTouch them to get a <color=orange>POINT BONUS</color>.",
@@ -41,7 +45,7 @@
   },
   {
     "Original": "<color=orange>GROUND SLAM</color> (<color=orange>LeftControl</color>) deals damage on direct hit.",
-    "Replacement": "<color=orange>РЫВОК ВНИЗ</color> (<color=orange>Левый CTRL</color>) наносит урон при падении на врага."
+    "Replacement": "<color=orange>РЫВОК ВНИЗ</color> (<color=orange>Левый Ctrl</color>) наносит урон при падении на врага."
   },
   {
     "Original": "<color=red>INSUFFICIENT FIREPOWER</color>",
