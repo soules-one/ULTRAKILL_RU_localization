@@ -176,6 +176,10 @@
     "Replacement": "Что-то страшное грядёт."
   },
   {
+    "Original": "Just kidding :)",
+    "Replacement": "Шутка :)"
+  },
+  {
     "Original": "HOLD [<color=orange>Space</color>] TO BOUNCE HIGHER",
     "Replacement": "ЗАЖМИТЕ [<color=orange>Пробел</color>] ЧТОБЫ СИЛЬНЕЕ ОТСКАКИВАТЬ"
   },
