@@ -1,0 +1,198 @@
+[
+  {
+    "Original": "WAVE:",
+    "Replacement": "ВОЛНА:"
+  },
+  {
+    "Original": "ENEMIES LEFT:",
+    "Replacement": "ВРАГОВ ОСТАЛОСЬ:"
+  },
+  {
+    "Original": "THE CYBER GRIND",
+    "Replacement": "КИБЕР ГРИНД"
+  },
+  {
+    "Original": "ENTER THE CYBER GRIND",
+    "Replacement": "ВОЙТИ В КИБЕР ГРИНД"
+  },
+  {
+    "Original": "EXIT THE CYBER GRIND",
+    "Replacement": "ПОКИНУТЬ КИБЕР ГРИНД"
+  },
+  {
+    "Original": "BACK",
+    "Replacement": "НАЗАД"
+  },
+  {
+    "Original": "ENTER THE SANDBOX",
+    "Replacement": "ВОЙТИ В ПЕСОЧНИЦУ"
+  },
+  {
+    "Original": "EXIT THE SANDBOX",
+    "Replacement": "ПОКИНУТЬ ПЕСОЧНИЦУ"
+  },
+  {
+    "Original": "ENEMIES",
+    "Replacement": "ВРАГИ"
+  },
+  {
+    "Original": "SANDBOX",
+    "Replacement": "ПЕСОЧНИЦА"
+  },
+  {
+    "Original": "RETURN TO MISSION",
+    "Replacement": "ВЕРНУТЬСЯ К ЗАДАНИЮ"
+  },
+  {
+    "Original": "CYBER GRIND SETTINGS",
+    "Replacement": "НАСТРОЙКИ\nКИБЕР ГРИНДА"
+  },
+  {
+    "Original": "This terminal is used for Cyber Grind customization",
+    "Replacement": "Этот терминал используется для кастомизации Кибер Гринда"
+  },
+  {
+    "Original": "--THEMES--",
+    "Replacement": "--ТЕМЫ--"
+  },
+  {
+    "Original": "Select the visual theme for the arena",
+    "Replacement": "Выберите визуальную тему арены"
+  },
+  {
+    "Original": "LIGHT",
+    "Replacement": "СВЕТЛАЯ"
+  },
+  {
+    "Original": "DARK",
+    "Replacement": "ТЁМНАЯ"
+  },
+  {
+    "Original": "CUSTOM",
+    "Replacement": "СВОЯ"
+  },
+  {
+    "Original": "New Text",
+    "Replacement": "Новый Текст"
+  },
+  {
+    "Original": "REFRESH",
+    "Replacement": "ОБНОВИТЬ"
+  },
+  {
+    "Original": "EDITOR",
+    "Replacement": "РЕДАКТОР"
+  },
+  {
+    "Original": "--PATTERNS--",
+    "Replacement": "--ПАТТЕРНЫ--"
+  },
+  {
+    "Original": "DISABLED",
+    "Replacement": "ОТКЛЮЧЕНО"
+  },
+  {
+    "Original": "--WAVES--",
+    "Replacement": "--ВОЛНЫ--"
+  },
+  {
+    "Original": "SELECT STARTING WAVE:\n\n<size=16>(Highest reached wave must be at least twice as high)</size>",
+    "Replacement": "ВЫБЕРИТЕ НАЧАЛЬНУЮ ВОЛНУ:\n\n<size=16>(Максимальная волна должна быть в два раза больше)</size>"
+  },
+  {
+    "Original": "THEMES",
+    "Replacement": "ТЕМЫ"
+  },
+  {
+    "Original": "PATTERNS",
+    "Replacement": "ПАТТЕРНЫ"
+  },
+  {
+    "Original": "WAVES",
+    "Replacement": "ВОЛНЫ"
+  },
+  {
+    "Original": "--CUSTOM--",
+    "Replacement": "--СВОЯ--"
+  },
+  {
+    "Original": "GRID",
+    "Replacement": "СЕТКА"
+  },
+  {
+    "Original": "GRID GLOW",
+    "Replacement": "СВЕЧЕНИЕ СЕТКИ"
+  },
+  {
+    "Original": "GRID SIDES",
+    "Replacement": "СТОРОНЫ СЕТКИ"
+  },
+  {
+    "Original": "SKYBOX",
+    "Replacement": "СКАЙБОКС"
+  },
+  {
+    "Original": "folder title",
+    "Replacement": "название папки"
+  },
+  {
+    "Original": "DEFAULT",
+    "Replacement": "ПО УМОЛЧ."
+  },
+  {
+    "Original": "BASE",
+    "Replacement": "ОСНОВА"
+  },
+  {
+    "Original": "TOP",
+    "Replacement": "ВЕРХ"
+  },
+  {
+    "Original": "TOP\nROW",
+    "Replacement": "ВЕРХН.\nРЯД"
+  },
+  {
+    "Original": "GLOW INTENSITY",
+    "Replacement": "ИНТЕНСИВНОСТЬ СВЕЧЕНИЯ"
+  },
+  {
+    "Original": "ENABLE",
+    "Replacement": "ENABLE"
+  },
+  {
+    "Original": "I UNDERSTAND",
+    "Replacement": "Я ПОНИМАЮ"
+  },
+  {
+    "Original": "CANCEL",
+    "Replacement": "ОТМЕНА"
+  },
+  {
+    "Original": "TOTAL:",
+    "Replacement": "ВСЕГО:"
+  },
+  {
+    "Original": "NEW",
+    "Replacement": "РЕЗУЛЬТАТ ЗАБЕГА"
+  },
+  {
+    "Original": "BEST",
+    "Replacement": "РЕКОРД"
+  },
+  {
+    "Original": "FRIEND HIGH SCORES",
+    "Replacement": "РЕКОРД ДРУЗЕЙ"
+  },
+  {
+    "Original": "CONNECTING TO STEAMWORKS",
+    "Replacement": "ПОДКЛЮЧАЕМСЯ К STEAMWORKS"
+  },
+  {
+    "Original": "USERNAME",
+    "Replacement": "ИМЯ ПОЛЬЗОВАТЕЛЯ"
+  },
+  {
+    "Original": "GLOBAL HIGH SCORES",
+    "Replacement": "ГЛОБАЛЬНЫЕ РЕКОРДЫ"
+  }
+]

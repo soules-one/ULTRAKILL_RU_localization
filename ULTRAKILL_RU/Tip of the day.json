@@ -1,0 +1,82 @@
+[
+  {
+    "Original": "<color=orange>Hitscan weapons</color> like the Revolver do <color=orange>locational damage</color>.\n\nA <color=orange>headshot</color> deals <color=orange>2x</color> damage and a <color=orange>limbshot</color> deals <color=orange>1.5x</color> damage.",
+    "Replacement": "<color=orange>Выстрел в голову из револьвера</color> наносит <color=orange>2x</color> урон, а <color=orange>выстрел в конечность</color> наносит <color=orange>1.5x</color> урон."
+  },
+  {
+    "Original": "<color=orange>Dash</color>: Fully invincible, costs stamina\n\n<color=orange>Slide</color>: Greater distance, no invincibility\n\n<color=orange>Jump</color>: Quickly out of melee range, less control",
+    "Replacement": "<color=orange>Dash</color>: Fully invincible, costs stamina\n\n<color=orange>Slide</color>: Greater distance, no invincibility\n\n<color=orange>Jump</color>: Quickly out of melee range, less control"
+  },
+  {
+    "Original": "<color=orange>Shotgun parries</color>: \n\nA <color=orange>point-blank</color> Shotgun shot to the <color=orange>torso</color> right before an enemy attack lands will deal massive damage.",
+    "Replacement": "<color=orange>Shotgun parries</color>: \n\nA <color=orange>point-blank</color> Shotgun shot to the <color=orange>torso</color> right before an enemy attack lands will deal massive damage."
+  },
+  {
+    "Original": "<Color=orange>Attack sound cues</color> allow you to keep track of enemies who are off screen.",
+    "Replacement": "<Color=orange>Attack sound cues</color> allow you to keep track of enemies who are off screen."
+  },
+  {
+    "Original": "Some enemies make <color=orange>idle sounds</color> to make them easier to track.",
+    "Replacement": "Some enemies make <color=orange>idle sounds</color> to make them easier to track."
+  },
+  {
+    "Original": "Use the <color=cyan>ATTRACTOR NAILGUN</color>'s magnets to form concentrated <color=orange>orbs</color> of nails that can be <color=orange>moved</color> around using the pull force of <color=orange>other magnets</color>.",
+    "Replacement": "Use the <color=cyan>ATTRACTOR NAILGUN</color>'s magnets to form concentrated <color=orange>orbs</color> of nails that can be <color=orange>moved</color> around using the pull force of <color=orange>other magnets</color>."
+  },
+  {
+    "Original": "Enemies <color=orange>can hurt</color> other enemy types.\n\nWith quick thinking and positioning, powerful enemies can turn into powerful weapons.",
+    "Replacement": "Enemies <color=orange>can hurt</color> other enemy types.\n\nWith quick thinking and positioning, powerful enemies can turn into powerful weapons."
+  },
+  {
+    "Original": "The <color=cyan>ATTRACTOR NAILGUN</color>'s magnets can be attached to enemies to make mobile targets easy to hit with nails.",
+    "Replacement": "The <color=cyan>ATTRACTOR NAILGUN</color>'s magnets can be attached to enemies to make mobile targets easy to hit with nails."
+  },
+  {
+    "Original": "Enemies <color=orange>scream</color> when falling from a <color=orange>fatal height</color>.",
+    "Replacement": "Enemies <color=orange>scream</color> when falling from a <color=orange>fatal height</color>."
+  },
+  {
+    "Original": "<color=orange>SLAM BOUNCING</color>: Jump immediately after landing from a <color=orange>ground slam</color> to jump higher.\n\nThe longer the ground slam fall, the higher the bounce.",
+    "Replacement": "<color=orange>SLAM BOUNCING</color>: Jump immediately after landing from a <color=orange>ground slam</color> to jump higher.\n\nThe longer the ground slam fall, the higher the bounce."
+  },
+  {
+    "Original": "<color=orange>RAILCANNON</color> variations all share the same cooldown. Choose wisely which variation best fits the situation.",
+    "Replacement": "<color=orange>RAILCANNON</color> variations all share the same cooldown. Choose wisely which variation best fits the situation."
+  },
+  {
+    "Original": "<color=orange>SLIDING</color> will retain previous momentum for a short amount of time. \n\nChaining quick <color=orange>SLIDE JUMPS</color> after a <color=cyan>DASH JUMP</color> will give you incredible sustained speed.",
+    "Replacement": "<color=orange>SLIDING</color> will retain previous momentum for a short amount of time. \n\nChaining quick <color=orange>SLIDE JUMPS</color> after a <color=cyan>DASH JUMP</color> will give you incredible sustained speed."
+  },
+  {
+    "Original": "<color=orange>Environmental hazards</color> such as harmful liquids will hurt enemies as well.",
+    "Replacement": "<color=orange>Environmental hazards</color> such as harmful liquids will hurt enemies as well."
+  },
+  {
+    "Original": "If you're having trouble keeping up with a tough enemy, <color=orange>stand back and observe</color>. \n\nEvery enemy has its <color=orange>tells</color> and <color=orange>patterns</color> and learning those can be your key to victory.",
+    "Replacement": "If you're having trouble keeping up with a tough enemy, <color=orange>stand back and observe</color>. \n\nEvery enemy has its <color=orange>tells</color> and <color=orange>patterns</color> and learning those can be your key to victory."
+  },
+  {
+    "Original": "<color=orange>HITSCAN</color> weapons can be used to hit the shotgun's <color=cyan>CORE EJECT</color> in mid-air to increase its damage and blast radius.",
+    "Replacement": "<color=orange>HITSCAN</color> weapons can be used to hit the shotgun's <color=cyan>CORE EJECT</color> in mid-air to increase its damage and blast radius."
+  },
+  {
+    "Original": "<color=orange>POWER-UPS</color> can be stacked.",
+    "Replacement": "<color=orange>POWER-UPS</color> can be stacked."
+  },
+  {
+    "Original": "Hitting an enemy with only the <color=orange>edge</color> of an <color=orange>explosion</color> will launch them without dealing much damage, making it a risky but effective tool against <color=orange>Stalkers</color>.",
+    "Replacement": "Hitting an enemy with only the <color=orange>edge</color> of an <color=orange>explosion</color> will launch them without dealing much damage, making it a risky but effective tool against <color=orange>Stalkers</color>."
+  },
+  {
+    "Original": "Airborne <color=orange>coins</color> can be shot with any <color=orange>hitscan</color> weapon.",
+    "Replacement": "Airborne <color=orange>coins</color> can be shot with any <color=orange>hitscan</color> weapon."
+  },
+  {
+    "Original": "<color=orange>Parries</color> can be used as a powerful healing tool.\n\nParrying any enemy projectile or melee attack will <color=red>fully replenish your health</color> up to the hard damage limit.",
+    "Replacement": "<color=orange>Parries</color> can be used as a powerful healing tool.\n\nParrying any enemy projectile or melee attack will <color=red>fully replenish your health</color> up to the hard damage limit."
+  },
+  {
+    "Original": "If blown too far off the arena, <color=lime>PUMP CHARGE</color>'s overcharge is a good way to get back.",
+    "Replacement": "Если вас откинуло далеко от арены, взрыв <color=lime>ПОМПЫ</color> неплохой способ вернуться обратно."
+  }
+]
