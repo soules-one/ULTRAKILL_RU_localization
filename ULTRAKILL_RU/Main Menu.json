@@ -156,6 +156,38 @@
     "Replacement": "ИМЯ БОССА"
   },
   {
+    "Original": "CERBERUS, GUARDIAN OF HELL",
+    "Replacement": "ЦЕРБЕР, СТРАЖ АДА"
+  },
+  {
+    "Original": "CANCEROUS RODENT",
+    "Replacement": "РАКОВЫЙ ГРЫЗУН"
+  },
+  {
+    "Original": "VERY CANCEROUS RODENT",
+    "Replacement": "ОЧЕНЬ РАКОВЫЙ ГРЫЗУН"
+  },
+  {
+    "Original": "SWORDSMACHINE \"TUNDRA\"",
+    "Replacement": "МЕЧ-МАШИНА \"ТУНДРА\""
+  },
+  {
+    "Original": "SWORDSMACHINE \"AGONY\"",
+    "Replacement": "МЕЧ-МАШИНА \"АГОНИЯ\""
+  },
+  {
+    "Original": "GABRIEL, JUDGE OF HELL",
+    "Replacement": "ГАВРИИЛ, СУДЬЯ АДА"
+  },
+  {
+    "Original": "SISYPHEAN INSURRECTIONIST",
+    "Replacement": "СИЗИФОВ ПОВСТАНЕЦ"
+  },
+  {
+    "Original": "MYSTERIOUS DRUID KNIGHT (& OWL)",
+    "Replacement": "ЗАГАДОЧНЫЙ РЫЦАРЬ-ДРУИД (И СОВА)"
+  },
+  {
     "Original": "Title",
     "Replacement": "Заголовок"
   },
@@ -218,6 +250,18 @@
   {
     "Original": "GLUTTONY",
     "Replacement": "ОБЖОРСТВО"
+  },
+  {
+    "Original": "GREED",
+    "Replacement": "АЛЧНОСТЬ"
+  },
+  {
+    "Original": "WRATH",
+    "Replacement": "ГНЕВ"
+  },
+  {
+    "Original": "HERESY",
+    "Replacement": "ЕРЕСЬ"
   },
   {
     "Original": "SCANNING..",
@@ -1388,6 +1432,34 @@
     "Replacement": "СЕКРЕТНАЯ МИССИЯ"
   },
   {
+    "Original": "0-S: SOMETHING WICKED",
+    "Replacement": "0-S: ЧТО-ТО СТРАШНОЕ"
+  },
+  {
+    "Original": "1-S: THE WITLESS",
+    "Replacement": "1-S: ГЛУПЕЦ"
+  },
+  {
+    "Original": "2-S: ALL-IMPERFECT LOVE SONG",
+    "Replacement": "2-S: НЕСОВЕРШЕННАЯ СЕРЕНАДА"
+  },
+  {
+    "Original": "4-S: CLASH OF THE BRANDICOOT",
+    "Replacement": "4-S: КЛЭШ БРАНДИКУТ"
+  },
+  {
+    "Original": "MISSION:",
+    "Replacement": "МИССИЯ:"
+  },
+  {
+    "Original": "COMPLETE",
+    "Replacement": "ВЫПОЛНЕНА"
+  },
+  {
+    "Original": "1-1: HEART OF THE SUNRISE",
+    "Replacement": "1-1: СЕРДЦЕ РАССВЕТА"
+  },
+  {
     "Original": "1-1: HEART OF THE SUNRISE",
     "Replacement": "1-1: СЕРДЦЕ РАССВЕТА"
   },
@@ -2036,7 +2108,7 @@
     "Replacement": "АЛЧНОСТЬ /// ТРЕТИЙ"
   },
   {
-    "Original": "SHOT IN THE DARK",
+    "Original": "A SHOT IN THE DARK",
     "Replacement": "ВЫСТРЕЛ ВО ТЬМЕ"
   },
   {
