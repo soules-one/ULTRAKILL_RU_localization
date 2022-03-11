@@ -16,24 +16,36 @@
     "Replacement": "Зажмите '<color=orange>Левый Ctrl</color>' чтобы <color=orange>СКОЛЬЗИТЬ</color>."
   },
   {
+    "Original": "Hold '<color=orange>Ctrl</color>' to <color=orange>SLIDE</color>.",
+    "Replacement": "Зажмите '<color=orange>Левый Ctrl</color>' чтобы <color=orange>СКОЛЬЗИТЬ</color>."
+  },
+  {
     "Original": "Press '<color=#00DFFF>LeftShift</color>' to <color=#00DFFF>DASH</color>. (Consumes <color=#00DFFF>STAMINA</color>)\nCan be performed in air.",
     "Replacement": "Нажмите '<color=#00DFFF>Левый Shift</color>' чтобы совешить <color=#00DFFF>РЫВОК</color>. (Тратит <color=#00DFFF>ВЫНОСЛИВОСТЬ</color>)\nМожно выполнить в воздухе."
   },
   {
     "Original": "Deal close range damage to douse yourself in <color=red>FRESH BLOOD</color>. <color=red>THIS IS THE ONLY WAY TO REGAIN HEALTH</color>.",
-    "Replacement": "Наносите урон в ближнем бою чтобы омыться <color=red>СВЕЖЕЙ КРОВЬЮ</color>. <color=red>ТОЛЬКО ТАК МОЖНО ВОССТАНОВИТЬ ЗДОРОВЬЕ</color>."
+    "Replacement": "Наносите урон в ближнем бою чтобы омыться <color=red>СВЕЖЕЙ КРОВЬЮ</color>.\n<color=red>ТОЛЬКО ТАК МОЖНО ВОССТАНОВИТЬ ЗДОРОВЬЕ</color>."
   },
   {
     "Original": "<color=orange>JUMP</color> while near a <color=orange>WALL</color> to <color=orange>WALL JUMP</color>. (Max. 3 times)",
     "Replacement": "<color=orange>ПРЫГНИТЕ</color> на <color=orange>СТЕНУ</color> чтобы выполнить <color=orange>ПРЫЖОК ОТ СТЕНЫ</color>. (Макс. 3 раза)"
   },
   {
+    "Original": "Press '<color=orange>Ctrl</color>' in the air to <color=orange>GROUND SLAM</color>.\nHold for <color=orange>SHOCKWAVE</color>. (Consumes <color=#00DFFF>STAMINA</color>)",
+    "Replacement": "Нажмите '<color=orange>Левый Ctrl</color>' в воздухе чтобы выполнить <color=orange>РЫВОК ВНИЗ</color>.\nЗажмите для <color=orange>УДАРНОЙ ВОЛНЫ</color>. (Тратит <color=#00DFFF>ВЫНОСЛИВОСТЬ</color>)"
+  },
+  {
     "Original": "Press '<color=orange>LeftControl</color>' in the air to <color=orange>GROUND SLAM</color>.\nHold for <color=orange>SHOCKWAVE</color>. (Consumes <color=#00DFFF>STAMINA</color>)",
-    "Replacement": "Нажмите '<color=orangeЛевый Ctrl</color>' в воздухе чтобы выполнить <color=orange>РЫВОК ВНИЗ</color>.\nЗажмите для <color=orange>УДАРНОЙ ВОЛНЫ</color>. (Тратит <color=#00DFFF>ВЫНОСЛИВОСТЬ</color>)"
+    "Replacement": "Нажмите '<color=orange>Левый Ctrl</color>' в воздухе чтобы выполнить <color=orange>РЫВОК ВНИЗ</color>.\nЗажмите для <color=orange>УДАРНОЙ ВОЛНЫ</color>. (Тратит <color=#00DFFF>ВЫНОСЛИВОСТЬ</color>)"
+  },
+  {
+    "Original": "Press '<color=orange>Ctrl</color>' in the air to <color=orange>GROUND SLAM</color>.\nHold for <color=orange>SHOCKWAVE</color>. (Consumes <color=#00DFFF>STAMINA</color>)",
+    "Replacement": "Нажмите '<color=orange>Левый Ctrl</color>' в воздухе чтобы выполнить <color=orange>РЫВОК ВНИЗ</color>.\nЗажмите для <color=orange>УДАРНОЙ ВОЛНЫ</color>. (Тратит <color=#00DFFF>ВЫНОСЛИВОСТЬ</color>)"
   },
   {
     "Original": "Most levels have secret <color=cyan>SOUL ORBS</color>.\nTouch them to get a <color=orange>POINT BONUS</color>.",
-    "Replacement": "Большинство уровней имеют секретные <color=cyan>СФЕРЫ ДУШ</color>.\nПодберите их для получения <color=orange>БОНУСНЫХ ОЧКОВ</color>."
+    "Replacement": "Большинство уровней имеют секретные <color=cyan>СФЕРЫ ДУШ</color>.\nПодбирайте их для получения <color=orange>БОНУСНЫХ ОЧКОВ</color>."
   },
   {
     "Original": "<color=cyan>REVOLVER</color>: Hold <color=orange>Right Button</color> to charge a <color=orange>PIERCING</color> shot.",
@@ -41,11 +53,23 @@
   },
   {
     "Original": "<color=orange>PUNCH</color> a <color=orange>PROJECTILE</color> with precise timing to <color=orange>DEFLECT</color> it.",
-    "Replacement": "<color=orange>УДАРЬТЕ</color> <color=orange>СНАРЯД</color> чтобы <color=orange>ОТРАЗИТЬ</color> его."
+    "Replacement": "<color=orange>УДАРЬТЕ</color> по <color=orange>СНАРЯДУ</color>, чтобы <color=orange>ОТРАЗИТЬ</color> его."
+  },
+  {
+    "Original": "<color=orange>GROUND SLAM</color> (<color=orange>Ctrl</color>) deals damage on direct hit.",
+    "Replacement": "<color=orange>РЫВОК ВНИЗ</color> (<color=orange>Левый Ctrl</color>) наносит урон при падении на врага."
   },
   {
     "Original": "<color=orange>GROUND SLAM</color> (<color=orange>LeftControl</color>) deals damage on direct hit.",
     "Replacement": "<color=orange>РЫВОК ВНИЗ</color> (<color=orange>Левый Ctrl</color>) наносит урон при падении на врага."
+  },
+  {
+    "Original": "<color=orange>GROUND SLAM</color> (<color=orange>Ctrl</color>) deals damage on direct hit.",
+    "Replacement": "<color=orange>РЫВОК ВНИЗ</color> (<color=orange>Левый Ctrl</color>) наносит урон при падении на врага."
+  },
+  {
+    "Original": "Use your <color=orange>POINTS</color> at the <color=orange>SHOP</color> at the start of each level for new equipment.",
+    "Replacement": "Тратье свои <color=orange>ОЧКИ</color> в <color=orange>МАГАЗИНЕ</color> в начале каждого уровня, чтобы получить новое снаряжение."
   },
   {
     "Original": "<color=red>INSUFFICIENT FIREPOWER</color>",
@@ -53,7 +77,7 @@
   },
   {
     "Original": "<color=cyan>SHOTGUN</color>: Press '<color=orange>Right Button</color>' to fire an explosive. Hold to charge distance.",
-    "Replacement": "<color=cyan>ДРОБОВИК</color>: Нажмите '<color=orange>ПКМ</color>' чтобы выстрелить взрывчаткой. Зажмите для увеличения дальности."
+    "Replacement": "<color=cyan>ДРОБОВИК</color>: Нажмите '<color=orange>ПКМ</color>' чтобы выкинуть перегретое ядро.\nЗажмите для увеличения дальности."
   },
   {
     "Original": "<color=cyan>SHOTGUN</color>: Primary fire pierces weaker enemies",
@@ -77,7 +101,7 @@
   },
   {
     "Original": "<color=red>SPLIT</color> <color=cyan>COLOR</color> doors only require <color=red>ONE</color> <color=cyan>SKULL</color> to open.\nIf you do not seek hardship, stay indoors.",
-    "Replacement": "<color=red>РАЗДЕЛЬНО</color> <color=cyan>ОКРАШЕННЫЕ</color> двери требуют только <color=red>ОДИН</color> <color=cyan>ЧЕРЕП</color> чтобы открыться.\nЕсли вы хотите пойти простым путём."
+    "Replacement": "<color=red>РАЗДЕЛЬНО</color> <color=cyan>ОКРАШЕННЫЕ</color> двери требуют только <color=red>ОДИН</color> <color=cyan>ЧЕРЕП</color> чтобы открыться. Если вы хотите пойти простым путём, не открывайте лишних дверей."
   },
   {
     "Original": "<color=orange>PICK UP</color> TO READ.",
@@ -101,7 +125,7 @@
   },
   {
     "Original": "<color=cyan>DASH JUMP</color>: Keep the <color=cyan>DASH</color> momentum by <color=orange>JUMPING</color> during it.",
-    "Replacement": "<color=cyan>ПРЫЖОК В РЫВКЕ</color>: <color=orange>ПРЫГНИТЕ</color> посреди <color=cyan>РЫВКА</color> чтобы сохранить его импульс."
+    "Replacement": "<color=cyan>ПРЫЖОК В РЫВКЕ</color>: <color=orange>ПРЫГНИТЕ</color> посреди <color=cyan>РЫВКА</color>, чтобы сохранить его импульс."
   },
   {
     "Original": "Only the <color=cyan>FEEDBACKER</color> (<color=cyan>Blue arm</color>) can <color=orange>PARRY PROJECTILES</color>. Swap arms with '<color=orange>G</color>'.",
@@ -109,7 +133,7 @@
   },
   {
     "Original": "<color=cyan>RAILCANNON</color>: <color=orange>RECHARGES</color> even when <color=orange>UNEQUIPPED</color>. Switch weapons to keep fighting between shots.",
-    "Replacement": "<color=cyan>РЕЛЬСОПУШКА</color>: <color=orange>ПЕРЕЗАРЯЖАЕТСЯ</color> даже когда <color=orange>НЕАКТИВНА</color>. Переключайте оружие чтобы сражаться во время зарядки орудия."
+    "Replacement": "<color=cyan>РЕЛЬСОПУШКА</color>: <color=orange>ПЕРЕЗАРЯЖАЕТСЯ</color> даже когда <color=orange>НЕАКТИВНА</color>. Пока она заряжается, переключитесь на другое оружие, чтобы продолжать сражаться."
   },
   {
     "Original": "<color=red>ERROR: BLOCKING DOOR WOULD CLOSE</color>",

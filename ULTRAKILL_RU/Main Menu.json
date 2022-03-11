@@ -108,8 +108,8 @@
     "Replacement": "Против"
   },
   {
-    "Original": "<color=red><size=72>x3,00</size></color>",
-    "Replacement": "<color=red><size=72>x3,00</size></color>"
+    "Original": "<color=orange>NEW BLOOD</color> PRESENTS",
+    "Replacement": "<color=orange>NEW BLOOD</color> ПРЕДСТАВЛЯЕТ"
   },
   {
     "Original": "A <color=orange>GAME</color> BY ARSI \"<color=orange>HAKITA</color>\" PATALA",
@@ -285,7 +285,7 @@
   },
   {
     "Original": "HUD",
-    "Replacement": "HUD"
+    "Replacement": "ИНТЕРФЕЙС"
   },
   {
     "Original": "ASSIST",
@@ -330,6 +330,10 @@
   {
     "Original": "RIGHT",
     "Replacement": "СПРАВА"
+  },
+  {
+    "Original": "MIDDLE",
+    "Replacement": "В ЦЕНТРЕ"
   },
   {
     "Original": "Option A",
@@ -428,10 +432,6 @@
     "Replacement": "ХЛЫСТ"
   },
   {
-    "Original": "R",
-    "Replacement": "R"
-  },
-  {
     "Original": "-- WEAPONS --",
     "Replacement": "-- ОРУЖИЕ --"
   },
@@ -464,6 +464,14 @@
     "Replacement": "ОРУЖИЕ"
   },
   {
+    "Original": "VARIATIONS",
+    "Replacement": "ВАРИАЦИИ"
+  },
+  {
+    "Original": "BOTH",
+    "Replacement": "ОБА"
+  },
+  {
     "Original": "REVERSE SCROLL DIRECTION",
     "Replacement": "ИНВЕРСИЯ ПРОКРУЧИВАНИЯ"
   },
@@ -474,10 +482,6 @@
   {
     "Original": "RESOLUTION",
     "Replacement": "РАЗРЕШЕНИЕ"
-  },
-  {
-    "Original": "640x480",
-    "Replacement": "640x480"
   },
   {
     "Original": "FULLSCREEN",
@@ -513,7 +517,7 @@
   },
   {
     "Original": "DITHERING",
-    "Replacement": "РАЗМЫТИЕ"
+    "Replacement": "ЭФФЕКТ СЕТКИ"
   },
   {
     "Original": "TEXTURE WARPING",
@@ -522,6 +526,22 @@
   {
     "Original": "VERTEX WARPING",
     "Replacement": "ИСКАЖЕНИЕ ВЕРШИН"
+  },
+  {
+    "Original": "HEAVY",
+    "Replacement": "ТЯЖЁЛОЕ"
+  },
+  {
+    "Original": "VERY HEAVY",
+    "Replacement": "ОЧЕНЬ ТЯЖЁЛОЕ"
+  },
+  {
+    "Original": "MODERN ART",
+    "Replacement": "СОВРЕМЕННОЕ ИСКУССТВО"
+  },
+  {
+    "Original": "INDIE ART GAME",
+    "Replacement": "ИНДИ-АРТ-ИГРА"
   },
   {
     "Original": "NONE",
@@ -625,7 +645,7 @@
   },
   {
     "Original": "CLASSIC WHITE",
-    "Replacement": "КЛАССИЧЕСКИЙ МОНОХРОМНЫЙ"
+    "Replacement": "КЛАССИЧЕСКИЙ МОНОХР."
   },
   {
     "Original": "BACKGROUND OPACITY",
@@ -680,20 +700,72 @@
     "Replacement": "МАЛОЕ"
   },
   {
+    "Original": "LARGE",
+    "Replacement": "БОЛЬШОЕ"
+  },
+  {
     "Original": "CROSSHAIR COLOR",
     "Replacement": "ЦВЕТ ПЕРЕКРЕСТИЯ"
+  },
+  {
+    "Original": "INVERTED",
+    "Replacement": "ИНВЕРСИЯ"
   },
   {
     "Original": "WHITE",
     "Replacement": "БЕЛЫЙ"
   },
   {
+    "Original": "GREY",
+    "Replacement": "СЕРЫЙ"
+  },
+  {
+    "Original": "BLACK",
+    "Replacement": "ЧЁРНЫЙ"
+  },
+  {
+    "Original": "RED",
+    "Replacement": "КРАСНЫЙ"
+  },
+  {
+    "Original": "GREEN",
+    "Replacement": "ЗЕЛЁНЫЙ"
+  },
+  {
+    "Original": "BLUE",
+    "Replacement": "СИНИЙ"
+  },
+  {
+    "Original": "CYAN",
+    "Replacement": "ГОЛУБОЙ"
+  },
+  {
+    "Original": "YELLOW",
+    "Replacement": "ЖЁЛТЫЙ"
+  },
+  {
+    "Original": "MAGENTA",
+    "Replacement": "ПУРПУРНЫЙ"
+  },
+  {
     "Original": "CROSSHAIR HUD SIZE",
     "Replacement": "РАЗМЕР ИНТЕРФЕЙСА ПЕРЕКРЕСТИЯ"
   },
   {
+    "Original": "THIN",
+    "Replacement": "ТОНКИЙ"
+  },
+  {
     "Original": "MEDIUM",
     "Replacement": "СРЕДНИЙ"
+  },
+  {
+    "Original": "THICK",
+    "Replacement": "ТОЛСТЫЙ"
+  },
+  {
+    "Original": "EXTRA THICC",
+    "Replacement": "ОЧЕНЬ ТОЛСТЫЙ"
   },
   {
     "Original": "CROSSHAIR HUD FADE",
@@ -1762,5 +1834,225 @@
   {
     "Original": "<color=red>Returning to:</color>\nMAIN MENU",
     "Replacement": "<color=red>Вернуться в</color>\nГЛАВНОЕ МЕНЮ"
+  },
+  {
+    "Original": "PRELUDE /// FIRST",
+    "Replacement": "ПРЕЛЮДИЕ /// ПЕРВЫЙ"
+  },
+  {
+    "Original": "INTO THE FIRE",
+    "Replacement": "В ПЕКЛО"
+  },
+  {
+    "Original": "PRELUDE /// SECOND",
+    "Replacement": "ПРЕЛЮДИЕ /// ВТОРОЙ"
+  },
+  {
+    "Original": "THE MEATGRINDER",
+    "Replacement": "МЯСОРУБКА"
+  },
+  {
+    "Original": "PRELUDE /// THIRD",
+    "Replacement": "ПРЕЛЮДИЕ /// ТРЕТИЙ"
+  },
+  {
+    "Original": "DOUBLE DOWN",
+    "Replacement": "ВНИЗ И ВНИЗ"
+  },
+  {
+    "Original": "PRELUDE /// FOURTH",
+    "Replacement": "ПРЕЛЮДИЕ /// ЧЕТВЁРТЫЙ"
+  },
+  {
+    "Original": "A ONE-MACHINE ARMY",
+    "Replacement": "ОДИН В ПОЛЕ ВОИН"
+  },
+  {
+    "Original": "PRELUDE /// CLIMAX",
+    "Replacement": "ПРЕЛЮДИЕ /// КУЛЬМИНАЦИЯ"
+  },
+  {
+    "Original": "LIMBO /// FIRST",
+    "Replacement": "ЛИМБ /// ПЕРВЫЙ"
+  },
+  {
+    "Original": "HEART OF THE SUNRISE",
+    "Replacement": "СЕРДЦЕ РАССВЕТА"
+  },
+  {
+    "Original": "LIMBO /// SECOND",
+    "Replacement": "ЛИМБ /// ВТОРОЙ"
+  },
+  {
+    "Original": "THE BURNING WORLD",
+    "Replacement": "ГОРЯЩИЙ МИР"
+  },
+  {
+    "Original": "LIMBO /// THIRD",
+    "Replacement": "ЛИМБ /// ТРЕТИЙ"
+  },
+  {
+    "Original": "HALLS OF SACRED REMAINS",
+    "Replacement": "КОРРИДОРЫ СВЯТЫХ ДУШ"
+  },
+  {
+    "Original": "LIMBO /// CLIMAX",
+    "Replacement": "ЛИМБ /// КУЛЬМИНАЦИЯ"
+  },
+  {
+    "Original": "CLAIR DE LUNE",
+    "Replacement": "ЛУННЫЙ СВЕТ"
+  },
+  {
+    "Original": "LIMBO /// FIRST",
+    "Replacement": "ЛИМБ /// ПЕРВЫЙ"
+  },
+  {
+    "Original": "HEART OF THE SUNRISE",
+    "Replacement": "СЕРДЦЕ РАССВЕТА"
+  },
+  {
+    "Original": "LIMBO /// SECOND",
+    "Replacement": "ЛИМБ /// ВТОРОЙ"
+  },
+  {
+    "Original": "THE BURNING WORLD",
+    "Replacement": "ГОРЯЩИЙ МИР"
+  },
+  {
+    "Original": "LIMBO /// THIRD",
+    "Replacement": "ЛИМБ /// ТРЕТИЙ"
+  },
+  {
+    "Original": "HALLS OF SACRED REMAINS",
+    "Replacement": "КОРРИДОРЫ СВЯТЫХ ДУШ"
+  },
+  {
+    "Original": "LIMBO /// CLIMAX",
+    "Replacement": "ЛИМБ /// КУЛЬМИНАЦИЯ"
+  },
+  {
+    "Original": "CLAIR DE LUNE",
+    "Replacement": "ЛУННЫЙ СВЕТ"
+  },
+  {
+    "Original": "LIMBO /// FIRST",
+    "Replacement": "ЛИМБ /// ПЕРВЫЙ"
+  },
+  {
+    "Original": "HEART OF THE SUNRISE",
+    "Replacement": "СЕРДЦЕ РАССВЕТА"
+  },
+  {
+    "Original": "LIMBO /// SECOND",
+    "Replacement": "ЛИМБ /// ВТОРОЙ"
+  },
+  {
+    "Original": "THE BURNING WORLD",
+    "Replacement": "ГОРЯЩИЙ МИР"
+  },
+  {
+    "Original": "LIMBO /// THIRD",
+    "Replacement": "ЛИМБ /// ТРЕТИЙ"
+  },
+  {
+    "Original": "HALLS OF SACRED REMAINS",
+    "Replacement": "КОРРИДОРЫ СВЯТЫХ ДУШ"
+  },
+  {
+    "Original": "LIMBO /// CLIMAX",
+    "Replacement": "ЛИМБ /// КУЛЬМИНАЦИЯ"
+  },
+  {
+    "Original": "CLAIR DE LUNE",
+    "Replacement": "ЛУННЫЙ СВЕТ"
+  },
+  {
+    "Original": "LUST /// FIRST",
+    "Replacement": "ПОХОТЬ /// ПЕРВЫЙ"
+  },
+  {
+    "Original": "BRIDGEBURNER",
+    "Replacement": "МОСТОЖИГАТЕЛЬ"
+  },
+  {
+    "Original": "LUST /// SECOND",
+    "Replacement": "ПОХОТЬ /// ВТОРОЙ"
+  },
+  {
+    "Original": "DEATH AT 20,000 VOLTS",
+    "Replacement": "СМЕРТЬ ОТ 20,000 ВОЛЬТ"
+  },
+  {
+    "Original": "LUST /// THIRD",
+    "Replacement": "ПОХОТЬ /// ТРЕТИЙ"
+  },
+  {
+    "Original": "SHEER HEART ATTACK",
+    "Replacement": "ЧИСТОСЕРДЕЧНЫЙ ПРИСТУП"
+  },
+  {
+    "Original": "LUST /// CLIMAX",
+    "Replacement": "ПОХОТЬ /// КУЛЬМИНАЦИЯ"
+  },
+  {
+    "Original": "COURT OF THE CORPSE KING",
+    "Replacement": "ДВОР МЁРТВОГО КОРОЛЯ"
+  },
+  {
+    "Original": "GLUTTONY /// ACT I CRESCENDO",
+    "Replacement": "ЧРЕВОУГОДИЕ /// КРЕЩЕНДО I АКТА"
+  },
+  {
+    "Original": "BELLY OF THE BEAST",
+    "Replacement": "ЖЕЛУДОК ЧУДИЩА"
+  },
+  {
+    "Original": "GLUTTONY /// ACT I CLIMAX",
+    "Replacement": "ЧРЕВОУГОДИЕ /// КУЛЬМИНАЦИЯ I АКТА"
+  },
+  {
+    "Original": "IN THE FLESH",
+    "Replacement": "ВО ПЛОТИ"
+  },
+  {
+    "Original": "GREED /// FIRST",
+    "Replacement": "АЛЧНОСТЬ /// ПЕРВЫЙ"
+  },
+  {
+    "Original": "SLAVES TO POWER",
+    "Replacement": "РАБЫ МОЩИ"
+  },
+  {
+    "Original": "GREED /// SECOND",
+    "Replacement": "АЛЧНОСТЬ /// ВТОРОЙ"
+  },
+  {
+    "Original": "GOD DAMN THE SUN",
+    "Replacement": "ЧЁРТОВО СОЛНЦЕ"
+  },
+  {
+    "Original": "GREED /// THIRD",
+    "Replacement": "АЛЧНОСТЬ /// ТРЕТИЙ"
+  },
+  {
+    "Original": "SHOT IN THE DARK",
+    "Replacement": "ВЫСТРЕЛ ВО ТЬМЕ"
+  },
+  {
+    "Original": "GREED /// CLIMAX",
+    "Replacement": "АЛЧНОСТЬ /// КУЛЬМИНАЦИЯ"
+  },
+  {
+    "Original": "CLAIR DE SOLEIL",
+    "Replacement": "СОЛНЕЧНЫЙ СВЕТ"
+  },
+  {
+    "Original": "<size=48><b>THANKS FOR PLAYING</b></size>\n\nLayer 5: WRATH is currently still under development\n\n\nFor news on its progress, follow us on",
+    "Replacement": "<size=48><b>СПАСИБО ЗА ИГРУ</b></size>\n\nСлой 5: ГНЕВ сейчас всё ещё в разработке\n\n\nЧтобы получать новости об обновлениях, подпишитесь на нас в"
+  },
+  {
+    "Original": "RETURN TO MENU",
+    "Replacement": "ВЕРНУТЬСЯ В МЕНЮ"
   }
 ]
