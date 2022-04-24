@@ -504,11 +504,39 @@ MANUAL VIDEO CALIBRATION:=РУЧНАЯ НАСТРОЙКА ВИДЕО:
 SMOOTH, CLEAR, EASY TO READ=ПЛАВНЫЙ, ПОНЯТНЫЙ, ЛЕГКОЧИТАЕМЫЙ
 ROUGH, PIXELATED, WARPING=ГРУБЫЙ, ПИКСЕЛЕЗИРОВАННЫЙ, ДЕФОРМИРОВАННЫЙ
 
+Hold '<color%3Dorange>LeftControl</color>' to <color%3Dorange>SLIDE</color>.=Удерживай '<color%3Dorange>LeftControl</color>', чтобы <color%3Dorange>СКОЛЬЗИТЬ</color>.
+Press '<color%3D#00DFFF>LeftShift</color>' to <color%3D#00DFFF>DASH</color>. (Consumes <color%3D#00DFFF>STAMINA</color>)\nCan be performed in air.=Нажми '<color%3D#00DFFF>LeftShift</color>', чтобы сделать <color%3D#00DFFF>РЫВОК</color>. (Тратит <color%3D#00DFFF>ВЫНОСЛИВОСТЬ</color>)\nМожет быть выполнено в воздухе.
+Press '<color%3Dorange>LeftControl</color>' in the air to <color%3Dorange>GROUND SLAM</color>.\nHold for <color%3Dorange>SHOCKWAVE</color>. (Consumes <color%3D#00DFFF>2 STAMINA</color>)=Нажми '<color%3Dorange>LeftControl</color>' в воздухе, чтобы сделать <color%3Dorange>GROUND SLAM</color>.\nУдерживай для <color%3Dorange>SHOCKWAVE</color>. (Тратит <color%3D#00DFFF>2/3 ВЫНОСЛИВОСТИ</color>)
+Most levels have secret <color%3Dcyan>SOUL ORBS</color>.\nTouch them to get a <color%3Dorange>POINT BONUS</color>.=На большестве уровней есть секретный <color%3Dcyan>СФЕРЫ ДУШ</color>.\nКоснись их, чтобы получить <color%3Dorange>БОНУСНЫЕ ОЧКИ</color>.
+GET 5 KILLS WITH A SINGLE GLASS PANEL=УБЕЙ 5 ОДНОЙ СТЕКЛЯННОЙ ПАНЕЛЬЮ
+<color%3Dcyan>REVOLVER</color>: Hold <color%3Dorange>Right Mouse Button</color> to charge a <color%3Dorange>PIERCING</color> shot.=<color%3Dcyan>РЕВОЛЬВЕР</color>: УДЕРЖИВАЙ <color%3Dorange>ПКМ</color>, чтобы зарядить <color%3Dorange>ПРОБИВНОЙ</color> выстрел.
+<color%3Dorange>PUNCH</color> a <color%3Dorange>PROJECTILE</color> with precise timing to <color%3Dorange>DEFLECT</color> it.=<color%3Dorange>УДАРЬ</color> <color%3Dorange>СНАРЯД</color> в нужный момент, чтобы <color%3Dorange>ОТРАЗИТЬ</color> его.
+- <color%3D#44FF45>CHEATS USED</color>\n+ NO RESTARTS\n  (+500<color%3Dorange>P</color>)\n=- <color%3D#44FF45>ИСПОЛЬЗУЮ ЧИТЫ</color>\n+ БЕЗ РЕСТАРТОВ\n  (+500<color%3Dorange>P</color>)\n
+- <color%3D#44FF45>CHEATS USED</color>\n+ NO RESTARTS\n+ <color%3Dorange>NO DAMAGE</color>\n=- <color%3D#44FF45>ИСПОЛЬЗУЮ ЧИТЫ</color>\n+ БЕЗ РЕСТАРТОВ\n+ <color%3Dorange>БЕЗ УРОНА</color>
+
 
 <color%3Dorange>NEW BLOOD</color> PRESENTS=<color%3Dorange>NEW BLOOD</color> ПРЕДСТАВЛЯЕТ
 A <color%3Dorange>GAME</color> BY ARSI "<color%3Dorange>HAKITA</color>" PATALA=<color%3Dorange>ИГРА</color> ОТ АРСИ "<color%3Dorange>ХАКИТЫ</color>" ПАТАЛЫ\n\r<size%3D14>МОД ОТ <color%3Dred>ULTRAteam</color>\nОсобая благодарность:\n<color%3Dorange>LUKAH</color> и <color%3Dorange>DISTARCHE</color></size>
 CREATED WITH THE <color=orange>HELP</color> OF:\n\nSAM <color=orange>BRYAN</color>\nRYAN <color=orange>EVANS</color>\nBIGROCK<color=orange>BMP</color>\nANDREI <color=orange>MISCHENKO</color>\nPI<color=orange>TR</color>\nTONI <color=orange>STIGELL</color>\nF.<color=orange>D.</color>\nJACOB <color=orange>ROY</color>\nMAXIMILIAN <color=orange>OVESSON</color>\n=СОЗДАНА С <color=orange>ПОМОЩЬЮ</color>:\n\nSAM <color=orange>BRYAN</color>\nRYAN <color=orange>EVANS</color>\nBIGROCK<color=orange>BMP</color>\nANDREI <color=orange>MISCHENKO</color>\nPI<color=orange>TR</color>\nTONI <color=orange>STIGELL</color>\nF.<color=orange>D.</color>\nJACOB <color=orange>ROY</color>\nMAXIMILIAN <color=orange>OVESSON</color>\n
-PRELUDE /// FIRST=ПРЕЛЮДИЕ /// ПЕРВЫЙ
+
+PRELUDE %2F%2F=ПРЕЛЮДИЕ %2F%2F
+PRELUDE %2F%2F/=ПРЕЛЮДИЕ %2F%2F/
+PRELUDE %2F%2F/ F=ПРЕЛЮДИЕ %2F%2F/ П
+PRELUDE %2F%2F/ FI=ПРЕЛЮДИЕ %2F%2F/ ПЕ
+PRELUDE %2F%2F/ FIR=ПРЕЛЮДИЕ %2F%2F/ ПЕР
+PRELUDE %2F%2F/ FIRS=ПРЕЛЮДИЕ %2F%2F/ ПЕРВ
+PRELUDE %2F%2F/ FIRST=ПРЕЛЮДИЕ %2F%2F/ ПЕРВЫЙ
+
+I=В
+IN=В П
+INTO= В П
+INTO T=В ПЕ
+INTO TH=В ПЕ 
+INTO THE=В ПЕК
+INTO THE F=В ПЕК
+INTO THE FI=В ПЕКЛ
+INTO THE FIR=В ПЕКЛ
 INTO THE FIRE=В ПЕКЛО
 
 MALICIOUS FACE=ЗЛОБНЫЙ ЛИК
+#TUTORIAL
