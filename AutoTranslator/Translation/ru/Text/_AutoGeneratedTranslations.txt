@@ -401,6 +401,20 @@ SCROLL WEAPONS WITH MOUSE WHEEL=СМЕНИТЬ ОРУЖИЕ С ПОМОЩЬЮ К
 WEAPON SCROLL TYPE=ПРОКРУЧИВАНИЕ ТИПА
 Kill All Enemies=Убей всех врагов
 #GABRIEL
+
+GLUTTONY %2F%2F/ ACT I CL=ОБЖОРСТВО %2F%2F/ КУЛЬМИНАЦИЯ I А
+GLUTTONY %2F%2F/ ACT I CLI=GLOTONERIA %2F%2F/ КУЛЬМИНАЦИЯ I АК
+GLUTTONY %2F%2F/ ACT I CLIM=GLOTONERIA %2F%2F/ КУЛЬМИНАЦИЯ I АКТ
+GLUTTONY %2F%2F/ ACT I CLIMA=GLOTONERIA %2F%2F/ КУЛЬМИНАЦИЯ I АКТА
+IN T=В
+IN TH=ВО 
+IN THE=ВО 
+IN THE F=ВО П
+IN THE FL=ВО ПЛ
+IN THE FLE=ВО ПЛО
+IN THE FLES=ВО ПЛОТ
+IN THE FLESH=ВО ПЛОТИ
+
 Machine=Машина
 Turn back now=Развернись сейчас же
 The layers of this palace are not for your kind=Пласты этих чертогов не для подобных тебе
@@ -438,7 +452,7 @@ BOOT UP SEQUENCE#READY½\n\nFIRMWARE# \n+LATEST VERSION (2112.08.06)_½\n\nCALIB
 BOOT UP SEQUENCE READY \n\nFIRMWARE  \n<color=lime> LATEST VERSION (2112.08.06)</color>  \n\nCALIBRATION \n<color=lime> RECENTLY UPDATED</color> \n\nPERFORM RECALIBRATION?\nY/N
 BOOT UP SEQUENCE#READY½\n\nFIRMWARE# \n+LATEST VERSION (2112.08.06)_½\n\nCALIBRATION#\n+RECENTLY UPDATED_\n\nPERFORM RECALIBRATION?\nβ/δ~\n\nAUDIO§         Ä½\nVIDEO§         Ä½\nMECHANICS§     Ä½\n\n+CALIBRATION COMPLETE_\n+PRIMARY SETTINGS UPDATED_\n(±ASSIST OPTIONS_ AVAILABLE IN PAUSE MENU )½\n\n+ALL SYSTEMS OPERATIONAL_½\nLOADING STATUS UPDATE§=ЗАГРУЗКА СИСТЕМЫ#ГОТОВО½\n\nПРОШИВКА# \n+ПОСЛЕДНЯЯ ВЕРСИЯ (2112.08.06)_½\n\nКАЛИБРОВКА#\n+НЕДАВНО ОБНОВЛЕНО_\n\nВЫПОЛНИТЬ ПЕРЕКАЛИБРОКУ?\nβ/δ~\n\nАУДИО§         Ä½\nВИДЕО§         Ä½\nМЕХАНИКА§     Ä½\n\n+КАЛИБРОВКА ЗАВЕРШЕНА_\n+ОСНОВНЫЕ НАСТРОЙКИ ОБНОВЛЕНЫ_\n(±ОПЦИИ ПОМОЩИ_ \nДОСТУПНЫ В НАСТРОЙКАХ)½\n\n+ВСЕ СИСТЕМЫ ГОТОВЫ_½\nЗАГРУЗКА ОБНОВЛЕНИЯ СТАТУСА§
 ЗАГРУЗКА СИСТЕМЫ ГОТОВО \n\nПРОШИВКА \n<color%3Dlime> ПОСЛЕДНЯЯ ВЕРС</color>=ЗАГРУЗКА СИСТЕМЫ ГОТОВО \n\nПРОШИВКА \n<color%3Dlime> ПОСЛЕДНЯЯ ВЕРС</color>
-=ЗАГРУЗКА СИСТЕМЫ ГОТОВО \n\nПРОШИВКА \n<color%3Dlime> ПОСЛ</color>=ЗАГРУЗКА СИСТЕМЫ ГОТОВО \n\nПРОШИВКА \n<color%3Dlime> ПОСЛ</color>
+ЗАГРУЗКА СИСТЕМЫ ГОТОВО \n\nПРОШИВКА \n<color%3Dlime> ПОСЛ</color>=ЗАГРУЗКА СИСТЕМЫ ГОТОВО \n\nПРОШИВКА \n<color%3Dlime> ПОСЛ</color>
 ЗАГРУЗКА СИСТЕМЫ ГОТОВО \n\nПРОШИВКА \n<color%3Dlime> ПОСЛЕДНЯЯ ВЕРСИЯ (2112.08.06)</color>=ЗАГРУЗКА СИСТЕМЫ ГОТОВО \n\nПРОШИВКА \n<color%3Dlime> ПОСЛЕДНЯЯ ВЕРСИЯ (2112.08.06)</color>
 ЗАГРУЗКА СИСТЕМЫ ГОТОВО \n\nПРОШИВКА \n<color%3Dlime> ПОСЛЕДНЯЯ ВЕРСИЯ (2112.08.06)</color>  \n\nКАЛИБРОВКА \n<color%3Dred> УСТАРЕЛА</color> \n<color%3Dred> НЕОБХОДИМА РЕКАЛИБРОВКА</color>  \n\nНАЧАЛО КАЛИБРОВКИ \n\nАУДИО          <color%3Dlime>OK</color>  \nВИДЕО          <color%3Dlime>OK</color>  \nМЕХАНИКА          <color%3Dlime>OK</color>  \n\n<color%3Dlime> КАЛИБРОВКА ЗАВЕРШЕНА</color> \n<color%3Dlime> ОСНОВНЫЕ НАСТРОЙКИ ОБНОВЛЕНЫ</color> \n(<color%3D#4C99E6>ОПЦИИ ПОМОЩИ</color> \nДОСТУПНЫ НАСТРОЙКАХ) \n\n<color%3Dlime> ВСЕ СИСТЕМЫ ГОТОВЫ</color> \nЗАГРУЗКА ОБНОВЛЕНИЯ СТАТУСА=ЗАГРУЗКА СИСТЕМЫ ГОТОВО \n\nПРОШИВКА \n<color%3Dlime> ПОСЛЕДНЯЯ ВЕРСИЯ (2112.08.06)</color>  \n\nКАЛИБРОВКА \n<color%3Dred> УСТАРЕЛА</color> \n<color%3Dred> НЕОБХОДИМА РЕКАЛИБРОВКА</color>  \n\nНАЧАЛО КАЛИБРОВКИ \n\nАУДИО          <color%3Dlime>OK</color>  \nВИДЕО          <color%3Dlime>OK</color>  \nМЕХАНИКА          <color%3Dlime>OK</color>  \n\n<color%3Dlime> КАЛИБРОВКА ЗАВЕРШЕНА</color> \n<color%3Dlime> ОСНОВНЫЕ НАСТРОЙКИ ОБНОВЛЕНЫ</color> \n(<color%3D#4C99E6>ОПЦИИ ПОМОЩИ</color> \nДОСТУПНЫ В НАСТРОЙКАХ) \n\n<color%3Dlime> ВСЕ СИСТЕМЫ ГОТОВЫ</color> \nЗАГРУЗКА ОБНОВЛЕНИЯ СТАТУСА
 ЗАГРУЗКА СИСТЕМЫ ГОТОВО \n\nПРОШИВКА \n<color%3Dlime> ПОСЛЕДНЯЯ ВЕРСИЯ (2112.08.06)</color>  \n\nКАЛИБРОВКА \n<color%3Dred> УСТАРЕЛА</color> \n<color%3Dred> НЕОБХОДИМА РЕКАЛИБРОВКА</color>  \n\nНАЧАЛО КАЛИБРОВКИ \n\nАУДИО          <color%3Dlime>OK</color>  \nВИДЕО          <color%3Dlime>OK</color>  \nМЕХАНИКА          <color%3Dlime>OK</color>  \n\n<color%3Dlime> КАЛИБРОВКА ЗАВЕРШЕНА</color> \n<color%3Dlime> ОСНОВНЫЕ НАСТРОЙКИ ОБНОВЛЕНЫ</color> \n(<color%3D#4C99E6>ОПЦИИ ПОМОЩИ</color> \nДОСТУПНЫ НАСТРОЙКАХ) \n\n<color%3Dlime> ВСЕ СИСТЕМЫ ГОТОВЫ</color> \nЗАГРУЗКА ОБНОВЛЕНИЯ СТАТУСА.=ЗАГРУЗКА СИСТЕМЫ ГОТОВО \n\nПРОШИВКА \n<color%3Dlime> ПОСЛЕДНЯЯ ВЕРСИЯ (2112.08.06)</color>  \n\nКАЛИБРОВКА \n<color%3Dred> УСТАРЕЛА</color> \n<color%3Dred> НЕОБХОДИМА РЕКАЛИБРОВКА</color>  \n\nНАЧАЛО КАЛИБРОВКИ \n\nАУДИО          <color%3Dlime>OK</color>  \nВИДЕО          <color%3Dlime>OK</color>  \nМЕХАНИКА          <color%3Dlime>OK</color>  \n\n<color%3Dlime> КАЛИБРОВКА ЗАВЕРШЕНА</color> \n<color%3Dlime> ОСНОВНЫЕ НАСТРОЙКИ ОБНОВЛЕНЫ</color> \n(<color%3D#4C99E6>ОПЦИИ ПОМОЩИ</color> \nДОСТУПНЫ В НАСТРОЙКАХ) \n\n<color%3Dlime> ВСЕ СИСТЕМЫ ГОТОВЫ</color> \nЗАГРУЗКА ОБНОВЛЕНИЯ СТАТУСА.
@@ -513,6 +527,7 @@ Most levels have secret <color%3Dcyan>SOUL ORBS</color>.\nTouch them to get a <c
 Deal close range damage to douse yourself in <color%3Dred>FRESH BLOOD</color>. <color%3Dred>THIS IS THE ONLY WAY TO REGAIN HEALTH</color>.=Наноси урон вблизи, чтобы облить себя <color%3Dred>СВЕЖЕЙ КРОВЬЮ</color>. <color%3Dred>ЭТО ЕДИНСТВЕННЫЙ СПОСОБ ВОСТАНОВИТЬ ЗДОРОВЬЕ</color>.
 GET 5 KILLS WITH A SINGLE GLASS PANEL=УБЕЙ 5 ОДНОЙ СТЕКЛЯННОЙ ПАНЕЛЬЮ
 <color%3Dcyan>REVOLVER</color>: Hold <color%3Dorange>Right Mouse Button</color> to charge a <color%3Dorange>PIERCING</color> shot.=<color%3Dcyan>РЕВОЛЬВЕР</color>: УДЕРЖИВАЙ <color%3Dorange>ПКМ</color>, чтобы зарядить <color%3Dorange>ПРОБИВНОЙ</color> выстрел.
+<color%3Dcyan>REVOLVER</color>: Hold <color%3Dorange>Right Button</color> to charge a <color%3Dorange>PIERCING</color> shot.=<color%3Dcyan>РЕВОЛЬВЕР</color>: УДЕРЖИВАЙ <color%3Dorange>ПКМ</color>, чтобы зарядить <color%3Dorange>ПРОБИВНОЙ</color> выстрел.
 <color%3Dorange>PUNCH</color> a <color%3Dorange>PROJECTILE</color> with precise timing to <color%3Dorange>DEFLECT</color> it.=<color%3Dorange>УДАРЬ</color> <color%3Dorange>СНАРЯД</color> в нужный момент, чтобы <color%3Dorange>ОТРАЗИТЬ</color> его.
 - <color%3D#44FF45>CHEATS USED</color>\n+ NO RESTARTS\n  (+500<color%3Dorange>P</color>)\n=- <color%3D#44FF45>ИСПОЛЬЗУЯ ЧИТЫ</color>\n+ БЕЗ РЕСТАРТОВ\n  (+500<color%3Dorange>P</color>)\n
 - <color%3D#44FF45>CHEATS USED</color>\n+ NO RESTARTS\n+ <color%3Dorange>NO DAMAGE</color>\n=- <color%3D#44FF45>ИСПОЛЬЗУЯ ЧИТЫ</color>\n+ БЕЗ РЕСТАРТОВ\n+ <color%3Dorange>БЕЗ УРОНА</color>
