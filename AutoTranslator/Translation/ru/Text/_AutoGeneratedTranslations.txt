@@ -297,7 +297,7 @@ Enemies <color%3Dorange>scream</color> when crushing from a <color%3Dorange>fata
 WAVE:=ВОЛНА:
 NEW=РЕЗУЛЬТАТ
 BEST=РЕКОРД
-CYBER GRIND SETTINGS=НАСТРОЙКИ КИБЕР ГРИНДА
+CYBER GRIND SETTINGS=НАСТРОЙКИ КИБЕР\nГРИНДА
 This terminal is used for Cyber Grind customization=Этот терминал используется для кастомизации Кибер Гринда
 WAVES=ВОЛНЫ
 --THEMES--=--ТЕМЫ--
@@ -310,7 +310,7 @@ DISABLED=ОТКЛЮЧЕНО
 EDITOR=РЕДАКТОР
 REFRESH=ОБНОВИТЬ
 ENABLED=ВКЛЮЧЕНО
-SELECT STARTING WAVE:\n\n<size%3D16>(Highest reached wave must be at least twice as high)</size>=ВЫБЕРИТЕ НАЧАЛЬНУЮ ВОЛНУ:\n\n<size=16>(Максимальная волна должна быть в два раза больше)</size>
+SELECT STARTING WAVE:\n\n<size%3D16>(Highest reached wave must be at least twice as high)</size>=ВЫБЕРИТЕ НАЧАЛЬНУЮ ВОЛНУ:\n\n<size%3D16>(Максимальная волна должна быть в два раза больше)</size>
 --WAVES--=--ВОЛНЫ--
 EXIT THE CYBER GRIND=ПОКИНУТЬ КИБЕР ГРИНД
 <color%3Dred>Returning to:</color>\nMAIN MENU=<color%3Dred>Вернуться в:</color>\nГлавное Меню
@@ -330,7 +330,9 @@ Press Alt Fire to overheat and <color%3Dorange>launch</color> the shotgun's <col
 Alt fire while shooting to <color%3Dorange>overheat</color> for a quick burst of high damage at the cost of a <color%3Dorange>heatsink</color>.\n\nHeatsinks recharge while not firing.=Во время стрельбы нажмите Альтернативный огонь, чтобы <color=orange>перегреть</color> оружие и выпустить мощную очередь, потратив <color=orange>термоклипсу</color>.\n\nТермоклипсы пассивно перезаряжаются.
 Press Alt Fire to <color%3Dorange>pump</color> your shotgun, increasing the <color%3Dorange>power</color> and decreasing the <color%3Dorange>accuracy</color> of your <color%3Dorange>next shot</color>.\n\nToo many pumps will cause an <color%3Dorange>explosion</color> when fired.=Нажмите Альтернативный огонь, чтобы <color=orange>зарядить</color> ваш дробовик, увеличивая <color=orange>мощность</color> и уменьшая <color=orange>точность</color> вашего <color=orange>следующего выстрела</color>.\n\nСлишком много зарядов вызовут <color=orange>взрыв</color>.
 SKYBOX=СКАЙБОКС
+folder title=название папки
 GRID GLOW=СВЕЧЕНИЕ СЕТКИ
+GRID SIDES=СТОРОНЫ СЕТКИ
 --CUSTOM--=--СВОЯ--
 GRID=СЕТКА
 DEFAULT=ПО УМОЛЧ.
@@ -405,9 +407,9 @@ Kill All Enemies=Убей всех врагов
 GABRIEL, JUDGE OF HELL=ГАВРИИЛ, СУДЬЯ АДА
 
 GLUTTONY %2F%2F/ ACT I CL=ОБЖОРСТВО %2F%2F/ КУЛЬМИНАЦИЯ I А
-GLUTTONY %2F%2F/ ACT I CLI=GLOTONERIA %2F%2F/ КУЛЬМИНАЦИЯ I АК
-GLUTTONY %2F%2F/ ACT I CLIM=GLOTONERIA %2F%2F/ КУЛЬМИНАЦИЯ I АКТ
-GLUTTONY %2F%2F/ ACT I CLIMA=GLOTONERIA %2F%2F/ КУЛЬМИНАЦИЯ I АКТА
+GLUTTONY %2F%2F/ ACT I CLI=ОБЖОРСТВО %2F%2F/ КУЛЬМИНАЦИЯ I АК
+GLUTTONY %2F%2F/ ACT I CLIM=ОБЖОРСТВО %2F%2F/ КУЛЬМИНАЦИЯ I АКТ
+GLUTTONY %2F%2F/ ACT I CLIMA=ОБЖОРСТВО %2F%2F/ КУЛЬМИНАЦИЯ I АКТА
 IN T=В
 IN TH=ВО 
 IN THE=ВО 
@@ -424,8 +426,8 @@ Turn back or you will be crossing the will of God= Развернись, ина�
 Your choice is made=Ты сделал выбор
 As the righteous hand of the father=Как праведная рука отца
 I shall rend you apart=Я разорву тебя на части
-And you will become inanimate once more=И ты вновь станешь недвижимым
-BEHOLD! THE POWER OF AN ANGEL=УЗРИ ЖЕ! СИЛУ АНГЕЛА
+And you will become inanimate once more=И вновь ты станешь недвижимым
+BEHOLD! THE POWER OF AN ANGEL=УЗРИ ЖЕ! МОЩЬ АНГЕЛА
 
 A mere object=Всего лишь вещь
 Foolishness, machine. Foolishness.=Глупость, машина. Глупость.
@@ -444,7 +446,7 @@ What..?=Что..?
 How can this be?=Как такое возможно?
 Bested by this...=Побеждён этой...
 this thing..?=Этой вещью..?
-You insignificant FUCK!=ТЫ неописуемая БЛЯДЬ!
+You insignificant FUCK!=Ты нничтожная БЛЯДЬ!
 THIS IS NOT OVER!=ЭТО ЕЩЁ НЕ КОНЕЦ!
 May your woes be many=Да будет бед твоих много
 and your days few=а дни твои сочтены
@@ -539,7 +541,7 @@ GET 5 KILLS WITH A SINGLE GLASS PANEL=УБЕЙ 5 ОДНОЙ СТЕКЛЯННОЙ
 + NO RESTARTS\n (+500<color%3Dorange>P</color>)\n+ <color%3Dorange>NO DAMAGE</color>\n <color%3Dorange>(</color>+5000<color%3Dorange>P</color><color%3Dorange>)</color>\n=+ БЕЗ РЕСТАРТОВ\n (+500<color%3Dorange>P</color>)\n+ <color%3Dorange>БЕЗ УРОНА</color>\n <color%3Dorange>(</color>+5000<color%3Dorange>P</color><color%3Dorange>)</color>\n
 
 <color%3Dorange>NEW BLOOD</color> PRESENTS=<color%3Dorange>NEW BLOOD</color> ПРЕДСТАВЛЯЕТ
-A <color%3Dorange>GAME</color> BY ARSI "<color%3Dorange>HAKITA</color>" PATALA=<color%3Dorange>ИГРА</color> ОТ АРСИ "<color%3Dorange>ХАКИТЫ</color>" ПАТАЛЫ\n\r<size%3D14>МОД ОТ <color%3Dred>ULTRAteam</color>\nОсобая благодарность:\n<color%3Dorange>LUKAH</color> и <color%3Dorange>DISTARCHE</color></size>
+A <color%3Dorange>GAME</color> BY ARSI "<color%3Dorange>HAKITA</color>" PATALA=<color%3Dorange>ИГРА</color> ОТ АРСИ "<color%3Dorange>HAKITA</color>" ПАТАЛЫ\n\r<size%3D14>МОД ОТ <color%3Dred>ULTRAteam</color>\nОсобая благодарность:\n<color%3Dorange>LUKAH</color> и <color%3Dorange>DISTARCHE</color></size>
 CREATED WITH THE <color=orange>HELP</color> OF:\n\nSAM <color=orange>BRYAN</color>\nRYAN <color=orange>EVANS</color>\nBIGROCK<color=orange>BMP</color>\nANDREI <color=orange>MISCHENKO</color>\nPI<color=orange>TR</color>\nTONI <color=orange>STIGELL</color>\nF.<color=orange>D.</color>\nJACOB <color=orange>ROY</color>\nMAXIMILIAN <color=orange>OVESSON</color>\n=СОЗДАНА С <color=orange>ПОМОЩЬЮ</color>:\n\nSAM <color=orange>BRYAN</color>\nRYAN <color=orange>EVANS</color>\nBIGROCK<color=orange>BMP</color>\nANDREI <color=orange>MISCHENKO</color>\nPI<color=orange>TR</color>\nTONI <color=orange>STIGELL</color>\nF.<color=orange>D.</color>\nJACOB <color=orange>ROY</color>\nMAXIMILIAN <color=orange>OVESSON</color>\n
 
 Press <color%3Dorange>ESC</color> to skip=Нажми <color%3Dorange>ESC</color> для пропуска 
@@ -574,4 +576,4 @@ Press Alt Fire to throw a <color%3Dorange>coin</color>.\n\nHit an <color%3Dorang
 CORE EJECT=ЯДРОМЁТ
 Press Alt Fire to overheat and <color%3Dorange>launch</color> the shotgun's <color%3Dorange>cores</color>.\n\n<color%3Dorange>Hold</color> to charge <color%3Dorange>distance</color>.\n\n<color%3Dorange>Explodes</color> on impact.%3DНажмите Альтернативный огонь, чтобы перегреть и <color%3Dorange>запустить</color> <color%3Dorange>ядра</color> дробовика.\n\n<color%3Dorange>Зажмите</color>, чтобы зарядить и увеличить <color%3Dorange>дистанцию</color>.\n\n<color%3Dorange>Взрывается</color> по достижении цели.
 
-
+#ENDLESS
