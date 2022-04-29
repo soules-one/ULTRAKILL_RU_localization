@@ -565,3 +565,13 @@ INTO THE FIRE=В ПЕКЛО
 
 MALICIOUS FACE=ЗЛОБНЫЙ ЛИК
 #TUTORIAL
+#TERMINAL
+ARMS=РУКИ
+PIERCER=ПРОБОЙНИК
+<color%3Dorange>Hold</color> Alt Fire to charge a <color%3Dorange>3-hit beam</color>.\n\nRequires <color%3Dorange>cooldown</color>.=<color%3Dorange>Зажмите</color> Альтернативный огонь, чтобы зарядить <color%3Dorange> тройной луч</color>.\n\nТребует <color%3Dorange>отката</color>.
+MARKSMAN=МЕТКИЙ
+Press Alt Fire to throw a <color%3Dorange>coin</color>.\n\nHit an <color%3Dorange>airborne</color> coin to <color%3Dorange>deflect</color> your shot into the nearest enemy's <color%3Dorange>weakpoint</color>.\n\nCoins can be <color%3Dorange>chained</color>.=Нажмите Альтернативный огонь, чтобы бросить <color%3Dorange>монету</color>.\n\nПопадите по монете<color%3Dorange>в воздухе</color>, чтобы ваш выстрел <color%3Dorange>отразился</color> в <color%3Dorange>слабое место</color> ближайшего врага.\n\nКаждая монета<color%3Dorange>увеличивает</color> мощность выстрела.
+CORE EJECT=ЯДРОМЁТ
+Press Alt Fire to overheat and <color%3Dorange>launch</color> the shotgun's <color%3Dorange>cores</color>.\n\n<color%3Dorange>Hold</color> to charge <color%3Dorange>distance</color>.\n\n<color%3Dorange>Explodes</color> on impact.%3DНажмите Альтернативный огонь, чтобы перегреть и <color%3Dorange>запустить</color> <color%3Dorange>ядра</color> дробовика.\n\n<color%3Dorange>Зажмите</color>, чтобы зарядить и увеличить <color%3Dorange>дистанцию</color>.\n\n<color%3Dorange>Взрывается</color> по достижении цели.
+
+
