@@ -646,4 +646,11 @@ New Save=Новое Сохранение
 SANDBOX SAVES=СОХРАНЕНИЯ ПЕСОЧНИЦЫ
 OPEN DIRECTORY=ОТКРЫТЬ ПАПКУ
 Give it a name=Дай ему имя
-<color%3D#C2D7FF>Spawner Arm in slot 5\n</color>=<color%3D#C2D7FF>Рука-Спавнер в слоте 5\n</color>
+Whoops, sorry about that.=Упс, извините за это.
+ACTIVATE CHEATS=АКТИВИРОВАТЬ ЧИТЫ
+Enabling cheats means you will not gain a rank upon completion of a level and a Cyber Grind high score will not be saved.\n\n<color%3Dgreen>Press <color%3Dwhite>~</color> or <color%3Dwhite>home</color> after enabling cheats to toggle the menu</color>=Включение читов означает, что вы не получите ранга после завершения уровня, а высокий балл Кибер Гринда не будет сохранен.\n\n<color%3Dgreen>Нажми <color%3Dwhite>~</color> или <color%3Dwhite>home</color> после активации, чтобы открыть меню читов</color>
+<color%3D#C2D7FF>Spawner Arm in slot 5\n</color>=<color%3D#C2D7FF>Рука-Спавнер в слоте 5\n</color><color%3Dorange>Dash</color>: Fully invincible, costs stamina\n\n<color%3Dorange>Slide</color>: Greater distance, no invincibility\n\n<color%3Dorange>Jump</color>: Quickly out of melee range, less control=<color%3Dorange>Бросаться</color>: Полностью непобедимый, затрат на выносливость\n\n<color%3Dorange>Горка</color>: Большее расстояние, нет непобедимости\n\n<color%3Dorange>Прыгать</color>: Быстро из диапазона ближнего боя, меньше контроля#
+#CHEATS
+#0-3
+<color%3Dcyan>SHOTGUN</color>: Primary fire pierces weaker enemies=<color%3Dcyan>ДРОБОВИК</color>: Первичный огонь прокалывает более слабых врагов
+#0-3
