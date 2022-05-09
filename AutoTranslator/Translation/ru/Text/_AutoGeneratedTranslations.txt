@@ -646,3 +646,4 @@ New Save=Новое Сохранение
 SANDBOX SAVES=СОХРАНЕНИЯ ПЕСОЧНИЦЫ
 OPEN DIRECTORY=ОТКРЫТЬ ПАПКУ
 Give it a name=Дай ему имя
+<color%3D#C2D7FF>Spawner Arm in slot 5\n</color>=<color%3D#C2D7FF>Рука-Спавнер в слоте 5\n</color>
