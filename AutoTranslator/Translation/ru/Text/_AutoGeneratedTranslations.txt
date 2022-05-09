@@ -600,6 +600,7 @@ A winch with a spear.\n<color%3Dorange>Hold</color> to throw, <color%3Dorange>re
 The <color%3D#4C99E6>Sandbox</color> is an empty level that can be used for practicing.\n\n<color%3Dred>Progress in the current mission will be lost.</color>=<color%3D#4C99E6>Песочница</color> это пустой уровень в котором можно попрактиковаться.\n\n<color%3Dred>Прогресс в текущей миссии будет утрян.</color>
 Keep Cheats Enabled=Оставить Читы Включёнными
 Disable on reload=Отключить после перезахода
+DISABLE ON RELOAD=ОТКЛЮЧИТЬ ПОСЛЕ ПЕРЕЗАХОДА
 STAY ACTIVE=НЕ ОТКЛЮЧАТЬ
 Quick Save=Быстрое Сохранение
 SAVE=СОХРАНИТЬ
@@ -636,4 +637,12 @@ Kill All=Убить Всех
 SPECIAL=ОСОБОЕ
 Clash Mode=Режим Клэша
 NavMesh out of Date. Please rebuild.=NavMesh устарел. Пожайлуста, перестройте.
-
+home or ~=home или ~
+<color%3D#44FF45>CHEATS</color> ENABLED :^)=<color%3D#44FF45>ЧИТЫ</color> ВКЛЮЧЕНЫ :^)
+LOADING=ЗАГРУЗКА
+Enemy Navigation=Навигация Врагов
+REBUILDING...=ПЕРЕСТРАИВАЕМ...
+New Save=Новое Сохранение
+SANDBOX SAVES=СОХРАНЕНИЯ ПЕСОЧНИЦЫ
+OPEN DIRECTORY=ОТКРЫТЬ ПАПКУ
+Give it a name=Дай ему имя
