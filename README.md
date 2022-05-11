@@ -1,6 +1,6 @@
 
 # ULTRAKILL_RU_localization
-## Актуальную стадию перевода можно наблюдать в suggestions-branch
+## Последнюю версию перевода можно найти в suggestion-branch
 Скачать последний набор текстовых фалов можно в Realeses
 ## Как установить перевод
 - Ставим на ULTRAKILL мод [BePeNex](https://github.com/BepInEx/BepInEx/releases) (скопируйте файлы из архива (BePiNex-x64) в папку с игрой (где файл ULTRAKILL.exe), и запустите игру).
