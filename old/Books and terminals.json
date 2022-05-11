@@ -5,7 +5,7 @@
     },
     {
         "Original": "<b>TEXT SCANNED - LEGIBLE SCRIPT:\r</b>\n\n<i>“...Gabriel struck down Minos, his flesh torn asunder with torrents of crimson pooling at his feet as we all cried out for clarity. ‘Justice,’ Gabriel decreed to all, with our just ruler writhing in wailing agony, ‘The Lord’s Will be done.’ We watched on in horror as Minos lay broken, now waning, screaming in defiance of God’s Will, Gabriel.”\r</i>\n\n<b>REMAINING TEXT: IRRELEVANT.</b>",
-        "Replacement": "<b>ТЕКСТ ПРОСКАНИРОВАН - УДАЛОСЬ РАЗОБРАТЬ:\r</b>\n\n<i>“...Гавриил поразил Миноса, плоть его разорвав в клочья, и алые струи устремились к ногам его, пока все мы взвыли в непонимании. ‘Правосудие,’ провозгласил Гавриил, пока наш справедливый правитель корчился в муках, ‘Да свершится Воля Божья.’ Мы в ужасе наблюдали как разбитый Минос, увядая на глазах, кричал, не повинуясь Воле  Божьей, Гавриилу.”\r</i>\n\n<b>ОСТАЛЬНОЙ ТЕКСТ: ИРРЕЛЕВАНТЕН.</b>"
+        "Replacement": "<b>ТЕКСТ ПРОСКАНИРОВАН - УДАЛОСЬ РАЗОБРАТЬ:\r</b>\n\n<i>“...Гавриил поразил Миноса, плоть его разорвав в клочья, и алые струйки устремились к ногам его, пока мы всё взвыли в непонимании. ‘Правосудие,’ провозгласил Гавриил, пока наш справедливый правитель корчился в муках, ‘Да свершится Воля Божья.’ Мы в ужасе наблюдали как разбитый Минос, увядая на глазах, кричал в неповиновении Воле Божьей, Гавриил.”\r</i>\n\n<b>ОСТАЛЬНОЙ ТЕКСТ: ИРРЕЛЕВАНТЕН.</b>"
     },
     {
       "Original": "<b>TEXT SCANNED - UNIQUE PASSAGE:\r\n</b>\r\n\r\n<i>“It has been days since we last saw any angels. Without their oppression, there is no need for us to carry on our punishment. Even the meekest of the damned have abandoned their penance to take up arms. All can see how they have robbed us of our minds, bodies, and souls, leaving us only the hopes of a salvation that will never come, but no longer.\r\n\r\n    King Sisyphus has acted in secret until now, amassing an army whose strength and numbers swell, but now there is no need to hide anymore. We have lived in the shadow of Heaven long enough to forget the taste of fear. Now the Sisyphean Insurrectionists prepare for war.\r\n\r\n    I have heard of Minos beginning a peaceful revolution, but our King Sisyphus knows such pacificity will gain no favor from our cruel captors. He knows that one can only fight power with power, and he shall lead us to freedom.\r\n\r\n    If only we knew the suffering that would befall us next...”\r\n</i>\r\n\r\n<b>REMAINING TEXT: IRRELEVANT.</b>",
@@ -21,7 +21,7 @@
     },
     {
       "Original": "MANKIND IS A FAILURE.\n\n\nFREE WILL IS A FLAW.\n\n\nLET THE EVIL OF THEIR OWN LIPS CONSUME THEM.\n\n\nTHEN I SHALL BEGIN AGAIN, WITH MY WORD AS LAW.",
-      "Replacement": "ЧЕЛОВЕЧЕСТВО - ЭТО ОШИБКА.\n\n\nСВОБОДА ВОЛИ - ЭТО НЕДОСТАТОК.\n\n\nПУСТЬ ЗЛО ИХ СОБСТВЕННЫХ УСТ ПОГЛОТИТ ИХ.\n\n\nИ ТОГДА Я НАЧНУ СНОВА, И МОЁ СЛОВО БУДЕТ ЗАКОНОМ."
+      "Replacement": "ЧЕЛОВЕЧЕСТВО - ОШИБКА.\n\n\nСВОБОДА ВОЛИ - НЕДОСТАТОК.\n\n\nПУСТЬ ЗЛО ИХ СОБСТВЕННЫХ УСТ ПОГЛОТИТ ИХ.\n\n\nИ ТОГДА Я НАЧНУ СНОВА, И МОЁ СЛОВО БУДЕТ ЗАКОНОМ."
     },
     {
       "Original": "TESTAMENT II",

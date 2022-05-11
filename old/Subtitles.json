@@ -149,7 +149,7 @@
   },
   {
     "Original": "ENEMIES COVERED IN SAND WILL <color=red>NOT BLEED</color>",
-    "Replacement": "ВРАГТ ПОКРЫТЫЕ ПЕСКОМ <color=red>НЕ КРОВОТОЧАТ</color>"
+    "Replacement": "ВРАГИ, ПОКРЫТЫЕ ПЕСКОМ, <color=red>НЕ КРОВОТОЧАТ</color>"
   },
   {
     "Original": "A door opens.",
@@ -176,11 +176,19 @@
     "Replacement": "Что-то страшное грядёт."
   },
   {
+    "Original": "Just kidding :)",
+    "Replacement": "Шутка :)"
+  },
+  {
     "Original": "HOLD [<color=orange>Space</color>] TO BOUNCE HIGHER",
     "Replacement": "ЗАЖМИТЕ [<color=orange>Пробел</color>] ЧТОБЫ СИЛЬНЕЕ ОТСКАКИВАТЬ"
   },
   {
     "Original": "<color=orange>CLASH MODE</color> CHEAT UNLOCKED",
     "Replacement": "ЧИТ <color=orange>РЕЖИМ КЛЭША</color> РАЗБЛОКИРОВАН"
+  },
+  {
+    "Original": "[YOU ARE DEAD]\n\n\n\n\n\nPress [R] TO RESTART",
+    "Replacement": "[ТЫ МЁРТВ]\n\n\n\n\n\nНАЖМИ [R] ДЛЯ РЕСТАРТА"
   }
 ]
