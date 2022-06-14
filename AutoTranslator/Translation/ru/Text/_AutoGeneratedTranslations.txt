@@ -287,7 +287,7 @@ ARMS=РУКИ
 REVOLVER=РЕВОЛЬВЕР
 CORE EJECT=ЯДРОМЁТ
 PUMP CHARGE=ПОМПА
-RAILCANNON=РЕЛЬСОПУШКА
+RAILCANNON=РЕЛЬСОТРОН
 ATTRACTOR=АТТРАКТОР
 OVERHEAT=ПЕРЕГРЕВАТЕЛЬ
 SCREWDRIVER=ОТВЁРТКА
@@ -685,7 +685,7 @@ Enabling cheats means you will not gain a rank upon completion of a level and a 
 Enemies <color%3Dorange>can hurt</color> other enemy types.\n\nWith quick thinking and positioning, powerful enemies can turn into powerful weapons.=Враги <color%3Dorange>могут ранить</color> других врагов.\n\nЕсли быстро думать и позицианироваться, мощные враги становятся мощными орудиями.
 The <color%3Dcyan>ATTRACTOR NAILGUN</color>'s magnets can be attached to enemies to make mobile targets easy to hit with nails.=Магниты<color%3Dcyan>ГВОЗДЕМЁТА ATTRACTOR</color> могут быть прикреплены к противникам для облегчения поподания гвоздями по мобильным целям.
 Enemies <color%3Dorange>scream</color> when falling from a <color%3Dorange>fatal height</color>.=Враги <color%3Dorange>кричат</color>, когда падают со <color%3Dorange>смертельной высоты</color>.
-<color%3Dorange>RAILCANNON</color> variations all share the same cooldown. Choose wisely which variation best fits the situation.=У всех вариаций <color%3Dorange>РЕЛЬСОПУШКИ</color> общее время восстановления . Тщательно выбирайте, какая подходит под ситуацию.
+<color%3Dorange>RAILCANNON</color> variations all share the same cooldown. Choose wisely which variation best fits the situation.=У всех вариаций <color%3Dorange>РЕЛЬСОТРОНА</color> общее время восстановления . Тщательно выбирайте, какая подходит под ситуацию.
 <color%3Dorange>Environmental hazards</color> such as harmful liquids will hurt enemies as well.=<color%3Dorange>Опасности окружения</color>, такие как кислота, также вредят и врагам.
 <color%3Dorange>HITSCAN</color> weapons can be used to hit the shotgun's <color%3Dcyan>CORE EJECT</color> in mid-air to increase its damage and blast radius.=<color%3Dorange>ЛУЧОМ</color> оружия можно попасть в <color%3Dcyan>ВЫПУЩЕНОЕ ЯДРО</color> дробовика в воздухе, чтобы увеличить наносимый им урон и область взрыва.
 <color%3Dcyan>SHOTGUN</color>: Primary fire pierces weaker enemies=<color%3Dcyan>ДРОБОВИК</color>: Первичный огонь пробивает более слабых врагов.
