@@ -1,82 +1,82 @@
 [
   {
     "Original": "<color=orange>Hitscan weapons</color> like the Revolver do <color=orange>locational damage</color>.\n\nA <color=orange>headshot</color> deals <color=orange>2x</color> damage and a <color=orange>limbshot</color> deals <color=orange>1.5x</color> damage.",
-    "Replacement": "<color=orange>Выстрел в голову из револьвера</color> наносит <color=orange>2x</color> урон, а <color=orange>выстрел в конечность</color> наносит <color=orange>1.5x</color> урон."
+    "Replacement": "<color=orange>Выстрел в голову из револьвера</color> наносит <color=orange>двухкратный</color> урон, а <color=orange>выстрел в конечность</color> наносит <color=orange>полторакратный</color> урон."
   },
   {
     "Original": "<color=orange>Dash</color>: Fully invincible, costs stamina\n\n<color=orange>Slide</color>: Greater distance, no invincibility\n\n<color=orange>Jump</color>: Quickly out of melee range, less control",
-    "Replacement": "<color=orange>Dash</color>: Fully invincible, costs stamina\n\n<color=orange>Slide</color>: Greater distance, no invincibility\n\n<color=orange>Jump</color>: Quickly out of melee range, less control"
+    "Replacement": "<color=orange>Рывок</color>: Полная неуязвимость, требует выносливости\n\n<color=orange>Подкат</color>: Большая дистанция, нет неуязвимости\n\n<color=orange>Прыжокr>: Возможность быстро выйти из ближнего боя, меньше контроля"
   },
   {
     "Original": "<color=orange>Shotgun parries</color>: \n\nA <color=orange>point-blank</color> Shotgun shot to the <color=orange>torso</color> right before an enemy attack lands will deal massive damage.",
-    "Replacement": "<color=orange>Shotgun parries</color>: \n\nA <color=orange>point-blank</color> Shotgun shot to the <color=orange>torso</color> right before an enemy attack lands will deal massive damage."
+    "Replacement": "<color=orange>Парирование дробовика</color>: \n\nA <color=orange>в упор</color> Выстрел дробовика в <color=orange>тело</color> прямо перед атакой врага даст огромное количство урона по цели."
   },
   {
     "Original": "<Color=orange>Attack sound cues</color> allow you to keep track of enemies who are off screen.",
-    "Replacement": "<Color=orange>Attack sound cues</color> allow you to keep track of enemies who are off screen."
+   "Replacement": "<Color=orange>Звуковые сигналы атаки</color> позволяют вам сохранить счёт противников вне поля зрения."
   },
   {
     "Original": "Some enemies make <color=orange>idle sounds</color> to make them easier to track.",
-    "Replacement": "Some enemies make <color=orange>idle sounds</color> to make them easier to track."
+    "Replacement": "Некоторые враги издают звуки <color=orange>во время стояния на месте</color>, что делают легче их обнаржуение."
   },
   {
     "Original": "Use the <color=cyan>ATTRACTOR NAILGUN</color>'s magnets to form concentrated <color=orange>orbs</color> of nails that can be <color=orange>moved</color> around using the pull force of <color=orange>other magnets</color>.",
-    "Replacement": "Use the <color=cyan>ATTRACTOR NAILGUN</color>'s magnets to form concentrated <color=orange>orbs</color> of nails that can be <color=orange>moved</color> around using the pull force of <color=orange>other magnets</color>."
+   "Replacement": "Используйте магниты <color=cyan>АТТРАКТОР ГВОЗДОМЁТА</color> для создания <color=orange>сфер</color> из гвоздей, которые можно <color=orange>перемещать</color> вокруг с помощью силы <color=orange>других магнитов</color>."
   },
   {
     "Original": "Enemies <color=orange>can hurt</color> other enemy types.\n\nWith quick thinking and positioning, powerful enemies can turn into powerful weapons.",
-    "Replacement": "Враги <color=orange>могут ранить</color> других врагов.\n\nЕсли быстро думать и позицианироваться, мощные враги становятся мощными орудиями."
+    "Replacement": "Враги <color=orange>могут бить</color> другие типы врагов.\n\nС помощью быстрого продумыания и позиционирования, мощные враги могут стать мощными орудиями."
   },
   {
     "Original": "The <color=cyan>ATTRACTOR NAILGUN</color>'s magnets can be attached to enemies to make mobile targets easy to hit with nails.",
-    "Replacement": "Магниты<color=cyan>ГВОЗДЕМЁТА АТТРАКТОР</color> могут быть прикреплены к противникам для облегчения поподания гвоздями по мобильным целям."
+     "Replacement": "Магниты <color=cyan>АТТРАКТОР ГВОЗДОМЁТА</color> могут быть прикреплены к врагам для удобства поржаения магнитами двигающихся целей."
   },
   {
     "Original": "Enemies <color=orange>scream</color> when falling from a <color=orange>fatal height</color>.",
-    "Replacement": "Враги <color=orange>кричат</color>, когда падают со <color=orange>смертельной высоты</color>."
+    "Replacement": "Враги <color=orange>кричат</color> во время падения с <color=orange>фатальной высоты</color>."
   },
   {
     "Original": "<color=orange>SLAM BOUNCING</color>: Jump immediately after landing from a <color=orange>ground slam</color> to jump higher.\n\nThe longer the ground slam fall, the higher the bounce.",
-    "Replacement": "<color=orange>SLAM BOUNCING</color>: Jump immediately after landing from a <color=orange>ground slam</color> to jump higher.\n\nThe longer the ground slam fall, the higher the bounce."
+   "Replacement": "<color=orange>ХЛОПОК-ОТСКОК</color>: Подпрыгните сражу же после приземления от <color=orange>сотрясения земли</color> для прыжка выше.\n\nЧем дольше падение от сотрясения, тем больше отскок."
   },
   {
     "Original": "<color=orange>RAILCANNON</color> variations all share the same cooldown. Choose wisely which variation best fits the situation.",
-    "Replacement": "У всех вариаций <color=orange>РЕЛЬСОПУШКИ</color> общее время восстановления . Тщательно выбирайте, какая подходит под ситуацию."
+    "Replacement": "Все вариации <color=orange>РЕЛЬСОПУШКИ</color> делят одно и тоже время перезарядки. Выбирайте с умом подходящую вариацию, основываясь на ситуации."
   },
   {
     "Original": "<color=orange>SLIDING</color> will retain previous momentum for a short amount of time. \n\nChaining quick <color=orange>SLIDE JUMPS</color> after a <color=cyan>DASH JUMP</color> will give you incredible sustained speed.",
-    "Replacement": "<color=orange>SLIDING</color> will retain previous momentum for a short amount of time. \n\nChaining quick <color=orange>SLIDE JUMPS</color> after a <color=cyan>DASH JUMP</color> will give you incredible sustained speed."
+    "Replacement": "<color=orange>ПОДКАТ</color> сохранит прежний импульс в течение короткого промежутка времени. \n\nСоединяя быстрые <color=orange>ПРЫЖКИ С ПОДКАТАМИ</color> после <color=cyan>ПРЫЖКА С РЫВКОМ</color> дадут вам невероятную постоянную скорость."
   },
   {
     "Original": "<color=orange>Environmental hazards</color> such as harmful liquids will hurt enemies as well.",
-    "Replacement": "<color=orange>Опасности окружения</color>, такие как кислота, также вредят и врагам."
+    "Replacement": "<color=orange>Природные опасности</color>, такие как опасные жидкости будут наносить урон и по врагам тоже."
   },
   {
     "Original": "If you're having trouble keeping up with a tough enemy, <color=orange>stand back and observe</color>. \n\nEvery enemy has its <color=orange>tells</color> and <color=orange>patterns</color> and learning those can be your key to victory.",
-    "Replacement": "If you're having trouble keeping up with a tough enemy, <color=orange>stand back and observe</color>. \n\nEvery enemy has its <color=orange>tells</color> and <color=orange>patterns</color> and learning those can be your key to victory."
+    "Replacement": "Если у вас есть проблемы с поспеванием за крупным врагом, <color=orange>отступите и наблюдайте</color>. \n\nКаждый враг имеет свои <color=orange>фразы</color> и <color=orange>образцы поведения</color>, и их изучение станет ключом к вашей победе."
   },
   {
     "Original": "<color=orange>HITSCAN</color> weapons can be used to hit the shotgun's <color=cyan>CORE EJECT</color> in mid-air to increase its damage and blast radius.",
-    "Replacement": "<color=orange>ЛУЧОМ</color> оружия можно попасть в <color=cyan>ВЫПУЩЕНОЕ ЯДРО</color> дробовика в воздухе, чтобы увеличить наносимый его урон и область взрыва."
+    "Replacement": "<color=orange>ХИТСКАН</color> оружия могут быть использованы для попадания по выстрелу из <color=cyan>ЯДРОМЁТА</color> в воздухе для повышения его урона и радиуса взрыва."
   },
   {
     "Original": "<color=orange>POWER-UPS</color> can be stacked.",
-    "Replacement": "<color=orange>УСИЛЕНИЯ</color> накладываются друг на друга."
+    "Replacement": "<color=orange>УСИЛЕНИЯ</color> могут быть сложены вместе."
   },
   {
     "Original": "Hitting an enemy with only the <color=orange>edge</color> of an <color=orange>explosion</color> will launch them without dealing much damage, making it a risky but effective tool against <color=orange>Stalkers</color>.",
-    "Replacement": "Противник, задетый лишь <color=orange>краем</color> <color=orange>взрыва</color> улетит без получения болшого урона, за счёт чего так можно рискованно, но эффективно бороться со <color=orange>Сталкерами</color>."
+    "Replacement": "Попадание по врагу только <color=orange>краем</color> <color=orange>взрыва/color> обросит их без нанесения без огромного количества урона, делая это рискованным, но эффективным инструментом против <color=orange>Сталкеров</color>."
   },
   {
     "Original": "Airborne <color=orange>coins</color> can be shot with any <color=orange>hitscan</color> weapon.",
-    "Replacement": "<color=orange>Монеты</color> в полёте могут быть подстреляны любым <color=orange>лучом</color> от оружия."
+    "Replacement": "<color=orange>Монеты</color> в воздухе могут быть подстрелены любым  <color=orange>хитскан</color> оружием."
   },
   {
     "Original": "<color=orange>Parries</color> can be used as a powerful healing tool.\n\nParrying any enemy projectile or melee attack will <color=red>fully replenish your health</color> up to the hard damage limit.",
-    "Replacement": "<color=orange>Паррирование</color> может быть использовано как мощное средсто лечения.\n\nПаррирование любого снаряда или атаку ближнего боя <color=red>полностью восполнит ваше здоровье</color> до лимита тяжкого урона."
+    "Replacement": "<color=orange>Парирование</color> может быть изспользовано в виде мощного инструмент для лечения.\n\nПарирование любого вражеского снаряда <color=red>полностью восстановит ваше здоровье</color> до предела жёсткого урона."
   },
   {
     "Original": "If blown too far off the arena, <color=lime>PUMP CHARGE</color>'s overcharge is a good way to get back.",
-    "Replacement": "Если вас откинуло далеко от арены, взрыв <color=lime>ПОМПЫ</color> неплохой способ вернуться обратно."
+    "Replacement": "Если вас откинуло далеко от арены, взрыв <color=lime>ПОМПЫ</color> будет неплохим способом вернуться обратно."
   }
 ]
