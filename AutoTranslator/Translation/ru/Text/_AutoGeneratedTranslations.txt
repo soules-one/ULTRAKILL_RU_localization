@@ -56,7 +56,7 @@ SLOT 4=СЛОТ 4
 Left Mouse Button=Левая Кнопка Мыши
 PUNCH=УДАР
 WEAPONS=ОРУЖИЕ
-ALT FIRE=АЛЬТЕРНАТИВНЫЙ ОГОНЬ
+ALT FIRE=АЛЬТ. ОГОНЬ
 --CONTROLS--=--УПРАВЛЕНИЕ--
 Left Shift=Левый Shift
 -- WEAPONS --=-- ОРУЖИЕ --
@@ -260,7 +260,7 @@ LUST=ПОХОТЬ
 LIMBO=ЛИМБ
 DO NOT PICK UP ANY SKULLS=НЕ ПОДБИРАЙ НИ ЕДИНОГО ЧЕРЕПА
 GLUTTONY=ОБЖОРСТВО
-RETURN TO MISSION=ВЕРНУТЬСЯ К ЗАДАНИЮ
+RETURN TO MISSION=ВЕРНУТЬСЯ К МИССИИ
 --MENU--=--МЕНЮ--
 --TIP OF THE DAY--=--СОВЕТ ДНЯ--
 CHECKPOINT=ЧЕКПОИНТ
@@ -745,3 +745,63 @@ UNCOUNTABLE CYCLES OF CREATION WASTED\nUNCOUNTABLE FORMULAS FOR A MIND WITHOUT F
 TERMINAL DATA 01 <color%3Dred>[ENCRYPTED]</color>\r\nINTRODUCTION TO TERMINALS \n<color%3Dgrey>(DRAFT! DO NOT SEND!! // todo: ADD PICTURES SO THOSE FUCKING SUITS DON'T FALL ASLEEP LIKE LAST TIME) \r</color>\n\r\nThe elevator room terminals are an advanced interconnected network built for the purpose of transferring materials and tools between different areas. They are capable of transferring physical material as information across a radio signal, which other terminals can receive and use to reconstruct the sent object. The original item is lost, as it is transformed into the energy that is used to transmit the material information, and the process is quite slow due to the amount of information that physical matter holds.\r\n\r\nAn early test of a matter transfer's accuracy was a mint condition 78rpm vinyl record, which was sent from the lab to all connected terminals. The vinyl was a single of Russ Morgan Orchestra's recording of the piece Were You Foolin' (a favorite of the CRO), though the label was removed to reduce the amount of matter to be transferred.\r\n<size=5><color%3Dgrey>[note: fuck you tom im so fucking tired of this stupid song and having to listen to it every morning over your garbage intercom]</color></size>\r\n\r\nSoon after, the Hell exploration and excavation project was abandoned and this vinyl record remained the only matter to have been succesfully transferred before connection between the surface and the terminals was lost.\r\n\r\nThe terminals now use the record to lure machines into a symbiotic relationship (For further information, see TERMINAL DATA 02: <color%3Dred>[LINK REMOVED]</color>). However, the terminals only play short instrumental sections of the original record for undetermined reasons.\r\n\r\nSome researchers have joked that perhaps the terminals are simply \"too shy to sing\", though rumors have been spreading of mechanics who, after fixing a faulty or broken terminal, said to have heard the terminal play a vocal section when only the mechanic is present with no recording equipment, making this an unverifiable claim.\r\n\r\nEND OF DATA 01. For more information, see <color%3Dred>[LINK REMOVED]</color> and \n<color%3Dred>[LINK REMOVED]</color>.=ДАННЫЕ О ТЕРМИНАЛАХ 01 <color%3Dred>[ЗАШИФОРВАНО]</color>\r\nВВОДНАЯ ИНФОРМАЦИЯ О ТЕРМИНАЛАХ\n<color%3Dgrey>(ЧЕРНОВИК! НЕ ОТПРАВЛЯТЬ!! // todo: ДОБАВИТЬ КАРТИНОК, ЧТОБЫ ЭТИ СРАНЫЕ ШТАБНЫЕ КРЫСЫ НЕ УСНУЛИ КАК В ПРОШЛЫЙ РАЗ) \r</color>\n\r\nТерминалы лифтовой комнаты – это продвинутая взаимосвязанная сеть, построенная с целью простой переправки материалов и инструментов между различными зонами. Они могут передавать физические объекты в виде информации через радиоволны, которые остальные терминалы в сети могут принимать  и использовать для воссоздания изначального объекта. Изначальный объект в процессе пропадает, трансформируясь в энергию, используемую для передачи информации, а так же процесс занимает довольно много времени, из-за количества информации, хранящейся в физических объектах. \r\n\r\nДля раннего теста точности передачи материи использовалась виниловая пластинка на 78 оборотов в минуту, которая была отправлена из лаборатории всем терминалам. Данная пластинка была синглом оркестра Расса Моргана Were You Foolin' (любимая песня директора по репутации), однако обложка была удалена, чтобы уменьшить количество передаваемой информации.\r\n<size=8><color%3Dgrey>[заметка: том иди нахуй ты заебал включать её через свой сраный интерком]</color></size>\r\n\r\nВскоре, после сворачивания проекта исследования и раскопок Ада, данная виниловая пластинка стала единственным объектом, успешно перенесённым до того, как связь поверхности с терминалами прервалась. \r\n\r\nТеперь терминалы используют эту запись для заманивания машин в симбиотическую связь (Для получения дополнительной информации см. раздел ДАННЫЕ О ТЕРМИНАЛАХ 02: <color%3Dred>[ССЫЛКА УДАЛЕНА]</color>). Однако, по неопределенным причинам, терминалы воспроизводят только короткий инструментальный фрагмент оригинальной записи.\r\n\r\nНекоторые исследователи в шутку говорят, что терминалы просто \"стесняются петь \", однако ходит слух о механиках, которые слышали вокальный фрагмент после починки сломанного терминала, но только когда у механика не было с собой записывающего оборудования, из-за чего это заявление подтвердить невозможно.\r\n\r\nКОНЕЦ ФАЙЛА 01. Для получения дополнительной информации см. <color%3Dred>[ССЫЛКА УДАЛЕНА]</color> и \n<color%3Dred>[ССЫЛКА УДАЛЕНА]</color>.
 #Books and terminals
 
+#SETTINGS
+"<color%3Dorange>Major Assists</color>" consists of modifiers that change the game and its balance <color%3Dorange>considerably</color>.\n\nIf "Major Assists" is enabled <color%3Dorange>at any point</color> during a mission, the rank gained upon completion will have a blue background. This background <color%3Dorange>can be removed</color> by achieving <color%3Dorange>the same rank or higher</color> with "Major Assists" disabled for the duration of the <color%3Dorange>entire</color> mission.\n\n"<color%3Dyellow>Perfect</color>" ranks and Cyber Grind high scores cannot be achieved with "Major Assists" enabled.="<color%3Dorange>Значительная Помощь</color>" включает в себя модификаторы, <color%3Dorange>серьёзно</color> меняющие игру и её баланс.\n\nЕсли "Значительная Помощь" была включена <color%3Dorange>в любой момент</color> во время миссии, ранк, полученный по завершении, будет иметь синий фон. Этот фон <color%3Dorange>можно убрать</color> достижением <color%3Dorange>того же или более высокого ранга</color> с выключенной "Значительной Помощью" на протежении <color%3Dorange>всей</color> миссии.\n\n Ранг"<color%3Dyellow>Perfect</color>" и рекорды Кибер Гринда не могут быть достигнуты, пока включена "Значительная Помощь".
+VARIATIONS=ВАРИАЦИИ
+BOTH=ОБА
+CUSTOM COLOR PALETTE=СВОЯ ЦВЕТОВАЯ ПАЛИТРА
+ALWAYS ON TOP= ВСЕГДА ВИДЕН
+--HUD ELEMENTS--=--ЭЛЕМЕНТЫ ИНТЕРФЕЙСА--
+CHEAT & SANDBOX ICONS=ИКОНКИ ЧИТОВ И ПЕСОЧНИЦЫ
+CROSSHAIR HUD FADE=ИСЧЕНЗНОВЕНИЕ ИНТЕРФЕЙСА ПРИЦЕЛА
+DELETE=УДАЛИТЬ
+OUTLINE ONLY=ТОЛЬКО ГРАНИЦЫ
+ACTIVATION DISTANCE=ДИСТАНЦИЯ ДО АКТИВАЦИИ
+ALWAYS ON=ВСЕГДА ВКЛЮЧЕНО
+DITHERING=DITHERING(ПЕРЕВЕСТИ)
+#SETTINGS
+
+# 0-2
+PRELUDE %2F%2F=ПРЕЛЮДИЕ %2F%2F
+PRELUDE %2F%2F/=ПРЕЛЮДИЕ %2F%2F/
+PRELUDE %2F%2F/ S=ПРЕЛЮДИЕ %2F%2F/ В
+PRELUDE %2F%2F/ SE=ПРЕЛЮДИЕ %2F%2F/ ВТ
+PRELUDE %2F%2F/ SEC=ПРЕЛЮДИЕ %2F%2F/ ВТО
+PRELUDE %2F%2F/ SECO=ПРЕЛЮДИЕ %2F%2F/ ВТОР
+PRELUDE %2F%2F/ SECON=ПРЕЛЮДИЕ %2F%2F/ ВТОРО
+PRELUDE %2F%2F/ SECOND=ПРЕЛЮДИЕ %2F%2F/ ВТОРОЙ
+# 0-2
+# 0-S
+You have found a <color%3Dorange>SECRET MISSION</color>.=Вы нашли <color%3Dorange>СЕКРЕТНУЮ МИССИЮ</color>.
+Something wicked this way comes.= Что-то страшное грядёт.
+0-S: SOMETHING WICKED=0-S: ЧТО-ТО СТРАШНОЕ
+MISSION:=МИССИЯ:
+COMPLETE=ВЫПОЛНЕНА
+# 0-S 
+# 0-3
+PRELUDE %2F%2F=ПРЕЛЮДИЕ %2F%2F
+PRELUDE %2F%2F/=ПРЕЛЮДИЕ %2F%2F/
+PRELUDE %2F%2F/ T=ПРЕЛЮДИЕ %2F%2F/ Т
+PRELUDE %2F%2F/ TH=ПРЕЛЮДИЕ %2F%2F/ ТР
+PRELUDE %2F%2F/ THI=ПРЕЛЮДИЕ %2F%2F/ ТРЕ
+PRELUDE %2F%2F/ THIR=ПРЕЛЮДИЕ %2F%2F/ ТРЕТИ
+PRELUDE %2F%2F/ THIRD=ПРЕЛЮДИЕ %2F%2F/ ТРЕТИЙ
+DOUBLE DOWN=ВНИЗ И ВНИЗ
+<color%3Dcyan>SHOTGUN</color>: Press '<color%3Dorange>Right Button</color>' to fire an explosive. Hold to charge distance.=<color%3Dcyan>ДРОБОВИК</color>: Нажми '<color%3Dorange>Правую Кнопку Мыши</color>', чтобы выпустить взрывной заряд. Удерживай для увеличения дальности.
+# 0-3
+# 0-4
+PRELUDE %2F%2F=ПРЕЛЮДИЕ %2F%2F
+PRELUDE %2F%2F/=ПРЕЛЮДИЕ %2F%2F/
+PRELUDE %2F%2F/ F=ПРЕЛЮДИЕ %2F%2F/ Ч
+PRELUDE %2F%2F/ FO=ПРЕЛЮДИЕ %2F%2F/ ЧЕ
+PRELUDE %2F%2F/ FOU=ПРЕЛЮДИЕ %2F%2F/ ЧЕТ
+PRELUDE %2F%2F/ FOUR=ПРЕЛЮДИЕ %2F%2F/ ЧЕТВ
+PRELUDE %2F%2F/ FOURT=ПРЕЛЮДИЕ %2F%2F/ ЧЕТВЁР
+PRELUDE %2F%2F/ FOURTH=ПРЕЛЮДИЕ %2F%2F/ ЧЕТВЁРТЫЙ
+A ONE-MACHINE ARMY=ОДИН В ПОЛЕ ВОЙН
+<color%3Dred>RED SOUL ORBS</color> give <color%3Dlime>200 HEALTH</color>. \nOverheal cannot be regained with blood.=<color%3Dred>КРАСНЫЕ СФЕРЫ ДУШ</color> дают <color%3Dlime>200 ЕДИНИЦ ЗДОРОВЬЯ</color>. \nИзбыток здоровья нельзя восстановить кровью.
+SLIDE UNINTERUPTED FOR 17 SECONDS=ПРОСКОЛЬЗИ НЕПРЕРВАННЫМ 17 СЕКУНД
+# 0-4
+# 0-5
+
+# 0-5

@@ -1,0 +1,10 @@
+PRELUDE %2F%2F=ПРЕЛЮДИЕ %2F%2F
+PRELUDE %2F%2F/=ПРЕЛЮДИЕ %2F%2F/
+PRELUDE %2F%2F/ C=ПРЕЛЮДИЕ %2F%2F/ КУ
+PRELUDE %2F%2F/ CL=ПРЕЛЮДИЕ %2F%2F/ КУЛЬ
+PRELUDE %2F%2F/ CLI=ПРЕЛЮДИЕ %2F%2F/ КУЛЬМИ
+PRELUDE %2F%2F/ CLIM=ПРЕЛЮДИЕ %2F%2F/ КУЛЬМИНА
+PRELUDE %2F%2F/ CLIMA=ПРЕЛЮДИЕ %2F%2F/ КУЛЬМИНАЦИ
+PRELUDE %2F%2F/ CLIMAX=ПРЕЛЮДИЕ %2F%2F/ КУЛЬМИНАЦИЯ
+DON'T INFLICT FATAL DAMAGE TO ANY ENEMY=НЕ НАНЕСИ ФАТАЛЬНЫЙ УРОН ЛЮБОМУ ВРАГУ
+CERBERUS, GUARDIAN OF HELL=ЦЕРБЕР, СТРАЖ АДА
