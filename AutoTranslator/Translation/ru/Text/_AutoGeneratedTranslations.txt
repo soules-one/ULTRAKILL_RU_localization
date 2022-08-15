@@ -683,7 +683,7 @@ Enabling cheats means you will not gain a rank upon completion of a level and a 
 #Tips of the day
 <color%3Dorange>Hitscan weapons</color> like the Revolver do <color%3Dorange>locational damage</color>.\n\nA <color%3Dorange>headshot</color> deals <color%3Dorange>2x</color> damage and a <color%3Dorange>limbshot</color> deals <color%3Dorange>1.5x</color> damage.=<color%3Dorange>Выстрел в голову (headshot) из револьвера</color> наносит <color%3Dorange>2x</color> урон, а <color%3Dorange>выстрел в конечность (limbshot)</color> наносит <color%3Dorange>1.5x</color> урон.
 Enemies <color%3Dorange>can hurt</color> other enemy types.\n\nWith quick thinking and positioning, powerful enemies can turn into powerful weapons.=Враги <color%3Dorange>могут ранить</color> других врагов.\n\nЕсли быстро думать и позицианироваться, мощные враги становятся мощными орудиями.
-The <color%3Dcyan>ATTRACTOR NAILGUN</color>'s magnets can be attached to enemies to make mobile targets easy to hit with nails.=Магниты<color%3Dcyan>ГВОЗДЕМЁТА ATTRACTOR</color> могут быть прикреплены к противникам для облегчения поподания гвоздями по мобильным целям.
+The <color%3Dcyan>ATTRACTOR NAILGUN</color>'s magnets can be attached to enemies to make mobile targets easy to hit with nails.=Магниты <color%3Dcyan>ГВОЗДЕМЁТА ATTRACTOR</color> могут быть прикреплены к противникам для облегчения поподания гвоздями по мобильным целям.
 Enemies <color%3Dorange>scream</color> when falling from a <color%3Dorange>fatal height</color>.=Враги <color%3Dorange>кричат</color>, когда падают со <color%3Dorange>смертельной высоты</color>.
 <color%3Dorange>RAILCANNON</color> variations all share the same cooldown. Choose wisely which variation best fits the situation.=У всех вариаций <color%3Dorange>РЕЛЬСОТРОНА</color> общее время восстановления . Тщательно выбирайте, какая подходит под ситуацию.
 <color%3Dorange>Environmental hazards</color> such as harmful liquids will hurt enemies as well.=<color%3Dorange>Опасности окружения</color>, такие как кислота, также вредят и врагам.
@@ -805,3 +805,5 @@ SLIDE UNINTERUPTED FOR 17 SECONDS=ПРОСКОЛЬЗИ НЕПРЕРВАННЫМ 
 # 0-5
 
 # 0-5
+Л=C
+C=C
