@@ -802,8 +802,13 @@ A ONE-MACHINE ARMY=ОДИН В ПОЛЕ ВОЙН
 <color%3Dred>RED SOUL ORBS</color> give <color%3Dlime>200 HEALTH</color>. \nOverheal cannot be regained with blood.=<color%3Dred>КРАСНЫЕ СФЕРЫ ДУШ</color> дают <color%3Dlime>200 ЕДИНИЦ ЗДОРОВЬЯ</color>. \nИзбыток здоровья нельзя восстановить кровью.
 SLIDE UNINTERUPTED FOR 17 SECONDS=ПРОСКОЛЬЗИ НЕПРЕРВАННЫМ 17 СЕКУНД
 # 0-4
-# 0-5
-
-# 0-5
-Л=C
-C=C
+MISSION RESTART/QUIT WARNING=ПРЕДУПРЕЖДЕНИЕ О РЕСТАРТЕ/ВЫХОДЕ
+CREDITS=ТИТРЫ
+\n\n\n\nWITH VOICE ACTING BY:\n\n<color\=orange>GIANNI MATRAGRANO</color> (GABRIEL)\n<color\=orange>STEPHAN WEYTE</color> (MINOS PRIME)\n<color\=orange>MANDALORE HERRINGTON</color> (MDK)\n<color\=orange>JUST SHAMMY</color> (& OWL)\n\n\n\nAND QUALITY ASSURANCE BY:\n<color\=orange>CAMERON MARTIN</color> (LEAD QA)\n<color\=orange>TUCKER WILKIN</color> (SENIOR QA)\n<color\=orange>SCOTT GURNEY</color> (TECHNICAL QA)\n<color\=orange>DALIA FIGUEROA</color> (QA & PROMO MATERIAL)\n\n\n\n(WE'LL DO PROPER CREDITS LATER)=\n\n\n\nОЗВУЧИВАЛИ РОЛИ:\n\n<color\=orange>ДЖАННИ МАТРАГРАНО</color> (ГАВРИИЛ)\n<color\=orange>СТЕФАН ВЕЙТЕ</color> (МИНОС ПРАЙМ)\n<color\=orange>МАНГАЛОР ХЕРРИНГТОН</color> (MDK)\n<color\=orange>ПРОСТО ШАММИ</color> (и ФИЛИН)\n\n\n\nИ КОНТРОЛЬ КАЧЕСТВА:\n<color\=orange>КЭМЕРОН МАРТИН</color> (LEAD QA)\n<color\=orange>ТАКЕР УИЛКИН</color> (SENIOR QA)\n<color\=orange>СКОТТ ГУРНИ</color> (TECHNICAL QA)\n<color\=orange>ДАЛИЯ ФИГЕРОА</color> (QA И ПРОМО-МАТЕРИАЛЫ)\n\n\n\n(СДЕЛАЕМ НОРМАЛЬНЫЕ ТИТРЫ ПОЗЖЕ)
+[ DIFFICULTY CAN BE FURTHER ADJUSTED IN ASSIST OPTIONS MENU ]=[СЛОЖНОСТЬ МОЖЕТ БЫТЬ ДОПОЛНИТЕЛЬНО ИЗМЕНЕНА В МЕНЮ НАСТРОЕК ПОМОЩИ]
+ACCESSIBLE=ДОСТУПНО
+--HARMLESS--=-БЕЗВРЕДНО-
+VERY HARD=ОЧЕНЬ СЛОЖНО
+High damage but slower attacks and passive enemies.\n\nTension is still high, but damage is easier to avoid.\n\n<color\=yellow>Recommended for players who want a less strict gameplay experience.</color>=Высокий урон, но медленный атаки и пассивные враги.\n\nНапряжение высоко, но избежать атак легче.\n\n<color\=yellow>Рекомендовано для игроков, которые хотят получить менее суровый игровой опыт.</color>
+Normal enemies and high damage. \n\nAttacks are easy to avoid, but carelessness will result in a swift death.\n\n<color\=orange>For players who want a challenge. Recommended starting difficulty.</color>=Нормальные враги и высокий урон. \n\nАтак легко избежать, но неосторожность может обернуться быстрой смертью.\n\n<color\=orange>Для игроков, жаждущих испытаний. Рекомендованная начальная сложность.</color>
+FINALE=ФИНАЛ
