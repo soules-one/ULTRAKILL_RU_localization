@@ -269,7 +269,7 @@ RESUME=ВОЗОБНОВИТЬ
 RESTART MISSION=НАЧАТЬ С НАЧАЛА
 QUIT MISSION=ПОКИНУТЬ МИССИЮ
 DROP GABRIEL IN A PIT=СБРОСЬ ГАВРИИЛА В ПРОПАСТЬ
-GLUTTONY %2F%2F/ ACT I CLIMAX=ЧРЕВОУГОДИЕ %2F%2F/ КУЛЬМИНАЦИЯ I АКТА
+GLUTTONY \/\// ACT I CLIMAX=ЧРЕВОУГОДИЕ \/\// КУЛЬМИНАЦИЯ I АКТА
 IN THE FLESH=ВО ПЛОТИ
 FRESH WEAPON BONUS=БОНУС ЗА СМЕНУ ОРУЖИЯ
 [YOU ARE DEAD]\n\n\n\n\n\nPress [R] TO RESTART=[ТЫ МЕРТВ]\n\n\n\n\n\nНАЖМИ [R] ДЛЯ РЕСТАРТА
@@ -405,10 +405,10 @@ Kill All Enemies=Убей всех врагов
 
 GABRIEL, JUDGE OF HELL=ГАВРИИЛ, СУДЬЯ АДА
 
-GLUTTONY %2F%2F/ ACT I CL=ОБЖОРСТВО %2F%2F/ КУЛЬМИНАЦИЯ I А
-GLUTTONY %2F%2F/ ACT I CLI=ОБЖОРСТВО %2F%2F/ КУЛЬМИНАЦИЯ I АК
-GLUTTONY %2F%2F/ ACT I CLIM=ОБЖОРСТВО %2F%2F/ КУЛЬМИНАЦИЯ I АКТ
-GLUTTONY %2F%2F/ ACT I CLIMA=ОБЖОРСТВО %2F%2F/ КУЛЬМИНАЦИЯ I АКТА
+GLUTTONY \/\// ACT I CL=ОБЖОРСТВО \/\// КУЛЬМИНАЦИЯ I А
+GLUTTONY \/\// ACT I CLI=ОБЖОРСТВО \/\// КУЛЬМИНАЦИЯ I АК
+GLUTTONY \/\// ACT I CLIM=ОБЖОРСТВО \/\// КУЛЬМИНАЦИЯ I АКТ
+GLUTTONY \/\// ACT I CLIMA=ОБЖОРСТВО \/\// КУЛЬМИНАЦИЯ I АКТА
 IN T=В
 IN TH=ВО 
 IN THE=ВО 
@@ -545,13 +545,13 @@ CREATED WITH THE <color%3Dorange>HELP</color> OF:\n\nSAM <color%3Dorange>BRYAN</
 
 Press <color%3Dorange>ESC</color> to skip=Нажми <color%3Dorange>ESC</color> для пропуска 
 
-PRELUDE %2F%2F=ПРЕЛЮДИЕ %2F%2F
-PRELUDE %2F%2F/=ПРЕЛЮДИЕ %2F%2F/
-PRELUDE %2F%2F/ F=ПРЕЛЮДИЕ %2F%2F/ П
-PRELUDE %2F%2F/ FI=ПРЕЛЮДИЕ %2F%2F/ ПЕ
-PRELUDE %2F%2F/ FIR=ПРЕЛЮДИЕ %2F%2F/ ПЕР
-PRELUDE %2F%2F/ FIRS=ПРЕЛЮДИЕ %2F%2F/ ПЕРВ
-PRELUDE %2F%2F/ FIRST=ПРЕЛЮДИЕ %2F%2F/ ПЕРВЫЙ
+PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
+PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
+PRELUDE \/\// F=ПРЕЛЮДИЕ \/\// П
+PRELUDE \/\// FI=ПРЕЛЮДИЕ \/\// ПЕ
+PRELUDE \/\// FIR=ПРЕЛЮДИЕ \/\// ПЕР
+PRELUDE \/\// FIRS=ПРЕЛЮДИЕ \/\// ПЕРВ
+PRELUDE \/\// FIRST=ПРЕЛЮДИЕ \/\// ПЕРВЫЙ
 
 I=В
 IN=В П
@@ -762,14 +762,14 @@ DITHERING=DITHERING(ПЕРЕВЕСТИ)
 #SETTINGS
 
 # 0-2
-PRELUDE %2F%2F=ПРЕЛЮДИЕ %2F%2F
-PRELUDE %2F%2F/=ПРЕЛЮДИЕ %2F%2F/
-PRELUDE %2F%2F/ S=ПРЕЛЮДИЕ %2F%2F/ В
-PRELUDE %2F%2F/ SE=ПРЕЛЮДИЕ %2F%2F/ ВТ
-PRELUDE %2F%2F/ SEC=ПРЕЛЮДИЕ %2F%2F/ ВТО
-PRELUDE %2F%2F/ SECO=ПРЕЛЮДИЕ %2F%2F/ ВТОР
-PRELUDE %2F%2F/ SECON=ПРЕЛЮДИЕ %2F%2F/ ВТОРО
-PRELUDE %2F%2F/ SECOND=ПРЕЛЮДИЕ %2F%2F/ ВТОРОЙ
+PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
+PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
+PRELUDE \/\// S=ПРЕЛЮДИЕ \/\// В
+PRELUDE \/\// SE=ПРЕЛЮДИЕ \/\// ВТ
+PRELUDE \/\// SEC=ПРЕЛЮДИЕ \/\// ВТО
+PRELUDE \/\// SECO=ПРЕЛЮДИЕ \/\// ВТОР
+PRELUDE \/\// SECON=ПРЕЛЮДИЕ \/\// ВТОРО
+PRELUDE \/\// SECOND=ПРЕЛЮДИЕ \/\// ВТОРОЙ
 # 0-2
 # 0-S
 You have found a <color%3Dorange>SECRET MISSION</color>.=Вы нашли <color%3Dorange>СЕКРЕТНУЮ МИССИЮ</color>.
@@ -779,25 +779,25 @@ MISSION:=МИССИЯ:
 COMPLETE=ВЫПОЛНЕНА
 # 0-S 
 # 0-3
-PRELUDE %2F%2F=ПРЕЛЮДИЕ %2F%2F
-PRELUDE %2F%2F/=ПРЕЛЮДИЕ %2F%2F/
-PRELUDE %2F%2F/ T=ПРЕЛЮДИЕ %2F%2F/ Т
-PRELUDE %2F%2F/ TH=ПРЕЛЮДИЕ %2F%2F/ ТР
-PRELUDE %2F%2F/ THI=ПРЕЛЮДИЕ %2F%2F/ ТРЕ
-PRELUDE %2F%2F/ THIR=ПРЕЛЮДИЕ %2F%2F/ ТРЕТИ
-PRELUDE %2F%2F/ THIRD=ПРЕЛЮДИЕ %2F%2F/ ТРЕТИЙ
+PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
+PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
+PRELUDE \/\// T=ПРЕЛЮДИЕ \/\// Т
+PRELUDE \/\// TH=ПРЕЛЮДИЕ \/\// ТР
+PRELUDE \/\// THI=ПРЕЛЮДИЕ \/\// ТРЕ
+PRELUDE \/\// THIR=ПРЕЛЮДИЕ \/\// ТРЕТИ
+PRELUDE \/\// THIRD=ПРЕЛЮДИЕ \/\// ТРЕТИЙ
 DOUBLE DOWN=ВНИЗ И ВНИЗ
 <color%3Dcyan>SHOTGUN</color>: Press '<color%3Dorange>Right Button</color>' to fire an explosive. Hold to charge distance.=<color%3Dcyan>ДРОБОВИК</color>: Нажми '<color%3Dorange>Правую Кнопку Мыши</color>', чтобы выпустить взрывной заряд. Удерживай для увеличения дальности.
 # 0-3
 # 0-4
-PRELUDE %2F%2F=ПРЕЛЮДИЕ %2F%2F
-PRELUDE %2F%2F/=ПРЕЛЮДИЕ %2F%2F/
-PRELUDE %2F%2F/ F=ПРЕЛЮДИЕ %2F%2F/ Ч
-PRELUDE %2F%2F/ FO=ПРЕЛЮДИЕ %2F%2F/ ЧЕ
-PRELUDE %2F%2F/ FOU=ПРЕЛЮДИЕ %2F%2F/ ЧЕТ
-PRELUDE %2F%2F/ FOUR=ПРЕЛЮДИЕ %2F%2F/ ЧЕТВ
-PRELUDE %2F%2F/ FOURT=ПРЕЛЮДИЕ %2F%2F/ ЧЕТВЁР
-PRELUDE %2F%2F/ FOURTH=ПРЕЛЮДИЕ %2F%2F/ ЧЕТВЁРТЫЙ
+PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
+PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
+PRELUDE \/\// F=ПРЕЛЮДИЕ \/\// Ч
+PRELUDE \/\// FO=ПРЕЛЮДИЕ \/\// ЧЕ
+PRELUDE \/\// FOU=ПРЕЛЮДИЕ \/\// ЧЕТ
+PRELUDE \/\// FOUR=ПРЕЛЮДИЕ \/\// ЧЕТВ
+PRELUDE \/\// FOURT=ПРЕЛЮДИЕ \/\// ЧЕТВЁР
+PRELUDE \/\// FOURTH=ПРЕЛЮДИЕ \/\// ЧЕТВЁРТЫЙ
 A ONE-MACHINE ARMY=ОДИН В ПОЛЕ ВОЙН
 <color%3Dred>RED SOUL ORBS</color> give <color%3Dlime>200 HEALTH</color>. \nOverheal cannot be regained with blood.=<color%3Dred>КРАСНЫЕ СФЕРЫ ДУШ</color> дают <color%3Dlime>200 ЕДИНИЦ ЗДОРОВЬЯ</color>. \nИзбыток здоровья нельзя восстановить кровью.
 SLIDE UNINTERUPTED FOR 17 SECONDS=ПРОСКОЛЬЗИ НЕПРЕРВАННЫМ 17 СЕКУНД
@@ -812,3 +812,8 @@ VERY HARD=ОЧЕНЬ СЛОЖНО
 High damage but slower attacks and passive enemies.\n\nTension is still high, but damage is easier to avoid.\n\n<color\=yellow>Recommended for players who want a less strict gameplay experience.</color>=Высокий урон, но медленный атаки и пассивные враги.\n\nНапряжение высоко, но избежать атак легче.\n\n<color\=yellow>Рекомендовано для игроков, которые хотят получить менее суровый игровой опыт.</color>
 Normal enemies and high damage. \n\nAttacks are easy to avoid, but carelessness will result in a swift death.\n\n<color\=orange>For players who want a challenge. Recommended starting difficulty.</color>=Нормальные враги и высокий урон. \n\nАтак легко избежать, но неосторожность может обернуться быстрой смертью.\n\n<color\=orange>Для игроков, жаждущих испытаний. Рекомендованная начальная сложность.</color>
 FINALE=ФИНАЛ
+Are you sure you want to\n<color\=orange>QUIT</color> this mission?=Вы уверены, что хотите\n<color\=orange>ПОКИНУТЬ</color> эту миссиию?
+Are you sure you want to\n<color\=orange>RESTART</color> this mission?=Вы уверены, что хотите\n<color\=orange>НАЧАТЬ С НАЧАЛА</color> эту миссиию?
+This pop-up can be disabled in the options menu=Это всплывающее окно можно отключить в настройках
+RESTART=НАЧАТЬ С НАЧАЛА
+Taking damage <color\=orange>TEMPORARILY</color> reduces your <color\=orange>MAXIMUM HP</color>.\n"<color\=silver>HARD DAMAGE</color>" recovers faster when playing <color\=orange>STYLISHLY</color>.=Получение урона <color\=orange>ВРЕМЕННО</color> уменьшает твоё <color\=orange>МАКСИМАЛЬНОЕ ЗДОРОВЬЕ</color>.\n"<color\=silver>HARD DAMAGE</color>" восстановится быстрее, если играть <color\=orange>СТИЛЬНО</color>.

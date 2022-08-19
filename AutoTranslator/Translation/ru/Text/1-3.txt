@@ -1,5 +1,4 @@
 LIMBO %2F%2F=ЛИМБ %2F%2F
-LIMBO %2F%2F=ЛИМБ %2F%2F
 LIMBO %2F%2F/=ЛИМБ %2F%2F/
 LIMBO %2F%2F/ =ЛИМБ %2F%2F/ 
 LIMBO %2F%2F/ T=ЛИМБ %2F%2F/ Т
@@ -7,6 +6,7 @@ LIMBO %2F%2F/ TH=ЛИМБ %2F%2F/ ТР
 LIMBO %2F%2F/ THI=ЛИМБ %2F%2F/ ТРЕ
 LIMBO %2F%2F/ THIR=ЛИМБ %2F%2F/ ТРЕТ
 LIMBO %2F%2F/ THIRD=ЛИМБ %2F%2F/ ТРЕТИЙ
+LIMBO %2F%2F/ THIRD=
 <color%3Dred>SPLIT</color> <color%3Dcyan>COLOR</color> doors only require <color%3Dred>ONE</color> <color%3Dcyan>SKULL</color> to open.\nIf you do not seek hardship, stay indoors.=Двери с <color%3Dred>РАЗДЕЛЁНЫМИ</color> <color%3Dcyan>ЦВЕТАМИ</color> требуют только <color%3Dred>ОДИН</color> <color%3Dcyan>ЧЕРЕП</color> для открытия.\nЕсли вы не ищите сложностей, не заходите далеко.
 HIDEOUS MASS=УЖАСАЮЩАЯ МАССА
 
