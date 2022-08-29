@@ -1,4 +1,4 @@
 
-PRELUDE \/\// CLIMAX=ПРЕЛЮДИЕ \/\// КУЛЬМИНАЦИЯ
+PRELUDE \/\// CLIMAX=ПРЕЛЮДИЯ \/\// КУЛЬМИНАЦИЯ
 DON'T INFLICT FATAL DAMAGE TO ANY ENEMY=НЕ НАНЕСИ ФАТАЛЬНЫЙ УРОН ЛЮБОМУ ВРАГУ
 CERBERUS, GUARDIAN OF HELL=ЦЕРБЕР, СТРАЖ АДА
