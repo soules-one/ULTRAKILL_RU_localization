@@ -216,7 +216,7 @@ High damage but slower attacks and passive enemies.\n\nTension is still high, bu
 --LENIENT--=--СНИСХОДИТЕЛЬНО--
 Absurdly slow enemies and attacks.\n\nDamage is still high, but even a mountain could dodge them.\n\n<color%3Dlime>Recommended for players who want a stress-free experience.</color>=Абсурдно медленные враги и атаки.\n\nУрон всё ещё высокий, но даже гора сможет от них увернуться.\n\n<color%3Dlime>Рекомендуется для игроков, которые хотят просто пострелять без стресса.</color>
 ACT II: IMPERFECT HATRED=АКТ II: НЕСОВЕРШЕННАЯ НЕНАВИСТЬ
-PRELUDE=ПРЕЛЮДИЕ
+PRELUDE=ПРЕЛЮДИЯ
 SANDBOX=ПЕСОЧНИЦА
 ACT I: INFINITE HYPERDEATH=АКТ I: БЕСКОНЕЧНАЯ ГИПЕРСМЕРТЬ
 --CHAPTER--=--ГЛАВА--
@@ -545,13 +545,13 @@ CREATED WITH THE <color%3Dorange>HELP</color> OF:\n\nSAM <color%3Dorange>BRYAN</
 
 Press <color%3Dorange>ESC</color> to skip=Нажми <color%3Dorange>ESC</color> для пропуска 
 
-PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
-PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
-PRELUDE \/\// F=ПРЕЛЮДИЕ \/\// П
-PRELUDE \/\// FI=ПРЕЛЮДИЕ \/\// ПЕ
-PRELUDE \/\// FIR=ПРЕЛЮДИЕ \/\// ПЕР
-PRELUDE \/\// FIRS=ПРЕЛЮДИЕ \/\// ПЕРВ
-PRELUDE \/\// FIRST=ПРЕЛЮДИЕ \/\// ПЕРВЫЙ
+PRELUDE \/\//=ПРЕЛЮДИЯ \/\//
+PRELUDE \/\//=ПРЕЛЮДИЯ \/\//
+PRELUDE \/\// F=ПРЕЛЮДИЯ \/\// П
+PRELUDE \/\// FI=ПРЕЛЮДИЯ \/\// ПЕ
+PRELUDE \/\// FIR=ПРЕЛЮДИЯ \/\// ПЕР
+PRELUDE \/\// FIRS=ПРЕЛЮДИЯ \/\// ПЕРВ
+PRELUDE \/\// FIRST=ПРЕЛЮДИЯ \/\// ПЕРВЫЙ
 
 I=В
 IN=В П
@@ -762,14 +762,14 @@ DITHERING=DITHERING(ПЕРЕВЕСТИ)
 #SETTINGS
 
 # 0-2
-PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
-PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
-PRELUDE \/\// S=ПРЕЛЮДИЕ \/\// В
-PRELUDE \/\// SE=ПРЕЛЮДИЕ \/\// ВТ
-PRELUDE \/\// SEC=ПРЕЛЮДИЕ \/\// ВТО
-PRELUDE \/\// SECO=ПРЕЛЮДИЕ \/\// ВТОР
-PRELUDE \/\// SECON=ПРЕЛЮДИЕ \/\// ВТОРО
-PRELUDE \/\// SECOND=ПРЕЛЮДИЕ \/\// ВТОРОЙ
+PRELUDE \/\//=ПРЕЛЮДИЯ \/\//
+PRELUDE \/\//=ПРЕЛЮДИЯ \/\//
+PRELUDE \/\// S=ПРЕЛЮДИЯ \/\// В
+PRELUDE \/\// SE=ПРЕЛЮДИЯ \/\// ВТ
+PRELUDE \/\// SEC=ПРЕЛЮДИЯ \/\// ВТО
+PRELUDE \/\// SECO=ПРЕЛЮДИЯ \/\// ВТОР
+PRELUDE \/\// SECON=ПРЕЛЮДИЯ \/\// ВТОРО
+PRELUDE \/\// SECOND=ПРЕЛЮДИЯ \/\// ВТОРОЙ
 # 0-2
 # 0-S
 You have found a <color%3Dorange>SECRET MISSION</color>.=Вы нашли <color%3Dorange>СЕКРЕТНУЮ МИССИЮ</color>.
@@ -779,25 +779,25 @@ MISSION:=МИССИЯ:
 COMPLETE=ВЫПОЛНЕНА
 # 0-S 
 # 0-3
-PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
-PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
-PRELUDE \/\// T=ПРЕЛЮДИЕ \/\// Т
-PRELUDE \/\// TH=ПРЕЛЮДИЕ \/\// ТР
-PRELUDE \/\// THI=ПРЕЛЮДИЕ \/\// ТРЕ
-PRELUDE \/\// THIR=ПРЕЛЮДИЕ \/\// ТРЕТИ
-PRELUDE \/\// THIRD=ПРЕЛЮДИЕ \/\// ТРЕТИЙ
+PRELUDE \/\//=ПРЕЛЮДИЯ \/\//
+PRELUDE \/\//=ПРЕЛЮДИЯ \/\//
+PRELUDE \/\// T=ПРЕЛЮДИЯ \/\// Т
+PRELUDE \/\// TH=ПРЕЛЮДИЯ \/\// ТР
+PRELUDE \/\// THI=ПРЕЛЮДИЯ \/\// ТРЕ
+PRELUDE \/\// THIR=ПРЕЛЮДИЯ \/\// ТРЕТИ
+PRELUDE \/\// THIRD=ПРЕЛЮДИЯ \/\// ТРЕТИЙ
 DOUBLE DOWN=ВНИЗ И ВНИЗ
 <color%3Dcyan>SHOTGUN</color>: Press '<color%3Dorange>Right Button</color>' to fire an explosive. Hold to charge distance.=<color%3Dcyan>ДРОБОВИК</color>: Нажми '<color%3Dorange>Правую Кнопку Мыши</color>', чтобы выпустить взрывной заряд. Удерживай для увеличения дальности.
 # 0-3
 # 0-4
-PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
-PRELUDE \/\//=ПРЕЛЮДИЕ \/\//
-PRELUDE \/\// F=ПРЕЛЮДИЕ \/\// Ч
-PRELUDE \/\// FO=ПРЕЛЮДИЕ \/\// ЧЕ
-PRELUDE \/\// FOU=ПРЕЛЮДИЕ \/\// ЧЕТ
-PRELUDE \/\// FOUR=ПРЕЛЮДИЕ \/\// ЧЕТВ
-PRELUDE \/\// FOURT=ПРЕЛЮДИЕ \/\// ЧЕТВЁР
-PRELUDE \/\// FOURTH=ПРЕЛЮДИЕ \/\// ЧЕТВЁРТЫЙ
+PRELUDE \/\//=ПРЕЛЮДИЯ \/\//
+PRELUDE \/\//=ПРЕЛЮДИЯ \/\//
+PRELUDE \/\// F=ПРЕЛЮДИЯ \/\// Ч
+PRELUDE \/\// FO=ПРЕЛЮДИЯ \/\// ЧЕ
+PRELUDE \/\// FOU=ПРЕЛЮДИЯ \/\// ЧЕТ
+PRELUDE \/\// FOUR=ПРЕЛЮДИЯ \/\// ЧЕТВ
+PRELUDE \/\// FOURT=ПРЕЛЮДИЯ \/\// ЧЕТВЁР
+PRELUDE \/\// FOURTH=ПРЕЛЮДИЯ \/\// ЧЕТВЁРТЫЙ
 A ONE-MACHINE ARMY=ОДИН В ПОЛЕ ВОЙН
 <color%3Dred>RED SOUL ORBS</color> give <color%3Dlime>200 HEALTH</color>. \nOverheal cannot be regained with blood.=<color%3Dred>КРАСНЫЕ СФЕРЫ ДУШ</color> дают <color%3Dlime>200 ЕДИНИЦ ЗДОРОВЬЯ</color>. \nИзбыток здоровья нельзя восстановить кровью.
 SLIDE UNINTERUPTED FOR 17 SECONDS=ПРОСКОЛЬЗИ НЕПРЕРВАННЫМ 17 СЕКУНД
@@ -817,3 +817,13 @@ Are you sure you want to\n<color\=orange>RESTART</color> this mission?=Вы ув
 This pop-up can be disabled in the options menu=Это всплывающее окно можно отключить в настройках
 RESTART=НАЧАТЬ С НАЧАЛА
 Taking damage <color\=orange>TEMPORARILY</color> reduces your <color\=orange>MAXIMUM HP</color>.\n"<color\=silver>HARD DAMAGE</color>" recovers faster when playing <color\=orange>STYLISHLY</color>.=Получение урона <color\=orange>ВРЕМЕННО</color> уменьшает твоё <color\=orange>МАКСИМАЛЬНОЕ ЗДОРОВЬЕ</color>.\n"<color\=silver>HARD DAMAGE</color>" восстановится быстрее, если играть <color\=orange>СТИЛЬНО</color>.
+YOU'RE NOT SUPPOSED TO BE HERE.=ТЕБЯ ЗДЕСЬ БЫТЬ НЕ ДОЛЖНО.
+ROCKET LAUNCHER=РАКЕТНИЦА
+INFO=ИНФОРМАЦИЯ
+COLOR=ЦВЕТ
+PRESET=ПРЕСЕТ
+TEMPLATE=ШАБЛОН
+ARMS=РУКИ
+STRAY=БРОДЯГА
+THE CORPSE OF KING MINOS=ТРУП КОРОЛЯ МИНОСА
+

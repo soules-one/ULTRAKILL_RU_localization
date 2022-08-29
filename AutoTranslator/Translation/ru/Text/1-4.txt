@@ -1,0 +1,11 @@
+CLAIR DE LUNE=ЛУННЫЙ СВЕТ
+Nothing happens, but you feel a strange satisfaction. You decide to name it Hank.=Ничего не произошло, но ты чуствуешь странное удовлетворение. Ты решил назвать его Хэнк.
+<color%3Dorange>ALTERNATE</color> versions will change a weapon's base behavior. They can be equipped at the <color%3Dorange>SHOP</color>.=<color%3Dorange>АЛЬТЕРНАТИВНЫЕ</color> версии меняют обычное поведение оружия. Их можно экипировать в <color%3Dorange>МАГАЗИНЕ</color>.
+<color\=orange>PICK UP</color> TO READ.=<color\=orange>ВОЗЬМИ</color>, ЧТОБЫ ПРОЧИТАТЬ.
+SCANNING..=СКАНИРУЮ..
+Cycle through <color\=orange>EQUIPPED</color> arms with '<color\=orange>G</color>'.=Переключай <color\=orange>ЭКИПИРОВАННЫЕ</color> руки, нажимая на '<color\=orange>G</color>'.
+
+
+
+
+

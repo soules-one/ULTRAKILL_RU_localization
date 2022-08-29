@@ -1,0 +1,4 @@
+<color%3Dred>KNUCKLE BLASTER</color>: <color%3Dorange>HOLD</color> '<color%3Dorange>F</color>' to create a <color%3Dorange>SHOCKWAVE</color> that knocks enemies back.=<color%3Dred>KNUCKLE BLASTER</color>: <color%3Dorange>УДЕРЖИВАЙ</color> '<color%3Dorange>F</color>' для создания <color%3Dorange>УДАРНОЙ ВОЛНЫ</color>, отбрасывающей врагов.
+BRIDGEBURNER=МОСТОЖИГАТЕЛЬ
+<color%3Dcyan>DASH JUMP</color>: Keep the <color%3Dcyan>DASH</color> momentum by <color%3Dorange>JUMPING</color> during it.=<color%3Dcyan>DASH JUMP</color>: Сохраняй скорость <color%3Dcyan>DASH</color>'а <color%3Dorange>ПРЫГАЯ</color> во время применения.
+DON'T OPEN ANY NORMAL DOORS=НЕ ОТКРЫВАЙ ОБЫЧНЫЕ ДВЕРИ
