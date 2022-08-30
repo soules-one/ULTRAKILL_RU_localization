@@ -826,4 +826,12 @@ TEMPLATE=ШАБЛОН
 ARMS=РУКИ
 STRAY=БРОДЯГА
 THE CORPSE OF KING MINOS=ТРУП КОРОЛЯ МИНОСА
+CHARGE=ЗАРЯД
+WEAPON=ОРУЖИЕ
+STAMINA=ЭНЕРГИЯ
+ARM=РУКА
+FRESH: 1.50x=СВЕЖО: 1.50x
+USED: 1.00x=ПРИМЕНЕНО: 1.00x
+STALE: 0.50x=ДУШНО:  0.50x
+DULL: 0.00x=СКУЧНО: 0.00x
 
