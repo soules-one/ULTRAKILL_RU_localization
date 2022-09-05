@@ -1,2 +1,2 @@
 DEATH AT 20,000 VOLTS=СМЕРТЬ ПОД 20.000 ВОЛЬТ
-BEAT THE LEVEL IN UNDER 60 SECONDS=ПРОЙДИТЕ УРОВЕНЬ МЕНЬШЕ ЧЕМ ЗА 60 СЕКУНД
+BEAT THE LEVEL IN UNDER 60 SECONDS=ПРОЙДИ УРОВЕНЬ МЕНЬШЕ ЧЕМ ЗА 60 СЕКУНД
