@@ -26,3 +26,4 @@ THE BURNING WORLD=ГОРЯЩИЙ МИР
 A <color3D%cyan>BLUE FLASH</color> means an attack is <color3D%cyan>UNPARRIABLE</color>=<color3D%cyan>СИНЯЯ ВСПЫШКА</color> означает, что атака <color3D%cyan>НЕ ПАРРИРУЕМА</color>
 CANCEROUS RODENT=РАКОВЫЙ ГРЫЗУН
 VERY CANCEROUS RODENT=ОЧЕНЬ РАКОВЫЙ ГРЫЗУН
+DO NOT PICK UP ANY SKULLS=НЕ ПОДНИМАЙ НИКАКИЕ ЧЕРЕПА
