@@ -1,0 +1,18 @@
+TOMB OF KINGS=ГРОБНИЦА КОРОЛЕЙ
+<color\=#FFC49E>You cannot imagine what you'll face here</color>=Ты не представляешь, что тебя здесь ждёт 
+MYSTERIOUS DRUID KNIGHT (& OWL)=МИСТИЧЕСКИЙ РЫЦАРЬ-ДРУИД (И ФИЛИН)
+I'm gonna shoot em with a gun=Я буду стрелять в них из пушки
+
+Through the magic of the Druids, I increase my speed!=Магией друидов, я  увеличу свою скорость!
+Finally, our waiting puzzle is over=Наконец, наша загадка ожидания завершена
+What=Что
+Why are we in the past=Почему мы в прошлом
+Just fucking hit em=Да просто блять попади по ним
+Feel my maximum speed!=Почувствуй мою максимальную скорость!
+Slow down=Сбавь обороты
+Use the salt!=Используй соль!
+I'm reaching!=Я достаю!
+Oh great, now we lost the fight, fantastic=Замечательно, мы проиграли бой, фантастика
+Hold still=Стоять
+I'm going to fucking poison you=Да я тебя отравлю нахуй
+PRESS "<color\=orange>F</color>" to CLOSE=НАЖМИ "<color\=orange>F</color>" чтобы ЗАКРЫТЬ
