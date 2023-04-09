@@ -2,7 +2,9 @@
 Архив нашего старого незаконченного перевода ULTRAKILL
 
 Актуальный проект по переводу - [UltrakULL](https://github.com/ClearwaterUK/UltrakULL)
+
 Гайд по установке нового русификатора - [ссылка](https://youtu.be/7GiChkSJrWo)
+
 Ниже старая информация.
 
 
